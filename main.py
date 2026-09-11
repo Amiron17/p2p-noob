@@ -1,4 +1,5 @@
 from bybit import get_orders
+from collector import collect_market_snapshot
 
 min_orders = 500
 min_completion_rate = 98
@@ -13,6 +14,13 @@ else:
         print(f"Merchant: {order['merchant']}")
         print(f"Price: {order['price']}")
         print(f"Limits: {order['min_amount']} - {order['max_amount']}")
-        print(f"Orders: {order['order_num']}")
+        print(f"Orders: {order['recent_order_num']}")
         print(f"Execute rate: {order['recent_execute_rate']}")
         print('---')
+
+
+
+snapshot = collect_market_snapshot('100000')
+
+print(f'Collected orders: {len(snapshot)}')
+print(snapshot[:3])

@@ -1,62 +1,89 @@
 import requests
 
-def get_orders(min_orders, min_completion_rate):
+def get_orders(min_orders: int, min_completion_rate: float) -> list[dict]:
     url = 'https://www.bybit.com/x-api/fiat/otc/item/online'
 
     payload = {
-        'amount': '', # amount of money I paste
-        'authMaker': True, # verified users
+        'amount': '',
+        'authMaker': True,
         'bulkMaker': False,
         'canTrade': True,
-        'countryCode': "",
-        'currencyId': "RUB",
+        'countryCode': '',
+        'currencyId': 'RUB',
         'itemRegion': 1,
-        'page': "1",
+        'page': '1',
         'payment': [],
         'paymentPeriod': [],
-        'side': "1",
-        'size': "10",
-        'sortStrategyCode': "DEFAULT_SELL",
-        'sortType': "OVERALL_RANKING", #from lowest to highest
-        'tokenId': "USDT",
+        'side': '1',
+        'size': '10',
+        'sortStrategyCode': 'DEFAULT_SELL',
+        'sortType': 'OVERALL_RANKING',
+        'tokenId': 'USDT',
         'tradeWith': False,
-        'userId': "",
+        'userId': '',
         'vaMaker': False,
-        'verificationFilter': 0
+        'verificationFilter': 0,
     }
 
     items = fetch_orders(url, payload)
-    suitable_orders = filter_orders(items, min_orders, min_completion_rate)
+    orders = normalize_orders(items)
+    suitable_orders = filter_orders(orders, min_orders, min_completion_rate)
+
     return suitable_orders
 
-def filter_orders(items: list[dict], min_orders:int, min_completion_rate:int) -> list[dict]:
-    suitable_orders = []
+
+def normalize_orders(items: list[dict]) -> list[dict]:
     orders = []
-    for order in items:
-        single_order = {
-            'merchant': order['nickName'],
-            'price': float(order['price']),
-            'min_amount': float(order['minAmount']),
-            'max_amount': float(order['maxAmount']),
-            'recent_execute_rate': float(order['recentExecuteRate']),
-            'order_num': int(order['recentOrderNum']),
-        }
-        orders.append(single_order)
 
-        if int(order['recentOrderNum']) >= min_orders and int(order['recentExecuteRate']) >= min_completion_rate:
-            suitable_order = {
-                'merchant': order['nickName'],
-                'price': float(order['price']),
-                'min_amount': float(order['minAmount']),
-                'max_amount': float(order['maxAmount']),
-                'recent_execute_rate': float(order['recentExecuteRate']),
-                'order_num': int(order['recentOrderNum']),
-            }
-            suitable_orders.append(suitable_order)
-    print(len(orders))
+    for item in items:
+        order = {
+            # Identity
+            'order_id': item['id'],
+            'merchant_id': item['userMaskId'],
+            'merchant': item['nickName'],
+
+            # Price and limits
+            'price': float(item['price']),
+            'min_amount': float(item['minAmount']),
+            'max_amount': float(item['maxAmount']),
+
+            # Merchant stats
+            'recent_order_num': int(item['recentOrderNum']),
+            'recent_execute_rate': float(item['recentExecuteRate']),
+
+            # Order context
+            'created_at': int(item['createDate']),
+            'payment_period': int(item['paymentPeriod']),
+
+            # Potentially useful for liquidity analysis
+            'last_quantity': float(item['lastQuantity']),
+            'quantity': float(item['quantity']),
+            'executed_quantity': float(item['executedQuantity']),
+
+            # Potentially useful merchant timing signals
+            'latest_release_time': int(item['latestReleaseTime']),
+            'latest_pay_time': int(item['latestPayTime']),
+
+            # Raw trading conditions text
+            'remark': item['remark'],
+        }
+
+        orders.append(order)
+
+    return orders
+
+
+def filter_orders(orders: list[dict], min_orders: int, min_completion_rate: float) -> list[dict]:
+    suitable_orders = []
+
+    for order in orders:
+        if order['recent_order_num'] >= min_orders and order['recent_execute_rate'] >= min_completion_rate:
+            suitable_orders.append(order)
+
     return suitable_orders
 
-def fetch_orders(url:str, payload:dict) -> list[dict]:
+
+def fetch_orders(url: str, payload: dict) -> list[dict]:
     try:
         response = requests.post(url, json=payload, timeout=15)
         response.raise_for_status()
@@ -64,12 +91,12 @@ def fetch_orders(url:str, payload:dict) -> list[dict]:
     except requests.RequestException as error:
         print(f'Bybit request failed: {error}')
         return []
-    
+
     data = response.json()
 
     if data['result'] is None:
         raise RuntimeError(f'Bybit returned an error: {data}')
 
     items = data['result']['items']
-    return items
 
+    return items
