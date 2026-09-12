@@ -1,4 +1,5 @@
 import requests
+import time
 
 def get_orders(min_orders: int, min_completion_rate: float) -> list[dict]:
     url = 'https://www.bybit.com/x-api/fiat/otc/item/online'
@@ -84,13 +85,20 @@ def filter_orders(orders: list[dict], min_orders: int, min_completion_rate: floa
 
 
 def fetch_orders(url: str, payload: dict) -> list[dict]:
-    try:
-        response = requests.post(url, json=payload, timeout=15)
-        response.raise_for_status()
+    max_attempts = 3
+    for attempt in range(1, max_attempts + 1):
+        try:
+            response = requests.post(url, json=payload, timeout=15)
+            break
+            
+        except (requests.Timeout, requests.ConnectionError) as error:
+            print(f'Bybit request failed, attempt {attempt}/{max_attempts}: {error}')
+            if attempt == max_attempts:
+                raise
 
-    except requests.RequestException as error:
-        print(f'Bybit request failed: {error}')
-        return []
+            time.sleep(attempt)
+
+    response.raise_for_status()
 
     data = response.json()
 
