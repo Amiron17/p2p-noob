@@ -21,7 +21,7 @@ def create_snapshot(
     connection,
     token_id,
     currency_id,
-    amount,
+    side,
     collection_started_at,
     collection_finished_at,
 ):
@@ -32,7 +32,7 @@ def create_snapshot(
             collection_finished_at,
             token_id,
             currency_id,
-            amount
+            side
         )
         VALUES (%s, %s, %s, %s, %s)
         RETURNING id;
@@ -42,7 +42,7 @@ def create_snapshot(
             collection_finished_at,
             token_id,
             currency_id,
-            amount,
+            side,
         ),
     ).fetchone()
 
@@ -97,13 +97,20 @@ def save_order(connection, snapshot_id, order):
         ),
     )
 
-def save_market_snapshot(orders, token_id, currency_id, amount, collection_started_at, collection_finished_at):
+def save_market_snapshot(
+    orders,
+    token_id,
+    currency_id,
+    side,
+    collection_started_at,
+    collection_finished_at,
+):
     with connect_to_database() as connection:
         snapshot_id = create_snapshot(
             connection,
             token_id,
             currency_id,
-            amount,
+            side,
             collection_started_at,
             collection_finished_at,
         )

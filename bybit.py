@@ -1,11 +1,24 @@
 import requests
 import time
+from pprint import pprint
 
-def get_orders(min_orders: int, min_completion_rate: float) -> list[dict]:
+PAYMENT_METHODS = {
+    'mobile_top_up': '40',
+    'cash_in_person': '90',
+    'bank_transfer': '14',
+    'cash_deposit_to_bank': '18',
+    'pay_api': '784',
+    'neopass_qr_payments_api': '824',
+    'qr_pay_api': '825',
+}
+
+def get_orders(amount: str, payment_method: str) -> list[dict]:
     url = 'https://www.bybit.com/x-api/fiat/otc/item/online'
 
+    payment_id = PAYMENT_METHODS[payment_method]
+
     payload = {
-        'amount': '',
+        'amount': amount,
         'authMaker': True,
         'bulkMaker': False,
         'canTrade': True,
@@ -13,10 +26,10 @@ def get_orders(min_orders: int, min_completion_rate: float) -> list[dict]:
         'currencyId': 'RUB',
         'itemRegion': 1,
         'page': '1',
-        'payment': [],
+        'payment': [payment_id],
         'paymentPeriod': [],
         'side': '1',
-        'size': '10',
+        'size': '100',
         'sortStrategyCode': 'DEFAULT_SELL',
         'sortType': 'OVERALL_RANKING',
         'tokenId': 'USDT',
@@ -27,8 +40,15 @@ def get_orders(min_orders: int, min_completion_rate: float) -> list[dict]:
     }
 
     items = fetch_orders(url, payload)
+    pprint(items[0])
     orders = normalize_orders(items)
-    suitable_orders = filter_orders(orders, min_orders, min_completion_rate)
+    suitable_orders = filter_orders(orders)
+
+    if not suitable_orders:
+        raise ValueError('No suitable orders found')
+
+    # на всякий пожарный, если вдруг что сьедет после фильтрации и нормализации. время это не сжирает
+    suitable_orders = sorted(suitable_orders, key=lambda order: order['price'])
 
     return suitable_orders
 
@@ -67,6 +87,10 @@ def normalize_orders(items: list[dict]) -> list[dict]:
 
             # Raw trading conditions text
             'remark': item['remark'],
+
+            # Additional verification requirements
+            'verification_required': bool(item['verificationOrderSwitch']),
+            'verification_labels': item['verificationOrderLabels'],
         }
 
         orders.append(order)
@@ -74,7 +98,9 @@ def normalize_orders(items: list[dict]) -> list[dict]:
     return orders
 
 
-def filter_orders(orders: list[dict], min_orders: int, min_completion_rate: float) -> list[dict]:
+def filter_orders(orders: list[dict]) -> list[dict]:
+    min_orders = 500
+    min_completion_rate = 98
     suitable_orders = []
 
     for order in orders:

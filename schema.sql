@@ -4,7 +4,7 @@ CREATE TABLE IF NOT EXISTS market_snapshots (
     collection_finished_at TIMESTAMPTZ NOT NULL,
     token_id TEXT NOT NULL,
     currency_id TEXT NOT NULL,
-    amount NUMERIC(18, 2) NOT NULL
+    side TEXT NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS market_orders (
