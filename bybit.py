@@ -13,7 +13,11 @@ PAYMENT_METHODS = {
 }
 
 
-def get_orders(amount: str, payment_method: str) -> tuple[list[dict], dict]:
+def get_orders(
+    amount: str,
+    payment_method: str,
+    return_normalized: bool = False,
+) -> tuple[list[dict], dict] | tuple[list[dict], list[dict], dict]:
     total_started_at = time.perf_counter()
 
     url = 'https://www.bybit.com/x-api/fiat/otc/item/online'
@@ -76,6 +80,9 @@ def get_orders(amount: str, payment_method: str) -> tuple[list[dict], dict]:
         'qualified_orders': len(suitable_orders),
     }
 
+    if return_normalized:
+        return suitable_orders, orders, performance
+
     return suitable_orders, performance
 
 
@@ -106,6 +113,7 @@ def normalize_orders(items: list[dict]) -> list[dict]:
             # Potentially useful for liquidity analysis
             'last_quantity': float(item['lastQuantity']),
             'quantity': float(item['quantity']),
+            'frozen_quantity': float(item['frozenQuantity']),
             'executed_quantity': float(item['executedQuantity']),
 
             # Potentially useful merchant timing signals
@@ -129,9 +137,11 @@ def normalize_orders(items: list[dict]) -> list[dict]:
     return orders
 
 
-def filter_orders(orders: list[dict]) -> list[dict]:
-    min_orders = 500
-    min_completion_rate = 98
+def filter_orders(
+    orders: list[dict],
+    min_orders: int = 400,
+    min_completion_rate: float = 99,
+) -> list[dict]:
     suitable_orders = []
 
     for order in orders:

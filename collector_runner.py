@@ -1,13 +1,17 @@
 import time
+
 from datetime import datetime
+from pathlib import Path
 
 from collector import collect_market_snapshot
 from database import save_market_snapshot
+from reference import get_usd_rub_reference
 
+interval_seconds = 140
 
-interval_seconds = 180
-
-log_file = 'v2_night_log.txt'
+DATA_DIR = Path(__file__).resolve().parent / 'data'
+DATA_DIR.mkdir(exist_ok=True)
+log_file = DATA_DIR / 'v2_collector_log.txt'
 
 
 while True:
@@ -15,6 +19,8 @@ while True:
 
     print()
     print('COLLECTION STARTED')
+
+    reference, reference_performance = get_usd_rub_reference()
 
     (
         orders,
@@ -30,10 +36,18 @@ while True:
         side='1',
         collection_started_at=collection_started_at,
         collection_finished_at=collection_finished_at,
+        reference_rate=reference['rate'],
+        reference_quote_timestamp=reference['quote_timestamp'],
+        reference_fetched_at=reference['fetched_at'],
     )
 
     cycle_time = time.perf_counter() - run_started_at
     checked_at = datetime.now().astimezone()
+
+    quote_age_at_fetch = (
+        reference['fetched_at']
+        - reference['quote_timestamp']
+    ).total_seconds()
 
     first_line = (
         f'[{checked_at:%Y-%m-%d %H:%M:%S}] '
@@ -44,6 +58,15 @@ while True:
         f'unique={collector_performance["unique_orders"]} | '
         f'duplicates={collector_performance["duplicates"]} | '
         f'saved={database_performance["saved_orders"]}'
+    )
+
+    reference_line = (
+        f'REFERENCE: '
+        f'USD/RUB={reference["rate"]:.5f} | '
+        f'quote_time={reference["quote_timestamp"].isoformat()} | '
+        f'quote_age_at_fetch={quote_age_at_fetch:.0f}s | '
+        f'source={reference_performance["source"]} | '
+        f'time={reference_performance["total_time"]:.3f}s'
     )
 
     page_parts = []
@@ -86,6 +109,7 @@ while True:
     )
 
     print(first_line)
+    print(reference_line)
     print(pages_line)
     print(collector_line)
     print(database_line)
@@ -94,6 +118,7 @@ while True:
 
     with open(log_file, 'a', encoding='utf-8') as file:
         file.write(first_line + '\n')
+        file.write(reference_line + '\n')
         file.write(pages_line + '\n')
         file.write(collector_line + '\n')
         file.write(database_line + '\n')

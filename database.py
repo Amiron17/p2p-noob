@@ -1,6 +1,6 @@
 import time
-
 import psycopg
+
 from psycopg.types.json import Jsonb
 
 
@@ -29,6 +29,9 @@ def create_snapshot(
     collection_finished_at,
     order_count,
     collection_duration_seconds,
+    reference_rate,
+    reference_quote_timestamp,
+    reference_fetched_at,
 ):
     result = connection.execute(
         """
@@ -39,9 +42,12 @@ def create_snapshot(
             currency_id,
             side,
             order_count,
-            collection_duration_seconds
+            collection_duration_seconds,
+            reference_rate,
+            reference_quote_timestamp,
+            reference_fetched_at
         )
-        VALUES (%s, %s, %s, %s, %s, %s, %s)
+        VALUES (%s, %s, %s, %s, %s, %s, %s, %s, %s, %s)
         RETURNING id;
         """,
         (
@@ -52,6 +58,9 @@ def create_snapshot(
             side,
             order_count,
             collection_duration_seconds,
+            reference_rate,
+            reference_quote_timestamp,
+            reference_fetched_at,
         ),
     ).fetchone()
 
@@ -76,6 +85,7 @@ def save_order(connection, snapshot_id, order):
             payments,
             last_quantity,
             quantity,
+            frozen_quantity,
             executed_quantity,
             latest_release_time,
             latest_pay_time,
@@ -87,7 +97,7 @@ def save_order(connection, snapshot_id, order):
         )
         VALUES (
             %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s,
-            %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s
+            %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s, %s
         );
         """,
         (
@@ -105,6 +115,7 @@ def save_order(connection, snapshot_id, order):
             Jsonb(order['payments']),
             order['last_quantity'],
             order['quantity'],
+            order['frozen_quantity'],
             order['executed_quantity'],
             order['latest_release_time'],
             order['latest_pay_time'],
@@ -124,6 +135,9 @@ def save_market_snapshot(
     side,
     collection_started_at,
     collection_finished_at,
+    reference_rate,
+    reference_quote_timestamp,
+    reference_fetched_at,
 ):
     total_started_at = time.perf_counter()
 
@@ -153,6 +167,9 @@ def save_market_snapshot(
             collection_finished_at,
             order_count,
             collection_duration_seconds,
+            reference_rate,
+            reference_quote_timestamp,
+            reference_fetched_at,
         )
 
         create_snapshot_time = (

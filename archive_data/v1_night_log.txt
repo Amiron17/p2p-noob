@@ -1,0 +1,892 @@
+[2026-09-14 23:03:17] NO MATCH: TACOS | P2P=86.60 | USD/RUB=84.43170 | edge=-2.568% | target=-2.000%
+order_id=2095534080146399232 | limits=10000-100000 | orders=1119 | rate=98.0% | raw=100 | qualified=65 | quote_age=138s
+PERF: reference_total=0.590s | reference_key_read=0.0001s | reference_http=0.590s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.706s | bybit_fetch=9.706s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.297s
+
+[2026-09-14 23:06:17] NO MATCH: TACOS | P2P=86.60 | USD/RUB=84.45230 | edge=-2.543% | target=-2.000%
+order_id=2095534080146399232 | limits=10000-100000 | orders=1119 | rate=98.0% | raw=100 | qualified=64 | quote_age=138s
+PERF: reference_total=0.674s | reference_key_read=0.0003s | reference_http=0.674s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.734s | bybit_fetch=9.733s | normalize=0.0004s | filter=0.0000s | sort=0.0000s | cycle=10.409s
+
+[2026-09-14 23:09:16] NO MATCH: TACOS | P2P=86.60 | USD/RUB=84.49620 | edge=-2.490% | target=-2.000%
+order_id=2095534080146399232 | limits=10000-100000 | orders=1119 | rate=98.0% | raw=100 | qualified=65 | quote_age=137s
+PERF: reference_total=0.558s | reference_key_read=0.0002s | reference_http=0.558s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.808s | bybit_fetch=8.807s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.367s
+
+[2026-09-14 23:12:17] NO MATCH: M4za | P2P=87.00 | USD/RUB=84.50193 | edge=-2.956% | target=-2.000%
+order_id=2087567445364154368 | limits=1000-61500 | orders=844 | rate=99.0% | raw=100 | qualified=64 | quote_age=138s
+PERF: reference_total=0.506s | reference_key_read=0.0002s | reference_http=0.506s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.074s | bybit_fetch=10.074s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.582s
+
+[2026-09-14 23:15:16] NO MATCH: Крипто_Лид | P2P=86.80 | USD/RUB=84.45111 | edge=-2.781% | target=-2.000%
+order_id=2099577460266491904 | limits=5000-15000 | orders=2315 | rate=100.0% | raw=100 | qualified=63 | quote_age=137s
+PERF: reference_total=0.592s | reference_key_read=0.0002s | reference_http=0.591s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.810s | bybit_fetch=8.810s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.403s
+
+[2026-09-14 23:18:17] NO MATCH: Крипто_Лид | P2P=86.70 | USD/RUB=84.48194 | edge=-2.625% | target=-2.000%
+order_id=2099577460266491904 | limits=5000-15000 | orders=2315 | rate=100.0% | raw=100 | qualified=62 | quote_age=137s
+PERF: reference_total=0.534s | reference_key_read=0.0002s | reference_http=0.533s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.655s | bybit_fetch=9.655s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.190s
+
+[2026-09-14 23:21:17] NO MATCH: Крипто_Лид | P2P=86.70 | USD/RUB=84.44204 | edge=-2.674% | target=-2.000%
+order_id=2099577460266491904 | limits=5000-15000 | orders=2315 | rate=100.0% | raw=100 | qualified=63 | quote_age=137s
+PERF: reference_total=0.538s | reference_key_read=0.0002s | reference_http=0.538s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.667s | bybit_fetch=9.666s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.206s
+
+[2026-09-14 23:24:16] NO MATCH: Easy-money | P2P=86.80 | USD/RUB=84.47131 | edge=-2.757% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-21650 | orders=607 | rate=100.0% | raw=100 | qualified=62 | quote_age=136s
+PERF: reference_total=0.521s | reference_key_read=0.0002s | reference_http=0.521s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.657s | bybit_fetch=8.656s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.179s
+
+[2026-09-14 23:27:17] NO MATCH: Easy-money | P2P=86.65 | USD/RUB=84.48367 | edge=-2.564% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-21650 | orders=607 | rate=100.0% | raw=100 | qualified=62 | quote_age=138s
+PERF: reference_total=0.538s | reference_key_read=0.0002s | reference_http=0.537s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.920s | bybit_fetch=9.919s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.458s
+
+[2026-09-14 23:30:18] NO MATCH: __Atlantis__ | P2P=86.70 | USD/RUB=84.48736 | edge=-2.619% | target=-2.000%
+order_id=2099578437536841728 | limits=8000-50000 | orders=1597 | rate=100.0% | raw=100 | qualified=60 | quote_age=139s
+PERF: reference_total=0.622s | reference_key_read=0.0002s | reference_http=0.621s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.664s | bybit_fetch=10.664s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.287s
+
+[2026-09-14 23:33:16] NO MATCH: Arsen1950 | P2P=86.60 | USD/RUB=84.48515 | edge=-2.503% | target=-2.000%
+order_id=2098109223003127808 | limits=3000-28838 | orders=2161 | rate=100.0% | raw=100 | qualified=59 | quote_age=137s
+PERF: reference_total=0.519s | reference_key_read=0.0002s | reference_http=0.518s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.781s | bybit_fetch=8.781s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.300s
+
+[2026-09-14 23:36:18] NO MATCH: Arsen1950 | P2P=86.60 | USD/RUB=84.47264 | edge=-2.518% | target=-2.000%
+order_id=2098109223003127808 | limits=3000-10068 | orders=2163 | rate=100.0% | raw=100 | qualified=58 | quote_age=138s
+PERF: reference_total=0.518s | reference_key_read=0.0002s | reference_http=0.518s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.660s | bybit_fetch=10.660s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.179s
+
+[2026-09-14 23:39:16] MATCH: LOTA_SS | P2P=84.97 | USD/RUB=84.48488 | edge=-0.574% | target=-2.000%
+order_id=2099563571455459328 | limits=1000-10000 | orders=3034 | rate=99.0% | raw=100 | qualified=59 | quote_age=137s
+PERF: reference_total=0.517s | reference_key_read=0.0002s | reference_http=0.516s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.745s | bybit_fetch=8.745s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.263s
+
+[2026-09-14 23:42:20] MATCH: LOTA_SS | P2P=84.97 | USD/RUB=84.46794 | edge=-0.594% | target=-2.000%
+order_id=2099563571455459328 | limits=1000-10000 | orders=3034 | rate=99.0% | raw=100 | qualified=56 | quote_age=141s
+PERF: reference_total=2.704s | reference_key_read=0.0002s | reference_http=2.703s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.677s | bybit_fetch=10.677s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=13.381s
+
+[2026-09-14 23:45:18] MATCH: LOTA_SS | P2P=84.97 | USD/RUB=84.48974 | edge=-0.568% | target=-2.000%
+order_id=2099563571455459328 | limits=500-10000 | orders=3034 | rate=99.0% | raw=100 | qualified=56 | quote_age=139s
+PERF: reference_total=0.647s | reference_key_read=0.0002s | reference_http=0.647s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.652s | bybit_fetch=10.652s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.300s
+
+[2026-09-14 23:48:16] MATCH: LOTA_SS | P2P=84.97 | USD/RUB=84.49085 | edge=-0.567% | target=-2.000%
+order_id=2099563571455459328 | limits=500-10000 | orders=3034 | rate=99.0% | raw=100 | qualified=57 | quote_age=136s
+PERF: reference_total=0.514s | reference_key_read=0.0002s | reference_http=0.513s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.724s | bybit_fetch=8.724s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.239s
+
+[2026-09-14 23:51:19] MATCH: LOTA_SS | P2P=84.97 | USD/RUB=84.43215 | edge=-0.637% | target=-2.000%
+order_id=2099563571455459328 | limits=500-10000 | orders=3034 | rate=99.0% | raw=100 | qualified=59 | quote_age=139s
+PERF: reference_total=1.558s | reference_key_read=0.0002s | reference_http=1.557s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.632s | bybit_fetch=10.631s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=12.190s
+
+[2026-09-14 23:54:17] NO MATCH: DJM | P2P=86.30 | USD/RUB=84.43739 | edge=-2.206% | target=-2.000%
+order_id=2099586723576147968 | limits=8000-15000 | orders=659 | rate=100.0% | raw=100 | qualified=61 | quote_age=137s
+PERF: reference_total=0.500s | reference_key_read=0.0002s | reference_http=0.500s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.654s | bybit_fetch=9.653s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.155s
+
+[2026-09-14 23:57:18] NO MATCH: TIDEHUNTER | P2P=87.35 | USD/RUB=84.48871 | edge=-3.387% | target=-2.000%
+order_id=2095535377486086144 | limits=10000-11659 | orders=784 | rate=100.0% | raw=100 | qualified=60 | quote_age=138s
+PERF: reference_total=1.535s | reference_key_read=0.0002s | reference_http=1.535s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.613s | bybit_fetch=9.613s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.149s
+
+[2026-09-15 00:00:17] NO MATCH: kryptoNal | P2P=86.70 | USD/RUB=84.34075 | edge=-2.797% | target=-2.000%
+order_id=2088688874301616128 | limits=10000-18065 | orders=1227 | rate=99.0% | raw=100 | qualified=62 | quote_age=138s
+PERF: reference_total=0.659s | reference_key_read=0.0002s | reference_http=0.659s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.752s | bybit_fetch=9.752s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.412s
+
+[2026-09-15 00:03:18] NO MATCH: azahov | P2P=86.80 | USD/RUB=84.48797 | edge=-2.737% | target=-2.000%
+order_id=2098731908889440256 | limits=10000-100000 | orders=6078 | rate=99.0% | raw=100 | qualified=60 | quote_age=138s
+PERF: reference_total=0.524s | reference_key_read=0.0002s | reference_http=0.524s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.657s | bybit_fetch=10.656s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.182s
+
+[2026-09-15 00:06:16] NO MATCH: AlexoCrypt | P2P=86.78 | USD/RUB=84.38237 | edge=-2.841% | target=-2.000%
+order_id=2086895678564343808 | limits=10000-100000 | orders=1677 | rate=100.0% | raw=100 | qualified=60 | quote_age=136s
+PERF: reference_total=0.525s | reference_key_read=0.0002s | reference_http=0.525s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.638s | bybit_fetch=8.637s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.164s
+
+[2026-09-15 00:09:17] NO MATCH: AlexoCrypt | P2P=86.78 | USD/RUB=84.31572 | edge=-2.923% | target=-2.000%
+order_id=2086895678564343808 | limits=10000-100000 | orders=1677 | rate=100.0% | raw=100 | qualified=62 | quote_age=137s
+PERF: reference_total=0.542s | reference_key_read=0.0002s | reference_http=0.542s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.636s | bybit_fetch=9.636s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.179s
+
+[2026-09-15 00:12:18] NO MATCH: __Atlantis__ | P2P=86.60 | USD/RUB=84.35902 | edge=-2.656% | target=-2.000%
+order_id=2099578437536841728 | limits=9000-82357 | orders=1599 | rate=100.0% | raw=100 | qualified=61 | quote_age=138s
+PERF: reference_total=0.511s | reference_key_read=0.0002s | reference_http=0.511s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.629s | bybit_fetch=10.629s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.141s
+
+[2026-09-15 00:15:17] NO MATCH: СryptoKroshka | P2P=86.50 | USD/RUB=84.43194 | edge=-2.449% | target=-2.000%
+order_id=2096934637805891584 | limits=1000-14000 | orders=690 | rate=100.0% | raw=100 | qualified=59 | quote_age=138s
+PERF: reference_total=0.658s | reference_key_read=0.0002s | reference_http=0.658s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.692s | bybit_fetch=9.692s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.352s
+
+[2026-09-15 00:18:17] NO MATCH: СryptoKroshka | P2P=86.50 | USD/RUB=84.43811 | edge=-2.442% | target=-2.000%
+order_id=2096934637805891584 | limits=1000-12125 | orders=690 | rate=100.0% | raw=100 | qualified=60 | quote_age=137s
+PERF: reference_total=0.514s | reference_key_read=0.0002s | reference_http=0.514s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.643s | bybit_fetch=9.642s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.157s
+
+[2026-09-15 00:21:16] NO MATCH: СryptoKroshka | P2P=86.50 | USD/RUB=84.47371 | edge=-2.399% | target=-2.000%
+order_id=2096934637805891584 | limits=1000-14000 | orders=690 | rate=100.0% | raw=100 | qualified=64 | quote_age=136s
+PERF: reference_total=0.521s | reference_key_read=0.0002s | reference_http=0.521s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.635s | bybit_fetch=8.635s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.157s
+
+[2026-09-15 00:24:17] NO MATCH: СryptoKroshka | P2P=86.50 | USD/RUB=84.52405 | edge=-2.338% | target=-2.000%
+order_id=2096934637805891584 | limits=1000-14000 | orders=690 | rate=100.0% | raw=100 | qualified=64 | quote_age=137s
+PERF: reference_total=0.523s | reference_key_read=0.0002s | reference_http=0.523s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.644s | bybit_fetch=9.644s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.168s
+
+[2026-09-15 00:27:18] NO MATCH: TIDEHUNTER | P2P=87.35 | USD/RUB=84.48819 | edge=-3.387% | target=-2.000%
+order_id=2095535377486086144 | limits=10000-11659 | orders=784 | rate=100.0% | raw=100 | qualified=65 | quote_age=138s
+PERF: reference_total=0.559s | reference_key_read=0.0002s | reference_http=0.559s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.652s | bybit_fetch=10.651s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.212s
+
+[2026-09-15 00:30:17] NO MATCH: TIDEHUNTER | P2P=87.35 | USD/RUB=84.43485 | edge=-3.453% | target=-2.000%
+order_id=2095535377486086144 | limits=10000-11659 | orders=784 | rate=100.0% | raw=100 | qualified=63 | quote_age=138s
+PERF: reference_total=0.625s | reference_key_read=0.0002s | reference_http=0.624s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.662s | bybit_fetch=9.662s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.288s
+
+[2026-09-15 00:33:18] NO MATCH: TIDEHUNTER | P2P=87.35 | USD/RUB=84.43468 | edge=-3.453% | target=-2.000%
+order_id=2095535377486086144 | limits=10000-11659 | orders=784 | rate=100.0% | raw=100 | qualified=65 | quote_age=139s
+PERF: reference_total=0.514s | reference_key_read=0.0002s | reference_http=0.514s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.942s | bybit_fetch=10.941s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.457s
+
+[2026-09-15 00:36:16] NO MATCH: cabinet | P2P=86.30 | USD/RUB=84.48489 | edge=-2.148% | target=-2.000%
+order_id=2090344950908686336 | limits=10000-20000 | orders=535 | rate=100.0% | raw=100 | qualified=67 | quote_age=136s
+PERF: reference_total=0.520s | reference_key_read=0.0002s | reference_http=0.519s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.645s | bybit_fetch=8.645s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.166s
+
+[2026-09-15 00:39:18] NO MATCH: TIDEHUNTER | P2P=87.35 | USD/RUB=84.48909 | edge=-3.386% | target=-2.000%
+order_id=2095535377486086144 | limits=10000-11659 | orders=784 | rate=100.0% | raw=100 | qualified=65 | quote_age=138s
+PERF: reference_total=0.379s | reference_key_read=0.0002s | reference_http=0.378s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.636s | bybit_fetch=10.635s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.015s
+
+[2026-09-15 00:42:16] NO MATCH: DJM | P2P=86.50 | USD/RUB=84.49591 | edge=-2.372% | target=-2.000%
+order_id=2099599057371127808 | limits=9000-25000 | orders=664 | rate=100.0% | raw=100 | qualified=67 | quote_age=136s
+PERF: reference_total=0.527s | reference_key_read=0.0002s | reference_http=0.527s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.656s | bybit_fetch=8.656s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.184s
+
+[2026-09-15 00:45:16] NO MATCH: TIDEHUNTER | P2P=87.35 | USD/RUB=84.44002 | edge=-3.446% | target=-2.000%
+order_id=2095535377486086144 | limits=10000-11659 | orders=784 | rate=100.0% | raw=100 | qualified=66 | quote_age=137s
+PERF: reference_total=0.612s | reference_key_read=0.0002s | reference_http=0.612s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.658s | bybit_fetch=8.658s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.270s
+
+[2026-09-15 00:48:17] NO MATCH: Asya70rus | P2P=87.20 | USD/RUB=84.39963 | edge=-3.318% | target=-2.000%
+order_id=2094787832866779136 | limits=1000-40000 | orders=879 | rate=100.0% | raw=100 | qualified=66 | quote_age=137s
+PERF: reference_total=0.517s | reference_key_read=0.0002s | reference_http=0.517s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.648s | bybit_fetch=9.648s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.166s
+
+[2026-09-15 00:51:18] NO MATCH: Asya70rus | P2P=87.20 | USD/RUB=84.48101 | edge=-3.218% | target=-2.000%
+order_id=2094787832866779136 | limits=1000-16680 | orders=879 | rate=100.0% | raw=100 | qualified=66 | quote_age=139s
+PERF: reference_total=0.540s | reference_key_read=0.0002s | reference_http=0.540s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.765s | bybit_fetch=10.764s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.306s
+
+[2026-09-15 00:54:17] NO MATCH: КRАTOS | P2P=86.30 | USD/RUB=84.42852 | edge=-2.217% | target=-2.000%
+order_id=2092537010099240960 | limits=10000-10000 | orders=2173 | rate=100.0% | raw=100 | qualified=66 | quote_age=137s
+PERF: reference_total=0.354s | reference_key_read=0.0002s | reference_http=0.354s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.711s | bybit_fetch=9.710s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.066s
+
+[2026-09-15 00:57:17] NO MATCH: КRАTOS | P2P=86.30 | USD/RUB=84.51942 | edge=-2.107% | target=-2.000%
+order_id=2092537010099240960 | limits=10000-10000 | orders=2173 | rate=100.0% | raw=100 | qualified=67 | quote_age=137s
+PERF: reference_total=0.387s | reference_key_read=0.0002s | reference_http=0.387s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.648s | bybit_fetch=9.648s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.037s
+
+[2026-09-15 01:00:17] NO MATCH: КRАTOS | P2P=86.30 | USD/RUB=84.38289 | edge=-2.272% | target=-2.000%
+order_id=2092537010099240960 | limits=10000-10000 | orders=2174 | rate=100.0% | raw=100 | qualified=65 | quote_age=138s
+PERF: reference_total=0.652s | reference_key_read=0.0002s | reference_http=0.652s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.835s | bybit_fetch=9.834s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.488s
+
+[2026-09-15 01:03:16] NO MATCH: kryptoNal | P2P=86.95 | USD/RUB=84.44522 | edge=-2.966% | target=-2.000%
+order_id=2088688874301616128 | limits=10000-14110 | orders=1238 | rate=99.0% | raw=100 | qualified=64 | quote_age=137s
+PERF: reference_total=0.560s | reference_key_read=0.0002s | reference_http=0.560s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.708s | bybit_fetch=8.708s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.269s
+
+[2026-09-15 01:06:16] NO MATCH: КRАTOS | P2P=86.30 | USD/RUB=84.47530 | edge=-2.160% | target=-2.000%
+order_id=2092537010099240960 | limits=10000-10000 | orders=2175 | rate=100.0% | raw=100 | qualified=66 | quote_age=136s
+PERF: reference_total=0.525s | reference_key_read=0.0002s | reference_http=0.525s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.659s | bybit_fetch=8.659s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.186s
+
+[2026-09-15 01:09:17] NO MATCH: PombuR | P2P=87.25 | USD/RUB=84.48584 | edge=-3.272% | target=-2.000%
+order_id=2099319043647504384 | limits=3000-20000 | orders=1183 | rate=100.0% | raw=100 | qualified=66 | quote_age=137s
+PERF: reference_total=0.530s | reference_key_read=0.0002s | reference_http=0.530s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.639s | bybit_fetch=9.638s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.169s
+
+[2026-09-15 01:12:18] NO MATCH: Easy-money | P2P=86.30 | USD/RUB=84.42748 | edge=-2.218% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-16860 | orders=609 | rate=100.0% | raw=100 | qualified=67 | quote_age=138s
+PERF: reference_total=0.535s | reference_key_read=0.0002s | reference_http=0.535s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.630s | bybit_fetch=10.630s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.166s
+
+[2026-09-15 01:15:16] NO MATCH: БИНАльфред | P2P=86.35 | USD/RUB=84.47675 | edge=-2.217% | target=-2.000%
+order_id=2099595637050961920 | limits=1000-38000 | orders=1181 | rate=100.0% | raw=100 | qualified=67 | quote_age=136s
+PERF: reference_total=0.531s | reference_key_read=0.0002s | reference_http=0.531s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.658s | bybit_fetch=8.657s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.190s
+
+[2026-09-15 01:18:16] MATCH: БИНАльфред | P2P=85.99 | USD/RUB=84.46936 | edge=-1.800% | target=-2.000%
+order_id=2099595637050961920 | limits=1000-38000 | orders=1181 | rate=100.0% | raw=100 | qualified=64 | quote_age=137s
+PERF: reference_total=0.519s | reference_key_read=0.0002s | reference_http=0.519s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.721s | bybit_fetch=8.721s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.240s
+
+[2026-09-15 01:21:17] NO MATCH: PombuR | P2P=87.00 | USD/RUB=84.46383 | edge=-3.003% | target=-2.000%
+order_id=2099319043647504384 | limits=3000-20000 | orders=1183 | rate=100.0% | raw=100 | qualified=64 | quote_age=137s
+PERF: reference_total=0.520s | reference_key_read=0.0002s | reference_http=0.520s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.657s | bybit_fetch=9.657s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.178s
+
+[2026-09-15 01:24:18] NO MATCH: Rayan_FX | P2P=86.80 | USD/RUB=84.47260 | edge=-2.755% | target=-2.000%
+order_id=2067631638274297856 | limits=4000-13000 | orders=11406 | rate=99.0% | raw=100 | qualified=61 | quote_age=138s
+PERF: reference_total=0.509s | reference_key_read=0.0002s | reference_http=0.509s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.656s | bybit_fetch=10.655s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.166s
+
+[2026-09-15 01:27:18] NO MATCH: Rayan_FX | P2P=86.80 | USD/RUB=84.42294 | edge=-2.816% | target=-2.000%
+order_id=2067631638274297856 | limits=10000-30000 | orders=11406 | rate=99.0% | raw=100 | qualified=61 | quote_age=139s
+PERF: reference_total=0.544s | reference_key_read=0.0002s | reference_http=0.544s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.668s | bybit_fetch=10.668s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.214s
+
+[2026-09-15 01:30:18] NO MATCH: Bankster_ | P2P=86.39 | USD/RUB=84.38592 | edge=-2.375% | target=-2.000%
+order_id=2073500630045134848 | limits=10000-10000 | orders=2832 | rate=100.0% | raw=100 | qualified=64 | quote_age=138s
+PERF: reference_total=0.543s | reference_key_read=0.0002s | reference_http=0.542s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.640s | bybit_fetch=10.640s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.184s
+
+[2026-09-15 01:33:16] NO MATCH: Крипто_Лид | P2P=86.50 | USD/RUB=84.40821 | edge=-2.478% | target=-2.000%
+order_id=2099611293457842177 | limits=5000-20000 | orders=2326 | rate=100.0% | raw=100 | qualified=63 | quote_age=136s
+PERF: reference_total=0.519s | reference_key_read=0.0002s | reference_http=0.519s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.651s | bybit_fetch=8.651s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.171s
+
+[2026-09-15 01:36:17] NO MATCH: Bankster_ | P2P=86.24 | USD/RUB=84.49231 | edge=-2.068% | target=-2.000%
+order_id=2073500630045134848 | limits=10000-10000 | orders=2832 | rate=100.0% | raw=100 | qualified=60 | quote_age=138s
+PERF: reference_total=0.502s | reference_key_read=0.0002s | reference_http=0.502s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.845s | bybit_fetch=9.845s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.348s
+
+[2026-09-15 01:39:17] NO MATCH: Крипто_Лид | P2P=86.40 | USD/RUB=84.44158 | edge=-2.319% | target=-2.000%
+order_id=2099611293457842177 | limits=5000-20000 | orders=2326 | rate=100.0% | raw=100 | qualified=58 | quote_age=137s
+PERF: reference_total=0.517s | reference_key_read=0.0002s | reference_http=0.517s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.667s | bybit_fetch=9.667s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.185s
+
+[2026-09-15 01:42:16] MATCH: БИНАльфред | P2P=84.90 | USD/RUB=84.38369 | edge=-0.612% | target=-2.000%
+order_id=2099595637050961920 | limits=1000-19000 | orders=1183 | rate=100.0% | raw=100 | qualified=59 | quote_age=136s
+PERF: reference_total=0.530s | reference_key_read=0.0002s | reference_http=0.530s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.639s | bybit_fetch=8.638s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.169s
+
+[2026-09-15 01:45:17] NO MATCH: Крипто_Лид | P2P=86.40 | USD/RUB=84.33553 | edge=-2.448% | target=-2.000%
+order_id=2099611293457842177 | limits=5000-20000 | orders=2326 | rate=100.0% | raw=100 | qualified=58 | quote_age=137s
+PERF: reference_total=0.536s | reference_key_read=0.0002s | reference_http=0.536s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.642s | bybit_fetch=9.642s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.180s
+
+[2026-09-15 01:48:16] NO MATCH: Крипто_Лид | P2P=86.25 | USD/RUB=84.47901 | edge=-2.096% | target=-2.000%
+order_id=2099611293457842177 | limits=2000-20000 | orders=2326 | rate=100.0% | raw=99 | qualified=53 | quote_age=136s
+PERF: reference_total=0.516s | reference_key_read=0.0002s | reference_http=0.516s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.612s | bybit_fetch=8.612s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.130s
+
+[2026-09-15 01:51:18] NO MATCH: МаниГерл | P2P=86.24 | USD/RUB=84.47784 | edge=-2.086% | target=-2.000%
+order_id=2099616681586589696 | limits=3000-15000 | orders=930 | rate=100.0% | raw=99 | qualified=52 | quote_age=139s
+PERF: reference_total=0.575s | reference_key_read=0.0002s | reference_http=0.575s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.707s | bybit_fetch=10.707s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.283s
+
+[2026-09-15 01:54:18] NO MATCH: Крипто_Лид | P2P=86.25 | USD/RUB=84.48179 | edge=-2.093% | target=-2.000%
+order_id=2099611293457842177 | limits=2000-30000 | orders=2326 | rate=100.0% | raw=99 | qualified=52 | quote_age=139s
+PERF: reference_total=0.505s | reference_key_read=0.0002s | reference_http=0.505s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.922s | bybit_fetch=10.922s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.428s
+
+[2026-09-15 01:57:17] NO MATCH: Крипто_Лид | P2P=86.20 | USD/RUB=84.49313 | edge=-2.020% | target=-2.000%
+order_id=2099611293457842177 | limits=2000-30000 | orders=2326 | rate=100.0% | raw=98 | qualified=53 | quote_age=138s
+PERF: reference_total=0.508s | reference_key_read=0.0002s | reference_http=0.508s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.910s | bybit_fetch=9.910s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.419s
+
+[2026-09-15 02:00:18] NO MATCH: МаниГерл | P2P=86.24 | USD/RUB=84.47218 | edge=-2.093% | target=-2.000%
+order_id=2099618132792606720 | limits=3000-15000 | orders=930 | rate=100.0% | raw=92 | qualified=49 | quote_age=139s
+PERF: reference_total=0.617s | reference_key_read=0.0002s | reference_http=0.617s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.754s | bybit_fetch=10.754s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.372s
+
+[2026-09-15 02:03:18] NO MATCH: GlobalChange1 | P2P=86.20 | USD/RUB=84.47523 | edge=-2.042% | target=-2.000%
+order_id=2088205438218428416 | limits=5000-10000 | orders=1927 | rate=100.0% | raw=98 | qualified=54 | quote_age=139s
+PERF: reference_total=1.538s | reference_key_read=0.0002s | reference_http=1.538s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.663s | bybit_fetch=9.663s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.202s
+
+[2026-09-15 02:06:18] MATCH: CRYPSTER | P2P=86.10 | USD/RUB=84.48440 | edge=-1.912% | target=-2.000%
+order_id=2049194026739073024 | limits=5000-17000 | orders=583 | rate=99.0% | raw=99 | qualified=56 | quote_age=138s
+PERF: reference_total=0.504s | reference_key_read=0.0002s | reference_http=0.504s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.642s | bybit_fetch=10.641s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.147s
+
+[2026-09-15 02:09:18] MATCH: CRYPSTER | P2P=86.10 | USD/RUB=84.48343 | edge=-1.913% | target=-2.000%
+order_id=2049194026739073024 | limits=5000-17000 | orders=583 | rate=99.0% | raw=100 | qualified=59 | quote_age=139s
+PERF: reference_total=0.508s | reference_key_read=0.0002s | reference_http=0.507s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.814s | bybit_fetch=10.814s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.322s
+
+[2026-09-15 02:12:16] MATCH: CRYPSTER | P2P=86.10 | USD/RUB=84.48386 | edge=-1.913% | target=-2.000%
+order_id=2049194026739073024 | limits=5000-17000 | orders=583 | rate=99.0% | raw=100 | qualified=57 | quote_age=137s
+PERF: reference_total=0.566s | reference_key_read=0.0002s | reference_http=0.565s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.754s | bybit_fetch=8.754s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.321s
+
+[2026-09-15 02:15:17] MATCH: CRYPSTER | P2P=85.90 | USD/RUB=84.48380 | edge=-1.676% | target=-2.000%
+order_id=2049194026739073024 | limits=5000-17000 | orders=583 | rate=99.0% | raw=100 | qualified=57 | quote_age=137s
+PERF: reference_total=0.517s | reference_key_read=0.0002s | reference_http=0.517s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.657s | bybit_fetch=9.657s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.175s
+
+[2026-09-15 02:18:17] MATCH: Easy-money | P2P=86.15 | USD/RUB=84.48476 | edge=-1.971% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=610 | rate=100.0% | raw=100 | qualified=57 | quote_age=138s
+PERF: reference_total=0.536s | reference_key_read=0.0002s | reference_http=0.536s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.749s | bybit_fetch=9.749s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.286s
+
+[2026-09-15 02:21:16] MATCH: Easy-money | P2P=86.15 | USD/RUB=84.48730 | edge=-1.968% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=610 | rate=100.0% | raw=99 | qualified=56 | quote_age=136s
+PERF: reference_total=0.392s | reference_key_read=0.0002s | reference_http=0.392s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.662s | bybit_fetch=8.662s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.055s
+
+[2026-09-15 02:24:18] MATCH: Easy-money | P2P=85.95 | USD/RUB=84.48742 | edge=-1.731% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=610 | rate=100.0% | raw=98 | qualified=55 | quote_age=139s
+PERF: reference_total=0.514s | reference_key_read=0.0002s | reference_http=0.514s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.708s | bybit_fetch=10.707s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.223s
+
+[2026-09-15 02:27:18] MATCH: Easy-money | P2P=85.95 | USD/RUB=84.48096 | edge=-1.739% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=610 | rate=100.0% | raw=93 | qualified=50 | quote_age=139s
+PERF: reference_total=0.529s | reference_key_read=0.0002s | reference_http=0.529s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.674s | bybit_fetch=10.674s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.204s
+
+[2026-09-15 02:30:18] MATCH: Easy-money | P2P=85.80 | USD/RUB=84.42538 | edge=-1.628% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=610 | rate=100.0% | raw=92 | qualified=49 | quote_age=138s
+PERF: reference_total=0.530s | reference_key_read=0.0002s | reference_http=0.530s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.619s | bybit_fetch=10.619s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.150s
+
+[2026-09-15 02:33:16] MATCH: Easy-money | P2P=85.80 | USD/RUB=84.49316 | edge=-1.547% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=610 | rate=100.0% | raw=95 | qualified=51 | quote_age=137s
+PERF: reference_total=0.513s | reference_key_read=0.0002s | reference_http=0.513s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.683s | bybit_fetch=8.683s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.198s
+
+[2026-09-15 02:36:18] MATCH: Easy-money | P2P=85.80 | USD/RUB=84.47892 | edge=-1.564% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=610 | rate=100.0% | raw=92 | qualified=50 | quote_age=139s
+PERF: reference_total=1.513s | reference_key_read=0.0002s | reference_http=1.513s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.695s | bybit_fetch=9.695s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.209s
+
+[2026-09-15 02:39:18] MATCH: Easy-money | P2P=85.80 | USD/RUB=84.35972 | edge=-1.707% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=610 | rate=100.0% | raw=91 | qualified=49 | quote_age=139s
+PERF: reference_total=0.541s | reference_key_read=0.0002s | reference_http=0.541s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.793s | bybit_fetch=10.793s | normalize=0.0005s | filter=0.0000s | sort=0.0000s | cycle=11.335s
+
+[2026-09-15 02:42:18] MATCH: Easy-money | P2P=85.80 | USD/RUB=84.43037 | edge=-1.622% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=611 | rate=100.0% | raw=91 | qualified=50 | quote_age=138s
+PERF: reference_total=0.541s | reference_key_read=0.0002s | reference_http=0.541s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.634s | bybit_fetch=10.634s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.176s
+
+[2026-09-15 02:45:18] MATCH: Easy-money | P2P=85.80 | USD/RUB=84.49473 | edge=-1.545% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=611 | rate=100.0% | raw=90 | qualified=50 | quote_age=138s
+PERF: reference_total=0.504s | reference_key_read=0.0002s | reference_http=0.504s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.654s | bybit_fetch=10.653s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.159s
+
+[2026-09-15 02:48:18] MATCH: Easy-money | P2P=85.60 | USD/RUB=84.37571 | edge=-1.451% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11300 | orders=611 | rate=100.0% | raw=90 | qualified=51 | quote_age=139s
+PERF: reference_total=0.506s | reference_key_read=0.0003s | reference_http=0.506s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.756s | bybit_fetch=10.755s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.262s
+
+[2026-09-15 02:51:16] MATCH: ProstoTraid | P2P=85.99 | USD/RUB=84.42874 | edge=-1.849% | target=-2.000%
+order_id=2099580564751417344 | limits=10000-40000 | orders=2529 | rate=100.0% | raw=88 | qualified=49 | quote_age=136s
+PERF: reference_total=0.516s | reference_key_read=0.0002s | reference_http=0.516s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.647s | bybit_fetch=8.646s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.163s
+
+[2026-09-15 02:54:18] MATCH: ProstoTraid | P2P=85.88 | USD/RUB=84.31754 | edge=-1.853% | target=-2.000%
+order_id=2099580564751417344 | limits=10000-40000 | orders=2529 | rate=100.0% | raw=87 | qualified=49 | quote_age=139s
+PERF: reference_total=0.514s | reference_key_read=0.0002s | reference_http=0.513s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.909s | bybit_fetch=10.909s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.423s
+
+[2026-09-15 02:57:17] MATCH: ProstoTraid | P2P=85.88 | USD/RUB=84.42535 | edge=-1.723% | target=-2.000%
+order_id=2099580564751417344 | limits=10000-40000 | orders=2529 | rate=100.0% | raw=83 | qualified=47 | quote_age=137s
+PERF: reference_total=0.525s | reference_key_read=0.0002s | reference_http=0.525s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.636s | bybit_fetch=9.635s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.161s
+
+[2026-09-15 03:00:18] MATCH: ProstoTraid | P2P=85.88 | USD/RUB=84.48915 | edge=-1.646% | target=-2.000%
+order_id=2099580564751417344 | limits=10000-40000 | orders=2529 | rate=100.0% | raw=84 | qualified=48 | quote_age=139s
+PERF: reference_total=0.594s | reference_key_read=0.0002s | reference_http=0.594s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.756s | bybit_fetch=10.756s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.351s
+
+[2026-09-15 03:03:16] MATCH: ProstoTraid | P2P=85.88 | USD/RUB=84.38052 | edge=-1.777% | target=-2.000%
+order_id=2099580564751417344 | limits=10000-40000 | orders=2529 | rate=100.0% | raw=84 | qualified=48 | quote_age=136s
+PERF: reference_total=0.355s | reference_key_read=0.0002s | reference_http=0.354s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.669s | bybit_fetch=8.669s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.024s
+
+[2026-09-15 03:06:17] MATCH: ProstoTraid | P2P=85.88 | USD/RUB=84.44528 | edge=-1.699% | target=-2.000%
+order_id=2099580564751417344 | limits=10000-40000 | orders=2529 | rate=100.0% | raw=85 | qualified=49 | quote_age=137s
+PERF: reference_total=0.520s | reference_key_read=0.0002s | reference_http=0.520s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.639s | bybit_fetch=9.639s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.160s
+
+[2026-09-15 03:09:16] MATCH: ProstoTraid | P2P=85.88 | USD/RUB=84.46014 | edge=-1.681% | target=-2.000%
+order_id=2099580564751417344 | limits=10000-40000 | orders=2529 | rate=100.0% | raw=83 | qualified=49 | quote_age=137s
+PERF: reference_total=0.533s | reference_key_read=0.0002s | reference_http=0.532s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.751s | bybit_fetch=8.751s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.284s
+
+[2026-09-15 03:12:18] MATCH: ProstoTraid | P2P=85.88 | USD/RUB=84.44013 | edge=-1.705% | target=-2.000%
+order_id=2099580564751417344 | limits=10000-40000 | orders=2529 | rate=100.0% | raw=84 | qualified=50 | quote_age=139s
+PERF: reference_total=0.527s | reference_key_read=0.0002s | reference_http=0.527s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.675s | bybit_fetch=10.674s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.203s
+
+[2026-09-15 03:15:16] MATCH: ProstoTraid | P2P=85.88 | USD/RUB=84.44243 | edge=-1.702% | target=-2.000%
+order_id=2099580564751417344 | limits=10000-40000 | orders=2529 | rate=100.0% | raw=83 | qualified=49 | quote_age=137s
+PERF: reference_total=0.540s | reference_key_read=0.0002s | reference_http=0.540s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.793s | bybit_fetch=8.792s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.333s
+
+[2026-09-15 03:18:17] MATCH: ProstoTraid | P2P=85.88 | USD/RUB=84.47246 | edge=-1.666% | target=-2.000%
+order_id=2099580564751417344 | limits=10000-40000 | orders=2529 | rate=100.0% | raw=83 | qualified=49 | quote_age=138s
+PERF: reference_total=0.520s | reference_key_read=0.0002s | reference_http=0.519s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.711s | bybit_fetch=9.711s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.232s
+
+[2026-09-15 03:21:17] MATCH: P2PGreenWood | P2P=85.99 | USD/RUB=84.46775 | edge=-1.802% | target=-2.000%
+order_id=1925456373970812928 | limits=1000-11000 | orders=994 | rate=100.0% | raw=83 | qualified=49 | quote_age=138s
+PERF: reference_total=0.538s | reference_key_read=0.0002s | reference_http=0.538s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.740s | bybit_fetch=9.740s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.279s
+
+[2026-09-15 03:24:18] MATCH: P2PGreenWood | P2P=85.99 | USD/RUB=84.46626 | edge=-1.804% | target=-2.000%
+order_id=1925456373970812928 | limits=1000-11000 | orders=994 | rate=100.0% | raw=83 | qualified=49 | quote_age=138s
+PERF: reference_total=0.506s | reference_key_read=0.0002s | reference_http=0.506s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.628s | bybit_fetch=10.628s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.135s
+
+[2026-09-15 03:27:18] MATCH: P2PGreenWood | P2P=85.99 | USD/RUB=84.46902 | edge=-1.801% | target=-2.000%
+order_id=1925456373970812928 | limits=1000-11000 | orders=994 | rate=100.0% | raw=82 | qualified=48 | quote_age=139s
+PERF: reference_total=0.556s | reference_key_read=0.0002s | reference_http=0.555s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.639s | bybit_fetch=10.639s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.196s
+
+[2026-09-15 03:30:18] MATCH: Крипто_Лид | P2P=86.10 | USD/RUB=84.46556 | edge=-1.935% | target=-2.000%
+order_id=2099641115158413312 | limits=5000-30000 | orders=2328 | rate=100.0% | raw=82 | qualified=48 | quote_age=139s
+PERF: reference_total=0.495s | reference_key_read=0.0002s | reference_http=0.494s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.904s | bybit_fetch=10.903s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.399s
+
+[2026-09-15 03:33:17] MATCH: tatar.crypto | P2P=85.49 | USD/RUB=84.46959 | edge=-1.208% | target=-2.000%
+order_id=2076094851713871872 | limits=10000-10000 | orders=2350 | rate=100.0% | raw=82 | qualified=47 | quote_age=138s
+PERF: reference_total=0.521s | reference_key_read=0.0002s | reference_http=0.521s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.642s | bybit_fetch=9.642s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.164s
+
+[2026-09-15 03:36:17] MATCH: tatar.crypto | P2P=85.49 | USD/RUB=84.46192 | edge=-1.217% | target=-2.000%
+order_id=2076094851713871872 | limits=10000-10000 | orders=2350 | rate=100.0% | raw=83 | qualified=48 | quote_age=138s
+PERF: reference_total=0.520s | reference_key_read=0.0002s | reference_http=0.520s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.807s | bybit_fetch=9.807s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.328s
+
+[2026-09-15 03:39:17] MATCH: Крипто_Лид | P2P=85.80 | USD/RUB=84.44443 | edge=-1.605% | target=-2.000%
+order_id=2099642929595547648 | limits=3000-20000 | orders=2328 | rate=100.0% | raw=81 | qualified=47 | quote_age=138s
+PERF: reference_total=0.517s | reference_key_read=0.0002s | reference_http=0.517s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.647s | bybit_fetch=9.646s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.164s
+
+[2026-09-15 03:42:16] MATCH: Крипто_Лид | P2P=85.80 | USD/RUB=84.45265 | edge=-1.595% | target=-2.000%
+order_id=2099642929595547648 | limits=3000-20000 | orders=2328 | rate=100.0% | raw=80 | qualified=46 | quote_age=136s
+PERF: reference_total=0.494s | reference_key_read=0.0002s | reference_http=0.494s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.637s | bybit_fetch=8.637s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.132s
+
+[2026-09-15 03:45:18] MATCH: Крипто_Лид | P2P=85.80 | USD/RUB=84.44765 | edge=-1.601% | target=-2.000%
+order_id=2099642929595547648 | limits=10000-20000 | orders=2329 | rate=100.0% | raw=81 | qualified=50 | quote_age=139s
+PERF: reference_total=0.513s | reference_key_read=0.0002s | reference_http=0.513s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.646s | bybit_fetch=10.645s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.159s
+
+[2026-09-15 03:48:16] MATCH: Крипто_Лид | P2P=85.50 | USD/RUB=84.43315 | edge=-1.264% | target=-2.000%
+order_id=2099642929595547648 | limits=10000-20000 | orders=2329 | rate=100.0% | raw=83 | qualified=50 | quote_age=136s
+PERF: reference_total=0.499s | reference_key_read=0.0002s | reference_http=0.499s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.612s | bybit_fetch=8.612s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.112s
+
+[2026-09-15 03:51:16] MATCH: Крипто_Лид | P2P=85.50 | USD/RUB=84.48986 | edge=-1.196% | target=-2.000%
+order_id=2099642929595547648 | limits=10000-20000 | orders=2329 | rate=100.0% | raw=79 | qualified=46 | quote_age=137s
+PERF: reference_total=0.509s | reference_key_read=0.0002s | reference_http=0.508s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.645s | bybit_fetch=8.645s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.154s
+
+[2026-09-15 03:54:16] MATCH: Nikita5555 | P2P=86.15 | USD/RUB=84.48302 | edge=-1.973% | target=-2.000%
+order_id=2098336096794607616 | limits=5002-66203 | orders=558 | rate=100.0% | raw=77 | qualified=44 | quote_age=136s
+PERF: reference_total=0.512s | reference_key_read=0.0002s | reference_http=0.511s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.623s | bybit_fetch=8.623s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.136s
+
+[2026-09-15 03:57:17] MATCH: Крипто_Лид | P2P=85.80 | USD/RUB=84.48920 | edge=-1.551% | target=-2.000%
+order_id=2099642929595547648 | limits=10000-20000 | orders=2331 | rate=100.0% | raw=76 | qualified=43 | quote_age=138s
+PERF: reference_total=0.671s | reference_key_read=0.0002s | reference_http=0.671s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.633s | bybit_fetch=9.633s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.305s
+
+[2026-09-15 04:00:18] MATCH: Nikita5555 | P2P=86.15 | USD/RUB=84.48634 | edge=-1.969% | target=-2.000%
+order_id=2098336096794607616 | limits=5002-66203 | orders=558 | rate=100.0% | raw=75 | qualified=42 | quote_age=139s
+PERF: reference_total=0.632s | reference_key_read=0.0002s | reference_http=0.632s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.637s | bybit_fetch=10.637s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.270s
+
+[2026-09-15 04:03:18] NO MATCH: Nikita5555 | P2P=86.15 | USD/RUB=84.44553 | edge=-2.018% | target=-2.000%
+order_id=2098336096794607616 | limits=5002-66203 | orders=558 | rate=100.0% | raw=73 | qualified=41 | quote_age=139s
+PERF: reference_total=0.502s | reference_key_read=0.0002s | reference_http=0.502s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=11.090s | bybit_fetch=11.090s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.593s
+
+[2026-09-15 04:06:20] MATCH: Nikita5555 | P2P=86.15 | USD/RUB=84.49912 | edge=-1.954% | target=-2.000%
+order_id=2098336096794607616 | limits=5002-66203 | orders=558 | rate=100.0% | raw=74 | qualified=42 | quote_age=141s
+PERF: reference_total=2.620s | reference_key_read=0.0002s | reference_http=2.620s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.618s | bybit_fetch=10.618s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=13.239s
+
+[2026-09-15 04:09:18] MATCH: ProstoTraid | P2P=85.66 | USD/RUB=84.50508 | edge=-1.367% | target=-2.000%
+order_id=2099580564751417344 | limits=2000-10000 | orders=2525 | rate=100.0% | raw=76 | qualified=43 | quote_age=139s
+PERF: reference_total=0.519s | reference_key_read=0.0002s | reference_http=0.519s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.661s | bybit_fetch=10.661s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.182s
+
+[2026-09-15 04:12:17] MATCH: ProstoTraid | P2P=85.66 | USD/RUB=84.49691 | edge=-1.376% | target=-2.000%
+order_id=2099580564751417344 | limits=2000-10000 | orders=2525 | rate=100.0% | raw=78 | qualified=44 | quote_age=138s
+PERF: reference_total=0.504s | reference_key_read=0.0002s | reference_http=0.504s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.755s | bybit_fetch=9.755s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.260s
+
+[2026-09-15 04:15:17] MATCH: Nikita5555 | P2P=86.15 | USD/RUB=84.48416 | edge=-1.972% | target=-2.000%
+order_id=2098336096794607616 | limits=5002-66203 | orders=558 | rate=100.0% | raw=75 | qualified=42 | quote_age=138s
+PERF: reference_total=0.554s | reference_key_read=0.0002s | reference_http=0.554s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.636s | bybit_fetch=9.636s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.191s
+
+[2026-09-15 04:18:17] MATCH: Nikita5555 | P2P=86.15 | USD/RUB=84.49500 | edge=-1.959% | target=-2.000%
+order_id=2098336096794607616 | limits=5002-66203 | orders=558 | rate=100.0% | raw=74 | qualified=42 | quote_age=137s
+PERF: reference_total=0.517s | reference_key_read=0.0002s | reference_http=0.517s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.611s | bybit_fetch=9.611s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.129s
+
+[2026-09-15 04:21:18] MATCH: Nikita5555 | P2P=86.15 | USD/RUB=84.49402 | edge=-1.960% | target=-2.000%
+order_id=2098336096794607616 | limits=5002-66203 | orders=558 | rate=100.0% | raw=73 | qualified=42 | quote_age=139s
+PERF: reference_total=0.551s | reference_key_read=0.0002s | reference_http=0.551s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.649s | bybit_fetch=10.649s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.202s
+
+[2026-09-15 04:24:16] NO MATCH: naPlusVibe | P2P=86.91 | USD/RUB=84.48152 | edge=-2.875% | target=-2.000%
+order_id=2098129715667828736 | limits=2000-10000 | orders=2280 | rate=100.0% | raw=73 | qualified=41 | quote_age=137s
+PERF: reference_total=0.515s | reference_key_read=0.0002s | reference_http=0.515s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.650s | bybit_fetch=8.650s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.166s
+
+[2026-09-15 04:27:18] NO MATCH: naPlusVibe | P2P=86.91 | USD/RUB=84.48963 | edge=-2.865% | target=-2.000%
+order_id=2098129715667828736 | limits=2000-10000 | orders=2280 | rate=100.0% | raw=73 | qualified=41 | quote_age=138s
+PERF: reference_total=0.505s | reference_key_read=0.0002s | reference_http=0.505s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.617s | bybit_fetch=10.616s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.122s
+
+[2026-09-15 04:30:16] NO MATCH: naPlusVibe | P2P=86.91 | USD/RUB=84.48560 | edge=-2.870% | target=-2.000%
+order_id=2098129715667828736 | limits=2000-10000 | orders=2280 | rate=100.0% | raw=74 | qualified=42 | quote_age=137s
+PERF: reference_total=0.640s | reference_key_read=0.0002s | reference_http=0.640s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.683s | bybit_fetch=8.683s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.324s
+
+[2026-09-15 04:33:16] NO MATCH: naPlusVibe | P2P=86.91 | USD/RUB=84.48908 | edge=-2.865% | target=-2.000%
+order_id=2098129715667828736 | limits=2000-10000 | orders=2280 | rate=100.0% | raw=76 | qualified=42 | quote_age=137s
+PERF: reference_total=0.533s | reference_key_read=0.0002s | reference_http=0.533s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.648s | bybit_fetch=8.648s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.182s
+
+[2026-09-15 04:36:16] NO MATCH: naPlusVibe | P2P=86.91 | USD/RUB=84.48378 | edge=-2.872% | target=-2.000%
+order_id=2098129715667828736 | limits=2000-10000 | orders=2280 | rate=100.0% | raw=74 | qualified=41 | quote_age=137s
+PERF: reference_total=0.511s | reference_key_read=0.0002s | reference_http=0.511s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.659s | bybit_fetch=8.659s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.171s
+
+[2026-09-15 04:39:18] NO MATCH: naPlusVibe | P2P=86.91 | USD/RUB=84.48043 | edge=-2.876% | target=-2.000%
+order_id=2098129715667828736 | limits=2000-10000 | orders=2280 | rate=100.0% | raw=72 | qualified=41 | quote_age=139s
+PERF: reference_total=0.531s | reference_key_read=0.0002s | reference_http=0.530s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.645s | bybit_fetch=10.645s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.177s
+
+[2026-09-15 04:42:18] NO MATCH: naPlusVibe | P2P=86.91 | USD/RUB=84.47423 | edge=-2.883% | target=-2.000%
+order_id=2098129715667828736 | limits=2000-10000 | orders=2280 | rate=100.0% | raw=75 | qualified=44 | quote_age=139s
+PERF: reference_total=0.521s | reference_key_read=0.0002s | reference_http=0.521s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.620s | bybit_fetch=10.620s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.143s
+
+[2026-09-15 04:45:17] NO MATCH: naPlusVibe | P2P=86.91 | USD/RUB=84.48421 | edge=-2.871% | target=-2.000%
+order_id=2098129715667828736 | limits=2000-10000 | orders=2280 | rate=100.0% | raw=75 | qualified=44 | quote_age=138s
+PERF: reference_total=0.512s | reference_key_read=0.0002s | reference_http=0.512s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.660s | bybit_fetch=9.660s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.173s
+
+[2026-09-15 04:48:16] MATCH: ProstoTraid | P2P=85.89 | USD/RUB=84.47794 | edge=-1.672% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-25000 | orders=2527 | rate=100.0% | raw=75 | qualified=44 | quote_age=137s
+PERF: reference_total=0.501s | reference_key_read=0.0002s | reference_http=0.501s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.682s | bybit_fetch=8.682s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.184s
+
+[2026-09-15 04:51:18] MATCH: ProstoTraid | P2P=85.89 | USD/RUB=84.49427 | edge=-1.652% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-25000 | orders=2527 | rate=100.0% | raw=75 | qualified=42 | quote_age=139s
+PERF: reference_total=0.536s | reference_key_read=0.0002s | reference_http=0.536s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.637s | bybit_fetch=10.636s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.173s
+
+[2026-09-15 04:54:16] MATCH: ProstoTraid | P2P=85.89 | USD/RUB=84.47776 | edge=-1.672% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-25000 | orders=2527 | rate=100.0% | raw=73 | qualified=41 | quote_age=137s
+PERF: reference_total=0.513s | reference_key_read=0.0002s | reference_http=0.513s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.108s | bybit_fetch=9.108s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.622s
+
+[2026-09-15 04:57:16] MATCH: LOTA_SS | P2P=85.74 | USD/RUB=84.49562 | edge=-1.473% | target=-2.000%
+order_id=2099563571455459328 | limits=1000-10000 | orders=2938 | rate=99.0% | raw=73 | qualified=42 | quote_age=137s
+PERF: reference_total=0.532s | reference_key_read=0.0002s | reference_http=0.531s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.763s | bybit_fetch=8.763s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.295s
+
+[2026-09-15 05:00:16] MATCH: LOTA_SS | P2P=85.74 | USD/RUB=84.48018 | edge=-1.491% | target=-2.000%
+order_id=2099563571455459328 | limits=1000-10000 | orders=2938 | rate=99.0% | raw=75 | qualified=44 | quote_age=137s
+PERF: reference_total=0.599s | reference_key_read=0.0002s | reference_http=0.599s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.763s | bybit_fetch=8.763s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.363s
+
+[2026-09-15 05:03:17] MATCH: ProstoTraid | P2P=85.79 | USD/RUB=84.50450 | edge=-1.521% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-25000 | orders=2527 | rate=100.0% | raw=76 | qualified=44 | quote_age=138s
+PERF: reference_total=0.508s | reference_key_read=0.0003s | reference_http=0.508s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.625s | bybit_fetch=9.625s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.134s
+
+[2026-09-15 05:06:18] MATCH: ProstoTraid | P2P=85.79 | USD/RUB=84.49825 | edge=-1.529% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-25000 | orders=2527 | rate=100.0% | raw=72 | qualified=40 | quote_age=139s
+PERF: reference_total=0.517s | reference_key_read=0.0002s | reference_http=0.517s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.628s | bybit_fetch=10.628s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.146s
+
+[2026-09-15 05:09:16] MATCH: ProstoTraid | P2P=85.79 | USD/RUB=84.48938 | edge=-1.539% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-25000 | orders=2527 | rate=100.0% | raw=73 | qualified=41 | quote_age=137s
+PERF: reference_total=0.521s | reference_key_read=0.0003s | reference_http=0.521s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.714s | bybit_fetch=8.714s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.236s
+
+[2026-09-15 05:12:17] MATCH: ProstoTraid | P2P=85.79 | USD/RUB=84.46956 | edge=-1.563% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-25000 | orders=2527 | rate=100.0% | raw=77 | qualified=43 | quote_age=138s
+PERF: reference_total=0.512s | reference_key_read=0.0002s | reference_http=0.512s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.618s | bybit_fetch=9.618s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.131s
+
+[2026-09-15 05:15:17] MATCH: ProstoTraid | P2P=85.66 | USD/RUB=84.46425 | edge=-1.416% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-25000 | orders=2527 | rate=100.0% | raw=77 | qualified=43 | quote_age=138s
+PERF: reference_total=0.557s | reference_key_read=0.0002s | reference_http=0.557s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.746s | bybit_fetch=9.746s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.304s
+
+[2026-09-15 05:18:18] MATCH: ProstoTraid | P2P=85.66 | USD/RUB=84.46046 | edge=-1.420% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-23947 | orders=2527 | rate=100.0% | raw=79 | qualified=46 | quote_age=139s
+PERF: reference_total=0.501s | reference_key_read=0.0002s | reference_http=0.501s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.782s | bybit_fetch=10.782s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.285s
+
+[2026-09-15 05:21:19] NO MATCH: sidzzzu | P2P=86.19 | USD/RUB=84.47426 | edge=-2.031% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1123 | rate=98.0% | raw=78 | qualified=45 | quote_age=140s
+PERF: reference_total=2.667s | reference_key_read=0.0002s | reference_http=2.667s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.632s | bybit_fetch=9.632s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=12.300s
+
+[2026-09-15 05:24:16] MATCH: МаниГерл | P2P=86.10 | USD/RUB=84.48011 | edge=-1.917% | target=-2.000%
+order_id=2099645001462571008 | limits=10000-50000 | orders=919 | rate=100.0% | raw=78 | qualified=47 | quote_age=137s
+PERF: reference_total=0.504s | reference_key_read=0.0002s | reference_http=0.504s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.004s | bybit_fetch=9.004s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.509s
+
+[2026-09-15 05:27:18] MATCH: МаниГерл | P2P=86.10 | USD/RUB=84.48676 | edge=-1.909% | target=-2.000%
+order_id=2099645001462571008 | limits=10000-50000 | orders=919 | rate=100.0% | raw=78 | qualified=47 | quote_age=139s
+PERF: reference_total=0.525s | reference_key_read=0.0002s | reference_http=0.525s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.647s | bybit_fetch=10.647s | normalize=0.0004s | filter=0.0000s | sort=0.0000s | cycle=11.173s
+
+[2026-09-15 05:30:17] MATCH: МаниГерл | P2P=86.10 | USD/RUB=84.47236 | edge=-1.927% | target=-2.000%
+order_id=2099645001462571008 | limits=10000-50000 | orders=919 | rate=100.0% | raw=79 | qualified=47 | quote_age=138s
+PERF: reference_total=0.527s | reference_key_read=0.0002s | reference_http=0.526s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.801s | bybit_fetch=9.801s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.329s
+
+[2026-09-15 05:33:16] MATCH: МаниГерл | P2P=86.10 | USD/RUB=84.47720 | edge=-1.921% | target=-2.000%
+order_id=2099645001462571008 | limits=10000-50000 | orders=919 | rate=100.0% | raw=79 | qualified=47 | quote_age=137s
+PERF: reference_total=0.510s | reference_key_read=0.0002s | reference_http=0.510s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.741s | bybit_fetch=8.741s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.252s
+
+[2026-09-15 05:36:18] MATCH: Frundel | P2P=85.94 | USD/RUB=84.48152 | edge=-1.726% | target=-2.000%
+order_id=2099645950582751232 | limits=10000-10000 | orders=618 | rate=99.0% | raw=82 | qualified=48 | quote_age=139s
+PERF: reference_total=0.542s | reference_key_read=0.0002s | reference_http=0.542s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.638s | bybit_fetch=10.638s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.181s
+
+[2026-09-15 05:39:18] MATCH: МаниГерл | P2P=86.10 | USD/RUB=84.47789 | edge=-1.920% | target=-2.000%
+order_id=2099645001462571008 | limits=10000-50000 | orders=919 | rate=100.0% | raw=79 | qualified=47 | quote_age=139s
+PERF: reference_total=0.586s | reference_key_read=0.0002s | reference_http=0.585s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.651s | bybit_fetch=10.650s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.237s
+
+[2026-09-15 05:42:18] MATCH: sidzzzu | P2P=85.99 | USD/RUB=84.45092 | edge=-1.822% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1114 | rate=98.0% | raw=77 | qualified=47 | quote_age=139s
+PERF: reference_total=0.532s | reference_key_read=0.0002s | reference_http=0.531s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.642s | bybit_fetch=10.642s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.175s
+
+[2026-09-15 05:45:18] MATCH: sidzzzu | P2P=85.99 | USD/RUB=84.45835 | edge=-1.813% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1114 | rate=98.0% | raw=77 | qualified=47 | quote_age=139s
+PERF: reference_total=0.542s | reference_key_read=0.0002s | reference_http=0.542s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.618s | bybit_fetch=10.618s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.162s
+
+[2026-09-15 05:48:20] MATCH: sidzzzu | P2P=85.99 | USD/RUB=84.48983 | edge=-1.776% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1115 | rate=98.0% | raw=73 | qualified=45 | quote_age=141s
+PERF: reference_total=2.630s | reference_key_read=0.0002s | reference_http=2.630s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.746s | bybit_fetch=10.746s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=13.377s
+
+[2026-09-15 05:51:16] MATCH: sidzzzu | P2P=85.99 | USD/RUB=84.48107 | edge=-1.786% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1115 | rate=98.0% | raw=73 | qualified=45 | quote_age=137s
+PERF: reference_total=0.542s | reference_key_read=0.0002s | reference_http=0.542s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.625s | bybit_fetch=8.625s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.169s
+
+[2026-09-15 05:54:18] MATCH: sidzzzu | P2P=85.99 | USD/RUB=84.48822 | edge=-1.778% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1118 | rate=98.0% | raw=74 | qualified=45 | quote_age=139s
+PERF: reference_total=0.563s | reference_key_read=0.0002s | reference_http=0.563s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.635s | bybit_fetch=10.635s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.199s
+
+[2026-09-15 05:57:17] MATCH: sidzzzu | P2P=85.99 | USD/RUB=84.46034 | edge=-1.811% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1119 | rate=98.0% | raw=74 | qualified=45 | quote_age=138s
+PERF: reference_total=0.517s | reference_key_read=0.0002s | reference_http=0.516s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.780s | bybit_fetch=9.780s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.298s
+
+[2026-09-15 06:00:18] MATCH: sidzzzu | P2P=85.79 | USD/RUB=84.47018 | edge=-1.562% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-100000 | orders=1119 | rate=98.0% | raw=74 | qualified=44 | quote_age=139s
+PERF: reference_total=0.664s | reference_key_read=0.0002s | reference_http=0.663s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.727s | bybit_fetch=10.727s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.391s
+
+[2026-09-15 06:03:18] MATCH: sidzzzu | P2P=85.79 | USD/RUB=84.50118 | edge=-1.525% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-100000 | orders=1119 | rate=98.0% | raw=72 | qualified=48 | quote_age=139s
+PERF: reference_total=0.518s | reference_key_read=0.0002s | reference_http=0.518s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.795s | bybit_fetch=10.795s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.314s
+
+[2026-09-15 06:06:18] NO MATCH: sidzzzu | P2P=86.79 | USD/RUB=84.46760 | edge=-2.749% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-100000 | orders=1119 | rate=98.0% | raw=72 | qualified=48 | quote_age=139s
+PERF: reference_total=0.550s | reference_key_read=0.0002s | reference_http=0.549s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.708s | bybit_fetch=10.707s | normalize=0.0005s | filter=0.0000s | sort=0.0000s | cycle=11.258s
+
+[2026-09-15 06:09:17] NO MATCH: sidzzzu | P2P=86.79 | USD/RUB=84.47256 | edge=-2.743% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-100000 | orders=1121 | rate=98.0% | raw=74 | qualified=48 | quote_age=138s
+PERF: reference_total=0.511s | reference_key_read=0.0002s | reference_http=0.510s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.662s | bybit_fetch=9.662s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.174s
+
+[2026-09-15 06:12:19] NO MATCH: sidzzzu | P2P=86.79 | USD/RUB=84.46749 | edge=-2.750% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-100000 | orders=1121 | rate=98.0% | raw=77 | qualified=51 | quote_age=140s
+PERF: reference_total=1.496s | reference_key_read=0.0002s | reference_http=1.496s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.786s | bybit_fetch=10.786s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=12.283s
+
+[2026-09-15 06:15:17] NO MATCH: sidzzzu | P2P=86.19 | USD/RUB=84.48059 | edge=-2.023% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-100000 | orders=1121 | rate=98.0% | raw=76 | qualified=50 | quote_age=138s
+PERF: reference_total=0.511s | reference_key_read=0.0002s | reference_http=0.511s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.636s | bybit_fetch=9.635s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.148s
+
+[2026-09-15 06:18:19] NO MATCH: sidzzzu | P2P=86.19 | USD/RUB=84.46416 | edge=-2.043% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-100000 | orders=1122 | rate=98.0% | raw=79 | qualified=50 | quote_age=139s
+PERF: reference_total=0.501s | reference_key_read=0.0002s | reference_http=0.501s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=11.120s | bybit_fetch=11.120s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.622s
+
+[2026-09-15 06:21:17] NO MATCH: sidzzzu | P2P=86.68 | USD/RUB=84.48232 | edge=-2.601% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-100000 | orders=1123 | rate=98.0% | raw=79 | qualified=51 | quote_age=138s
+PERF: reference_total=0.519s | reference_key_read=0.0002s | reference_http=0.519s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.628s | bybit_fetch=9.628s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.148s
+
+[2026-09-15 06:24:16] MATCH: Malboro_Gold | P2P=86.08 | USD/RUB=84.48181 | edge=-1.892% | target=-2.000%
+order_id=1943704767093440512 | limits=8000-12000 | orders=650 | rate=100.0% | raw=76 | qualified=52 | quote_age=137s
+PERF: reference_total=0.549s | reference_key_read=0.0002s | reference_http=0.549s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.624s | bybit_fetch=8.624s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.174s
+
+[2026-09-15 06:27:17] NO MATCH: sidzzzu | P2P=86.68 | USD/RUB=84.49079 | edge=-2.591% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1124 | rate=98.0% | raw=74 | qualified=51 | quote_age=138s
+PERF: reference_total=0.533s | reference_key_read=0.0002s | reference_http=0.533s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.784s | bybit_fetch=9.783s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.317s
+
+[2026-09-15 06:30:18] NO MATCH: sidzzzu | P2P=86.68 | USD/RUB=84.50169 | edge=-2.578% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1124 | rate=98.0% | raw=72 | qualified=48 | quote_age=139s
+PERF: reference_total=0.556s | reference_key_read=0.0003s | reference_http=0.556s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.794s | bybit_fetch=10.794s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.351s
+
+[2026-09-15 06:33:16] MATCH: Malboro_Gold | P2P=86.08 | USD/RUB=84.47542 | edge=-1.899% | target=-2.000%
+order_id=1943704767093440512 | limits=8000-10000 | orders=652 | rate=100.0% | raw=73 | qualified=49 | quote_age=137s
+PERF: reference_total=0.528s | reference_key_read=0.0002s | reference_http=0.527s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.778s | bybit_fetch=8.777s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.306s
+
+[2026-09-15 06:36:18] MATCH: Malboro_Gold | P2P=86.08 | USD/RUB=84.47713 | edge=-1.897% | target=-2.000%
+order_id=1943704767093440512 | limits=8000-10000 | orders=652 | rate=100.0% | raw=76 | qualified=51 | quote_age=139s
+PERF: reference_total=0.559s | reference_key_read=0.0002s | reference_http=0.559s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.651s | bybit_fetch=10.651s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.211s
+
+[2026-09-15 06:39:17] MATCH: Natali.Coins | P2P=86.15 | USD/RUB=84.49098 | edge=-1.964% | target=-2.000%
+order_id=2098374172531613696 | limits=7000-13000 | orders=1182 | rate=99.0% | raw=76 | qualified=51 | quote_age=138s
+PERF: reference_total=0.536s | reference_key_read=0.0002s | reference_http=0.535s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.901s | bybit_fetch=9.901s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.438s
+
+[2026-09-15 06:42:16] MATCH: Natali.Coins | P2P=86.15 | USD/RUB=84.48484 | edge=-1.971% | target=-2.000%
+order_id=2098374172531613696 | limits=7000-13000 | orders=1182 | rate=99.0% | raw=77 | qualified=52 | quote_age=137s
+PERF: reference_total=0.493s | reference_key_read=0.0002s | reference_http=0.492s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.659s | bybit_fetch=8.659s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.153s
+
+[2026-09-15 06:45:17] MATCH: Natali.Coins | P2P=86.15 | USD/RUB=84.48204 | edge=-1.974% | target=-2.000%
+order_id=2098374172531613696 | limits=7000-13000 | orders=1183 | rate=99.0% | raw=80 | qualified=53 | quote_age=138s
+PERF: reference_total=0.525s | reference_key_read=0.0002s | reference_http=0.524s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.626s | bybit_fetch=9.625s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.151s
+
+[2026-09-15 06:48:17] NO MATCH: sidzzzu | P2P=86.29 | USD/RUB=84.49698 | edge=-2.122% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1127 | rate=98.0% | raw=79 | qualified=52 | quote_age=138s
+PERF: reference_total=0.522s | reference_key_read=0.0002s | reference_http=0.521s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.627s | bybit_fetch=9.627s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.150s
+
+[2026-09-15 06:51:16] NO MATCH: sidzzzu | P2P=86.29 | USD/RUB=84.47468 | edge=-2.149% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-80000 | orders=1127 | rate=98.0% | raw=78 | qualified=51 | quote_age=137s
+PERF: reference_total=0.526s | reference_key_read=0.0002s | reference_http=0.526s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.802s | bybit_fetch=8.802s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.329s
+
+[2026-09-15 06:54:18] NO MATCH: sidzzzu | P2P=86.29 | USD/RUB=84.50105 | edge=-2.117% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-70000 | orders=1127 | rate=98.0% | raw=80 | qualified=53 | quote_age=139s
+PERF: reference_total=0.513s | reference_key_read=0.0002s | reference_http=0.513s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.614s | bybit_fetch=10.614s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.128s
+
+[2026-09-15 06:57:16] NO MATCH: sidzzzu | P2P=86.29 | USD/RUB=84.48239 | edge=-2.140% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-70000 | orders=1127 | rate=98.0% | raw=79 | qualified=52 | quote_age=137s
+PERF: reference_total=0.512s | reference_key_read=0.0002s | reference_http=0.512s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.620s | bybit_fetch=8.620s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.133s
+
+[2026-09-15 07:00:18] NO MATCH: sidzzzu | P2P=86.29 | USD/RUB=84.48184 | edge=-2.140% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-70000 | orders=1127 | rate=98.0% | raw=79 | qualified=52 | quote_age=139s
+PERF: reference_total=0.651s | reference_key_read=0.0002s | reference_http=0.651s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.635s | bybit_fetch=10.634s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.287s
+
+[2026-09-15 07:03:16] NO MATCH: sidzzzu | P2P=86.29 | USD/RUB=84.45948 | edge=-2.167% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-70000 | orders=1128 | rate=98.0% | raw=80 | qualified=53 | quote_age=137s
+PERF: reference_total=0.534s | reference_key_read=0.0002s | reference_http=0.534s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.769s | bybit_fetch=8.769s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.304s
+
+[2026-09-15 07:06:16] NO MATCH: sidzzzu | P2P=86.29 | USD/RUB=84.41406 | edge=-2.222% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-50000 | orders=1128 | rate=98.0% | raw=79 | qualified=53 | quote_age=137s
+PERF: reference_total=0.535s | reference_key_read=0.0002s | reference_http=0.534s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.611s | bybit_fetch=8.611s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.146s
+
+[2026-09-15 07:09:18] NO MATCH: sidzzzu | P2P=86.29 | USD/RUB=84.41024 | edge=-2.227% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-50000 | orders=1128 | rate=98.0% | raw=82 | qualified=53 | quote_age=139s
+PERF: reference_total=0.523s | reference_key_read=0.0002s | reference_http=0.523s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.775s | bybit_fetch=10.775s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.300s
+
+[2026-09-15 07:12:18] NO MATCH: sidzzzu | P2P=86.29 | USD/RUB=84.41098 | edge=-2.226% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-50000 | orders=1129 | rate=98.0% | raw=80 | qualified=51 | quote_age=139s
+PERF: reference_total=0.509s | reference_key_read=0.0002s | reference_http=0.509s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.601s | bybit_fetch=10.600s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.111s
+
+[2026-09-15 07:15:18] NO MATCH: sidzzzu | P2P=86.49 | USD/RUB=84.40034 | edge=-2.476% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-50000 | orders=1130 | rate=98.0% | raw=76 | qualified=48 | quote_age=139s
+PERF: reference_total=0.516s | reference_key_read=0.0002s | reference_http=0.516s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.613s | bybit_fetch=10.613s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.130s
+
+[2026-09-15 07:18:18] MATCH: Natali.Coins | P2P=86.05 | USD/RUB=84.48168 | edge=-1.856% | target=-2.000%
+order_id=2098374172531613696 | limits=8350-14522 | orders=1186 | rate=99.0% | raw=81 | qualified=49 | quote_age=139s
+PERF: reference_total=0.538s | reference_key_read=0.0002s | reference_http=0.538s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.613s | bybit_fetch=10.613s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.152s
+
+[2026-09-15 07:21:16] NO MATCH: Natali.Coins | P2P=86.15 | USD/RUB=84.40923 | edge=-2.062% | target=-2.000%
+order_id=2098374172531613696 | limits=8350-14522 | orders=1188 | rate=99.0% | raw=78 | qualified=48 | quote_age=137s
+PERF: reference_total=0.515s | reference_key_read=0.0002s | reference_http=0.515s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.627s | bybit_fetch=8.626s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.142s
+
+[2026-09-15 07:24:18] NO MATCH: Natali.Coins | P2P=86.15 | USD/RUB=84.45222 | edge=-2.010% | target=-2.000%
+order_id=2098374172531613696 | limits=8350-12350 | orders=1191 | rate=99.0% | raw=83 | qualified=53 | quote_age=139s
+PERF: reference_total=0.506s | reference_key_read=0.0002s | reference_http=0.506s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.650s | bybit_fetch=10.649s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.157s
+
+[2026-09-15 07:27:18] MATCH: Natali.Coins | P2P=86.15 | USD/RUB=84.48355 | edge=-1.973% | target=-2.000%
+order_id=2098374172531613696 | limits=8350-12350 | orders=1191 | rate=99.0% | raw=86 | qualified=55 | quote_age=139s
+PERF: reference_total=0.503s | reference_key_read=0.0002s | reference_http=0.503s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.651s | bybit_fetch=10.651s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.155s
+
+[2026-09-15 07:30:16] NO MATCH: Malboro_Gold | P2P=86.08 | USD/RUB=84.38907 | edge=-2.004% | target=-2.000%
+order_id=1943704767093440512 | limits=8000-10700 | orders=653 | rate=100.0% | raw=85 | qualified=53 | quote_age=137s
+PERF: reference_total=0.504s | reference_key_read=0.0003s | reference_http=0.504s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.640s | bybit_fetch=8.639s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.145s
+
+[2026-09-15 07:33:18] MATCH: КRАTOS | P2P=85.80 | USD/RUB=84.44593 | edge=-1.603% | target=-2.000%
+order_id=2092537010099240960 | limits=10000-10000 | orders=2158 | rate=100.0% | raw=87 | qualified=55 | quote_age=139s
+PERF: reference_total=0.522s | reference_key_read=0.0002s | reference_http=0.522s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.622s | bybit_fetch=10.622s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.145s
+
+[2026-09-15 07:36:16] MATCH: Malboro_Gold | P2P=86.08 | USD/RUB=84.42688 | edge=-1.958% | target=-2.000%
+order_id=1943704767093440512 | limits=8000-10700 | orders=653 | rate=100.0% | raw=86 | qualified=54 | quote_age=137s
+PERF: reference_total=0.526s | reference_key_read=0.0002s | reference_http=0.525s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.756s | bybit_fetch=8.756s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.282s
+
+[2026-09-15 07:39:17] MATCH: Malboro_Gold | P2P=86.08 | USD/RUB=84.46799 | edge=-1.908% | target=-2.000%
+order_id=1943704767093440512 | limits=8000-10700 | orders=653 | rate=100.0% | raw=87 | qualified=54 | quote_age=138s
+PERF: reference_total=0.532s | reference_key_read=0.0002s | reference_http=0.532s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.751s | bybit_fetch=9.751s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.284s
+
+[2026-09-15 07:42:18] MATCH: Malboro_Gold | P2P=86.08 | USD/RUB=84.40492 | edge=-1.985% | target=-2.000%
+order_id=1943704767093440512 | limits=8000-10700 | orders=654 | rate=100.0% | raw=89 | qualified=57 | quote_age=139s
+PERF: reference_total=0.513s | reference_key_read=0.0002s | reference_http=0.513s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.760s | bybit_fetch=10.760s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.275s
+
+[2026-09-15 07:45:16] MATCH: Malboro_Gold | P2P=86.08 | USD/RUB=84.41185 | edge=-1.976% | target=-2.000%
+order_id=1943704767093440512 | limits=8000-10700 | orders=654 | rate=100.0% | raw=91 | qualified=58 | quote_age=137s
+PERF: reference_total=0.527s | reference_key_read=0.0002s | reference_http=0.527s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.645s | bybit_fetch=8.645s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.173s
+
+[2026-09-15 07:48:17] MATCH: Malboro_Gold | P2P=86.08 | USD/RUB=84.41697 | edge=-1.970% | target=-2.000%
+order_id=1943704767093440512 | limits=8000-10700 | orders=654 | rate=100.0% | raw=90 | qualified=59 | quote_age=138s
+PERF: reference_total=0.516s | reference_key_read=0.0002s | reference_http=0.516s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.641s | bybit_fetch=9.640s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.158s
+
+[2026-09-15 07:51:16] MATCH: Malboro_Gold | P2P=86.08 | USD/RUB=84.40319 | edge=-1.987% | target=-2.000%
+order_id=1943704767093440512 | limits=8000-10700 | orders=654 | rate=100.0% | raw=89 | qualified=58 | quote_age=137s
+PERF: reference_total=0.533s | reference_key_read=0.0002s | reference_http=0.533s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.612s | bybit_fetch=8.612s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.146s
+
+[2026-09-15 07:54:19] MATCH: _БЕЗОПАСНОСТЬ_ | P2P=85.95 | USD/RUB=84.40993 | edge=-1.825% | target=-2.000%
+order_id=2098035671676084224 | limits=10000-20000 | orders=642 | rate=99.0% | raw=91 | qualified=59 | quote_age=139s
+PERF: reference_total=0.525s | reference_key_read=0.0002s | reference_http=0.525s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=11.217s | bybit_fetch=11.217s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.743s
+
+[2026-09-15 07:57:16] MATCH: _БЕЗОПАСНОСТЬ_ | P2P=85.95 | USD/RUB=84.42005 | edge=-1.812% | target=-2.000%
+order_id=2098035671676084224 | limits=10000-20000 | orders=642 | rate=99.0% | raw=86 | qualified=57 | quote_age=137s
+PERF: reference_total=0.540s | reference_key_read=0.0002s | reference_http=0.540s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.778s | bybit_fetch=8.778s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.320s
+
+[2026-09-15 08:00:17] NO MATCH: PombuR | P2P=86.65 | USD/RUB=84.40962 | edge=-2.654% | target=-2.000%
+order_id=2099319043647504384 | limits=1000-24000 | orders=1086 | rate=100.0% | raw=86 | qualified=55 | quote_age=138s
+PERF: reference_total=0.619s | reference_key_read=0.0002s | reference_http=0.619s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.753s | bybit_fetch=9.752s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=10.372s
+
+[2026-09-15 08:03:20] NO MATCH: PombuR | P2P=86.65 | USD/RUB=84.41507 | edge=-2.648% | target=-2.000%
+order_id=2099319043647504384 | limits=1000-24000 | orders=1086 | rate=100.0% | raw=87 | qualified=56 | quote_age=141s
+PERF: reference_total=2.644s | reference_key_read=0.0003s | reference_http=2.644s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.636s | bybit_fetch=10.636s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=13.281s
+
+[2026-09-15 08:06:19] MATCH: MakeItQuick | P2P=85.66 | USD/RUB=84.40850 | edge=-1.483% | target=-2.000%
+order_id=2099638627212722176 | limits=9000-10000 | orders=833 | rate=100.0% | raw=90 | qualified=58 | quote_age=140s
+PERF: reference_total=2.596s | reference_key_read=0.0002s | reference_http=2.596s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.768s | bybit_fetch=9.767s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=12.364s
+
+[2026-09-15 08:09:19] NO MATCH: PombuR | P2P=86.85 | USD/RUB=84.41439 | edge=-2.885% | target=-2.000%
+order_id=2099319043647504384 | limits=1000-24000 | orders=1087 | rate=100.0% | raw=89 | qualified=57 | quote_age=139s
+PERF: reference_total=0.818s | reference_key_read=0.0002s | reference_http=0.818s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.978s | bybit_fetch=10.978s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.798s
+
+[2026-09-15 08:12:18] NO MATCH: PombuR | P2P=86.85 | USD/RUB=84.41448 | edge=-2.885% | target=-2.000%
+order_id=2099319043647504384 | limits=1000-24000 | orders=1088 | rate=100.0% | raw=85 | qualified=53 | quote_age=139s
+PERF: reference_total=2.607s | reference_key_read=0.0002s | reference_http=2.606s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.906s | bybit_fetch=8.906s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.514s
+
+[2026-09-15 08:15:16] NO MATCH: Easy-money | P2P=86.20 | USD/RUB=84.41574 | edge=-2.114% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-10500 | orders=585 | rate=100.0% | raw=89 | qualified=55 | quote_age=137s
+PERF: reference_total=0.517s | reference_key_read=0.0002s | reference_http=0.517s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.008s | bybit_fetch=9.008s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.526s
+
+[2026-09-15 08:18:16] NO MATCH: Easy-money | P2P=86.20 | USD/RUB=84.41286 | edge=-2.117% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-10500 | orders=585 | rate=100.0% | raw=89 | qualified=55 | quote_age=137s
+PERF: reference_total=0.505s | reference_key_read=0.0002s | reference_http=0.505s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.643s | bybit_fetch=8.643s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.149s
+
+[2026-09-15 08:21:16] NO MATCH: PombuR | P2P=86.85 | USD/RUB=84.40836 | edge=-2.893% | target=-2.000%
+order_id=2099319043647504384 | limits=1000-24000 | orders=1088 | rate=100.0% | raw=90 | qualified=55 | quote_age=137s
+PERF: reference_total=0.541s | reference_key_read=0.0002s | reference_http=0.541s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.730s | bybit_fetch=8.730s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=9.272s
+
+[2026-09-15 08:24:18] NO MATCH: МаниГерл | P2P=86.66 | USD/RUB=84.41870 | edge=-2.655% | target=-2.000%
+order_id=2099715684976680960 | limits=1000-10000 | orders=922 | rate=100.0% | raw=97 | qualified=60 | quote_age=139s
+PERF: reference_total=0.499s | reference_key_read=0.0002s | reference_http=0.499s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.625s | bybit_fetch=10.624s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.124s
+
+[2026-09-15 08:27:16] NO MATCH: ProstoTraid | P2P=86.33 | USD/RUB=84.41063 | edge=-2.274% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-20000 | orders=2529 | rate=100.0% | raw=96 | qualified=59 | quote_age=137s
+PERF: reference_total=0.522s | reference_key_read=0.0002s | reference_http=0.522s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.753s | bybit_fetch=8.753s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.277s
+
+[2026-09-15 08:30:19] NO MATCH: ProstoTraid | P2P=86.33 | USD/RUB=84.41242 | edge=-2.272% | target=-2.000%
+order_id=2099580564751417344 | limits=5000-20000 | orders=2529 | rate=100.0% | raw=97 | qualified=60 | quote_age=139s
+PERF: reference_total=0.499s | reference_key_read=0.0002s | reference_http=0.499s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=11.286s | bybit_fetch=11.285s | normalize=0.0002s | filter=0.0000s | sort=0.0000s | cycle=11.786s
+
+[2026-09-15 08:33:16] NO MATCH: numonov | P2P=86.15 | USD/RUB=84.41215 | edge=-2.059% | target=-2.000%
+order_id=2066540965629648896 | limits=8410-10000 | orders=1124 | rate=98.0% | raw=100 | qualified=65 | quote_age=137s
+PERF: reference_total=0.521s | reference_key_read=0.0002s | reference_http=0.520s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.795s | bybit_fetch=8.795s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.317s
+
+[2026-09-15 08:36:16] NO MATCH: numonov | P2P=86.15 | USD/RUB=84.41642 | edge=-2.054% | target=-2.000%
+order_id=2066540965629648896 | limits=8410-10000 | orders=1124 | rate=98.0% | raw=100 | qualified=64 | quote_age=137s
+PERF: reference_total=0.542s | reference_key_read=0.0002s | reference_http=0.541s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.633s | bybit_fetch=8.633s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.175s
+
+[2026-09-15 08:39:18] NO MATCH: numonov | P2P=86.15 | USD/RUB=84.42003 | edge=-2.049% | target=-2.000%
+order_id=2066540965629648896 | limits=8410-10000 | orders=1124 | rate=98.0% | raw=100 | qualified=63 | quote_age=139s
+PERF: reference_total=0.550s | reference_key_read=0.0002s | reference_http=0.549s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.690s | bybit_fetch=10.689s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.240s
+
+[2026-09-15 08:42:18] NO MATCH: numonov | P2P=86.15 | USD/RUB=84.40707 | edge=-2.065% | target=-2.000%
+order_id=2066540965629648896 | limits=8410-10000 | orders=1124 | rate=98.0% | raw=100 | qualified=63 | quote_age=139s
+PERF: reference_total=0.506s | reference_key_read=0.0002s | reference_http=0.505s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.636s | bybit_fetch=10.636s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.142s
+
+[2026-09-15 08:45:18] MATCH: numonov | P2P=85.98 | USD/RUB=84.41368 | edge=-1.856% | target=-2.000%
+order_id=2066540965629648896 | limits=8410-10000 | orders=1124 | rate=98.0% | raw=100 | qualified=64 | quote_age=139s
+PERF: reference_total=0.553s | reference_key_read=0.0002s | reference_http=0.553s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.627s | bybit_fetch=10.627s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.182s
+
+[2026-09-15 08:48:18] MATCH: numonov | P2P=85.98 | USD/RUB=84.41482 | edge=-1.854% | target=-2.000%
+order_id=2066540965629648896 | limits=8410-10000 | orders=1124 | rate=98.0% | raw=100 | qualified=65 | quote_age=139s
+PERF: reference_total=0.505s | reference_key_read=0.0002s | reference_http=0.505s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.913s | bybit_fetch=10.913s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.419s
+
+[2026-09-15 08:51:17] MATCH: numonov | P2P=85.92 | USD/RUB=84.40990 | edge=-1.789% | target=-2.000%
+order_id=2066540965629648896 | limits=8410-10000 | orders=1124 | rate=98.0% | raw=100 | qualified=66 | quote_age=138s
+PERF: reference_total=0.513s | reference_key_read=0.0002s | reference_http=0.513s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.651s | bybit_fetch=9.651s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.166s
+
+[2026-09-15 08:54:17] MATCH: numonov | P2P=85.92 | USD/RUB=84.40971 | edge=-1.789% | target=-2.000%
+order_id=2066540965629648896 | limits=8410-10000 | orders=1124 | rate=98.0% | raw=100 | qualified=67 | quote_age=138s
+PERF: reference_total=0.502s | reference_key_read=0.0002s | reference_http=0.502s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.635s | bybit_fetch=9.635s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.138s
+
+[2026-09-15 08:57:17] MATCH: numonov | P2P=85.92 | USD/RUB=84.60004 | edge=-1.560% | target=-2.000%
+order_id=2066540965629648896 | limits=8410-10000 | orders=1124 | rate=98.0% | raw=100 | qualified=70 | quote_age=138s
+PERF: reference_total=0.536s | reference_key_read=0.0002s | reference_http=0.536s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.646s | bybit_fetch=9.646s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.183s
+
+[2026-09-15 09:00:19] MATCH: LOTA_SS | P2P=85.97 | USD/RUB=84.59586 | edge=-1.624% | target=-2.000%
+order_id=2099563571455459328 | limits=500-13524 | orders=2960 | rate=99.0% | raw=100 | qualified=68 | quote_age=139s
+PERF: reference_total=0.843s | reference_key_read=0.0002s | reference_http=0.843s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.793s | bybit_fetch=10.792s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.636s
+
+[2026-09-15 09:03:18] MATCH: МаниГерл | P2P=85.94 | USD/RUB=84.58992 | edge=-1.596% | target=-2.000%
+order_id=2099720579796557824 | limits=5000-30000 | orders=926 | rate=100.0% | raw=100 | qualified=67 | quote_age=139s
+PERF: reference_total=0.522s | reference_key_read=0.0002s | reference_http=0.522s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.906s | bybit_fetch=10.906s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.429s
+
+[2026-09-15 09:06:16] MATCH: МаниГерл | P2P=85.94 | USD/RUB=84.59927 | edge=-1.585% | target=-2.000%
+order_id=2099720579796557824 | limits=5000-30000 | orders=926 | rate=100.0% | raw=100 | qualified=65 | quote_age=137s
+PERF: reference_total=0.522s | reference_key_read=0.0002s | reference_http=0.522s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.645s | bybit_fetch=8.644s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.167s
+
+[2026-09-15 09:09:19] MATCH: МаниГерл | P2P=85.94 | USD/RUB=84.59543 | edge=-1.589% | target=-2.000%
+order_id=2099720579796557824 | limits=5000-30000 | orders=926 | rate=100.0% | raw=100 | qualified=66 | quote_age=139s
+PERF: reference_total=0.524s | reference_key_read=0.0002s | reference_http=0.524s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=11.124s | bybit_fetch=11.123s | normalize=0.0004s | filter=0.0000s | sort=0.0000s | cycle=11.649s
+
+[2026-09-15 09:12:17] MATCH: МаниГерл | P2P=85.64 | USD/RUB=84.60152 | edge=-1.227% | target=-2.000%
+order_id=2099720579796557824 | limits=5000-30000 | orders=926 | rate=100.0% | raw=100 | qualified=65 | quote_age=137s
+PERF: reference_total=0.517s | reference_key_read=0.0002s | reference_http=0.516s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.130s | bybit_fetch=9.130s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.647s
+
+[2026-09-15 09:15:17] MATCH: МаниГерл | P2P=85.64 | USD/RUB=84.60214 | edge=-1.227% | target=-2.000%
+order_id=2099720579796557824 | limits=5000-30000 | orders=926 | rate=100.0% | raw=100 | qualified=66 | quote_age=138s
+PERF: reference_total=0.515s | reference_key_read=0.0002s | reference_http=0.515s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.759s | bybit_fetch=9.759s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.275s
+
+[2026-09-15 09:18:18] NO MATCH: PombuR | P2P=86.55 | USD/RUB=84.60286 | edge=-2.302% | target=-2.000%
+order_id=2099319043647504384 | limits=1000-51600 | orders=1092 | rate=100.0% | raw=100 | qualified=64 | quote_age=139s
+PERF: reference_total=0.532s | reference_key_read=0.0003s | reference_http=0.532s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.674s | bybit_fetch=10.674s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.207s
+
+[2026-09-15 09:21:17] MATCH: МаниГерл | P2P=85.98 | USD/RUB=84.60355 | edge=-1.627% | target=-2.000%
+order_id=2099730103473012736 | limits=1000-10000 | orders=926 | rate=100.0% | raw=100 | qualified=66 | quote_age=138s
+PERF: reference_total=0.511s | reference_key_read=0.0002s | reference_http=0.511s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.640s | bybit_fetch=9.639s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.152s
+
+[2026-09-15 09:24:18] MATCH: МаниГерл | P2P=85.98 | USD/RUB=84.59920 | edge=-1.632% | target=-2.000%
+order_id=2099730103473012736 | limits=1000-10000 | orders=927 | rate=100.0% | raw=100 | qualified=67 | quote_age=139s
+PERF: reference_total=0.528s | reference_key_read=0.0002s | reference_http=0.528s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.656s | bybit_fetch=10.656s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.185s
+
+[2026-09-15 09:27:18] MATCH: МаниГерл | P2P=85.98 | USD/RUB=84.60470 | edge=-1.626% | target=-2.000%
+order_id=2099730103473012736 | limits=1000-10000 | orders=927 | rate=100.0% | raw=100 | qualified=67 | quote_age=139s
+PERF: reference_total=0.550s | reference_key_read=0.0002s | reference_http=0.550s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.668s | bybit_fetch=10.667s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.219s
+
+[2026-09-15 09:30:18] NO MATCH: PombuR | P2P=86.30 | USD/RUB=84.60600 | edge=-2.002% | target=-2.000%
+order_id=2099319043647504384 | limits=1000-51600 | orders=1092 | rate=100.0% | raw=100 | qualified=69 | quote_age=139s
+PERF: reference_total=0.510s | reference_key_read=0.0002s | reference_http=0.510s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.677s | bybit_fetch=10.677s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.188s
+
+[2026-09-15 09:33:18] NO MATCH: PombuR | P2P=86.30 | USD/RUB=84.59893 | edge=-2.011% | target=-2.000%
+order_id=2099319043647504384 | limits=1000-51600 | orders=1093 | rate=100.0% | raw=100 | qualified=66 | quote_age=139s
+PERF: reference_total=0.548s | reference_key_read=0.0001s | reference_http=0.548s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.656s | bybit_fetch=10.655s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.205s
+
+[2026-09-15 09:36:16] MATCH: MakerOfCoin | P2P=86.00 | USD/RUB=84.60659 | edge=-1.647% | target=-2.000%
+order_id=2099070948532150272 | limits=10000-10000 | orders=3106 | rate=100.0% | raw=100 | qualified=67 | quote_age=137s
+PERF: reference_total=0.558s | reference_key_read=0.0002s | reference_http=0.558s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.655s | bybit_fetch=8.655s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.214s
+
+[2026-09-15 09:39:17] MATCH: sidzzzu | P2P=86.18 | USD/RUB=84.60327 | edge=-1.864% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-40000 | orders=1165 | rate=98.0% | raw=100 | qualified=67 | quote_age=138s
+PERF: reference_total=0.509s | reference_key_read=0.0002s | reference_http=0.509s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.657s | bybit_fetch=9.656s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.167s
+
+[2026-09-15 09:42:17] MATCH: TACOS | P2P=86.17 | USD/RUB=84.60143 | edge=-1.854% | target=-2.000%
+order_id=2095534080146399232 | limits=10000-100000 | orders=1110 | rate=98.0% | raw=100 | qualified=68 | quote_age=138s
+PERF: reference_total=0.542s | reference_key_read=0.0002s | reference_http=0.542s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.685s | bybit_fetch=9.685s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.228s
+
+[2026-09-15 09:45:19] MATCH: МаниГерл | P2P=85.99 | USD/RUB=84.60525 | edge=-1.637% | target=-2.000%
+order_id=2099735622935805952 | limits=4000-20000 | orders=929 | rate=100.0% | raw=100 | qualified=68 | quote_age=139s
+PERF: reference_total=0.539s | reference_key_read=0.0002s | reference_http=0.538s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=11.113s | bybit_fetch=11.112s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.652s
+
+[2026-09-15 09:48:17] MATCH: Alexandr137 | P2P=86.09 | USD/RUB=84.60642 | edge=-1.754% | target=-2.000%
+order_id=1829019285595500544 | limits=10000-10000 | orders=640 | rate=100.0% | raw=100 | qualified=68 | quote_age=138s
+PERF: reference_total=0.512s | reference_key_read=0.0056s | reference_http=0.507s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.761s | bybit_fetch=9.760s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.274s
+
+[2026-09-15 09:51:18] MATCH: Alexandr137 | P2P=85.99 | USD/RUB=84.61528 | edge=-1.625% | target=-2.000%
+order_id=1829019285595500544 | limits=10000-10000 | orders=640 | rate=100.0% | raw=100 | qualified=68 | quote_age=139s
+PERF: reference_total=0.518s | reference_key_read=0.0002s | reference_http=0.518s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.776s | bybit_fetch=10.776s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.295s
+
+[2026-09-15 09:54:16] MATCH: _БЕЗОПАСНОСТЬ_ | P2P=86.15 | USD/RUB=84.60954 | edge=-1.821% | target=-2.000%
+order_id=2098035671676084224 | limits=5000-10000 | orders=647 | rate=99.0% | raw=100 | qualified=65 | quote_age=137s
+PERF: reference_total=0.522s | reference_key_read=0.0002s | reference_http=0.522s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.648s | bybit_fetch=8.648s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.171s
+
+[2026-09-15 09:57:18] MATCH: TACOS | P2P=86.17 | USD/RUB=84.60105 | edge=-1.855% | target=-2.000%
+order_id=2095534080146399232 | limits=10000-100000 | orders=1111 | rate=98.0% | raw=100 | qualified=66 | quote_age=139s
+PERF: reference_total=0.515s | reference_key_read=0.0002s | reference_http=0.515s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.671s | bybit_fetch=10.670s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.187s
+
+[2026-09-15 10:00:17] MATCH: TACOS | P2P=86.17 | USD/RUB=84.60020 | edge=-1.856% | target=-2.000%
+order_id=2095534080146399232 | limits=10000-100000 | orders=1112 | rate=98.0% | raw=100 | qualified=69 | quote_age=138s
+PERF: reference_total=0.637s | reference_key_read=0.0002s | reference_http=0.637s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.777s | bybit_fetch=9.777s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.415s
+
+[2026-09-15 10:03:18] MATCH: Easy-money | P2P=85.95 | USD/RUB=84.68420 | edge=-1.495% | target=-2.000%
+order_id=2099361910925557760 | limits=10000-11810 | orders=586 | rate=100.0% | raw=100 | qualified=70 | quote_age=139s
+PERF: reference_total=0.548s | reference_key_read=0.0002s | reference_http=0.548s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.782s | bybit_fetch=10.782s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.331s
+
+[2026-09-15 10:06:16] MATCH: PombuR | P2P=86.12 | USD/RUB=84.62119 | edge=-1.771% | target=-2.000%
+order_id=2099319043647504384 | limits=1000-43466 | orders=1093 | rate=100.0% | raw=100 | qualified=69 | quote_age=137s
+PERF: reference_total=0.531s | reference_key_read=0.0002s | reference_http=0.531s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=8.757s | bybit_fetch=8.757s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.289s
+
+[2026-09-15 10:09:18] MATCH: sidzzzu | P2P=86.18 | USD/RUB=84.74588 | edge=-1.692% | target=-2.000%
+order_id=2093719116884131840 | limits=10000-40000 | orders=1180 | rate=98.0% | raw=100 | qualified=66 | quote_age=139s
+PERF: reference_total=0.537s | reference_key_read=0.0002s | reference_http=0.537s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.645s | bybit_fetch=10.644s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=11.182s
+

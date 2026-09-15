@@ -1,0 +1,1345 @@
+[2026-09-14 23:03:36] SNAPSHOT SAVED: id=23 | pages=4 | raw=309 | unique=305 | duplicates=4 | saved=305
+PAGES: page_1=9.657s(100) | page_2=9.804s(100) | page_3=9.646s(100) | page_4=8.541s(9)
+COLLECTOR: fetch_total=37.648s | dedup=0.0001s | normalize=0.0009s | total=37.650s
+DATABASE: connect=0.131s | create_snapshot=0.0026s | save_orders=0.077s | avg_order_save=0.252ms | transaction=0.081s | total=0.212s
+CYCLE: total=37.862s
+
+[2026-09-14 23:06:38] SNAPSHOT SAVED: id=24 | pages=4 | raw=308 | unique=308 | duplicates=0 | saved=308
+PAGES: page_1=8.759s(100) | page_2=9.688s(100) | page_3=10.686s(100) | page_4=10.553s(8)
+COLLECTOR: fetch_total=39.686s | dedup=0.0001s | normalize=0.0011s | total=39.688s
+DATABASE: connect=0.028s | create_snapshot=0.0024s | save_orders=0.097s | avg_order_save=0.314ms | transaction=0.101s | total=0.129s
+CYCLE: total=39.818s
+
+[2026-09-14 23:09:36] SNAPSHOT SAVED: id=25 | pages=4 | raw=302 | unique=300 | duplicates=2 | saved=300
+PAGES: page_1=10.815s(100) | page_2=8.779s(100) | page_3=8.656s(100) | page_4=9.527s(2)
+COLLECTOR: fetch_total=37.777s | dedup=0.0001s | normalize=0.0009s | total=37.778s
+DATABASE: connect=0.029s | create_snapshot=0.0016s | save_orders=0.074s | avg_order_save=0.247ms | transaction=0.077s | total=0.106s
+CYCLE: total=37.885s
+
+[2026-09-14 23:12:38] SNAPSHOT SAVED: id=26 | pages=4 | raw=302 | unique=298 | duplicates=4 | saved=298
+PAGES: page_1=10.869s(100) | page_2=8.662s(100) | page_3=10.697s(100) | page_4=9.572s(2)
+COLLECTOR: fetch_total=39.800s | dedup=0.0001s | normalize=0.0012s | total=39.802s
+DATABASE: connect=0.130s | create_snapshot=0.0032s | save_orders=0.086s | avg_order_save=0.289ms | transaction=0.091s | total=0.221s
+CYCLE: total=40.024s
+
+[2026-09-14 23:15:39] SNAPSHOT SAVED: id=27 | pages=4 | raw=302 | unique=302 | duplicates=0 | saved=302
+PAGES: page_1=9.655s(100) | page_2=9.640s(100) | page_3=10.780s(100) | page_4=10.553s(2)
+COLLECTOR: fetch_total=40.628s | dedup=0.0001s | normalize=0.0009s | total=40.629s
+DATABASE: connect=0.032s | create_snapshot=0.0017s | save_orders=0.064s | avg_order_save=0.211ms | transaction=0.067s | total=0.098s
+CYCLE: total=40.729s
+
+[2026-09-14 23:18:35] SNAPSHOT SAVED: id=28 | pages=4 | raw=303 | unique=299 | duplicates=4 | saved=299
+PAGES: page_1=9.848s(100) | page_2=8.653s(100) | page_3=8.790s(100) | page_4=9.553s(3)
+COLLECTOR: fetch_total=36.844s | dedup=0.0001s | normalize=0.0016s | total=36.846s
+DATABASE: connect=0.027s | create_snapshot=0.0019s | save_orders=0.081s | avg_order_save=0.271ms | transaction=0.084s | total=0.112s
+CYCLE: total=36.959s
+
+[2026-09-14 23:21:36] SNAPSHOT SAVED: id=29 | pages=4 | raw=308 | unique=308 | duplicates=0 | saved=308
+PAGES: page_1=9.672s(100) | page_2=8.650s(100) | page_3=9.780s(100) | page_4=9.560s(8)
+COLLECTOR: fetch_total=37.663s | dedup=0.0001s | normalize=0.0009s | total=37.664s
+DATABASE: connect=0.125s | create_snapshot=0.0016s | save_orders=0.101s | avg_order_save=0.329ms | transaction=0.105s | total=0.230s
+CYCLE: total=37.895s
+
+[2026-09-14 23:24:35] SNAPSHOT SAVED: id=30 | pages=4 | raw=308 | unique=308 | duplicates=0 | saved=308
+PAGES: page_1=10.722s(100) | page_2=8.649s(100) | page_3=8.935s(100) | page_4=8.523s(8)
+COLLECTOR: fetch_total=36.829s | dedup=0.0001s | normalize=0.0009s | total=36.831s
+DATABASE: connect=0.131s | create_snapshot=0.0016s | save_orders=0.093s | avg_order_save=0.301ms | transaction=0.096s | total=0.227s
+CYCLE: total=37.058s
+
+[2026-09-14 23:27:37] SNAPSHOT SAVED: id=31 | pages=4 | raw=307 | unique=305 | duplicates=2 | saved=305
+PAGES: page_1=10.644s(100) | page_2=9.923s(100) | page_3=9.683s(100) | page_4=8.544s(7)
+COLLECTOR: fetch_total=38.794s | dedup=0.0001s | normalize=0.0010s | total=38.796s
+DATABASE: connect=0.031s | create_snapshot=0.0017s | save_orders=0.088s | avg_order_save=0.289ms | transaction=0.092s | total=0.123s
+CYCLE: total=38.919s
+
+[2026-09-14 23:30:41] SNAPSHOT SAVED: id=32 | pages=4 | raw=306 | unique=306 | duplicates=0 | saved=306
+PAGES: page_1=10.673s(100) | page_2=10.869s(100) | page_3=10.683s(100) | page_4=10.740s(6)
+COLLECTOR: fetch_total=42.966s | dedup=0.0001s | normalize=0.0010s | total=42.968s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.059s | avg_order_save=0.193ms | transaction=0.062s | total=0.090s
+CYCLE: total=43.058s
+
+[2026-09-14 23:33:35] SNAPSHOT SAVED: id=33 | pages=4 | raw=321 | unique=318 | duplicates=3 | saved=318
+PAGES: page_1=9.648s(100) | page_2=8.721s(100) | page_3=9.654s(100) | page_4=8.548s(21)
+COLLECTOR: fetch_total=36.571s | dedup=0.0001s | normalize=0.0010s | total=36.573s
+DATABASE: connect=0.130s | create_snapshot=0.0016s | save_orders=0.097s | avg_order_save=0.306ms | transaction=0.101s | total=0.231s
+CYCLE: total=36.805s
+
+[2026-09-14 23:36:37] SNAPSHOT SAVED: id=34 | pages=4 | raw=315 | unique=313 | duplicates=2 | saved=313
+PAGES: page_1=9.673s(100) | page_2=9.642s(100) | page_3=9.652s(100) | page_4=9.551s(15)
+COLLECTOR: fetch_total=38.518s | dedup=0.0001s | normalize=0.0010s | total=38.520s
+DATABASE: connect=0.034s | create_snapshot=0.0016s | save_orders=0.092s | avg_order_save=0.293ms | transaction=0.095s | total=0.129s
+CYCLE: total=38.649s
+
+[2026-09-14 23:39:38] SNAPSHOT SAVED: id=35 | pages=4 | raw=308 | unique=307 | duplicates=1 | saved=307
+PAGES: page_1=9.719s(100) | page_2=9.687s(100) | page_3=10.675s(100) | page_4=9.548s(8)
+COLLECTOR: fetch_total=39.629s | dedup=0.0001s | normalize=0.0010s | total=39.630s
+DATABASE: connect=0.028s | create_snapshot=0.0017s | save_orders=0.064s | avg_order_save=0.209ms | transaction=0.067s | total=0.095s
+CYCLE: total=39.726s
+
+[2026-09-14 23:42:38] SNAPSHOT SAVED: id=36 | pages=4 | raw=306 | unique=305 | duplicates=1 | saved=305
+PAGES: page_1=12.780s(100) | page_2=8.777s(100) | page_3=8.772s(100) | page_4=9.563s(6)
+COLLECTOR: fetch_total=39.892s | dedup=0.0001s | normalize=0.0011s | total=39.894s
+DATABASE: connect=0.140s | create_snapshot=0.0016s | save_orders=0.105s | avg_order_save=0.343ms | transaction=0.108s | total=0.248s
+CYCLE: total=40.143s
+
+[2026-09-14 23:45:37] SNAPSHOT SAVED: id=37 | pages=4 | raw=303 | unique=301 | duplicates=2 | saved=301
+PAGES: page_1=9.801s(100) | page_2=10.945s(100) | page_3=8.787s(100) | page_4=9.565s(3)
+COLLECTOR: fetch_total=39.098s | dedup=0.0001s | normalize=0.0010s | total=39.100s
+DATABASE: connect=0.028s | create_snapshot=0.0017s | save_orders=0.071s | avg_order_save=0.235ms | transaction=0.074s | total=0.102s
+CYCLE: total=39.203s
+
+[2026-09-14 23:48:27] SNAPSHOT SAVED: id=38 | pages=3 | raw=297 | unique=297 | duplicates=0 | saved=297
+PAGES: page_1=11.093s(100) | page_2=8.654s(100) | page_3=8.704s(97)
+COLLECTOR: fetch_total=28.450s | dedup=0.0001s | normalize=0.0009s | total=28.452s
+DATABASE: connect=0.025s | create_snapshot=0.0018s | save_orders=0.086s | avg_order_save=0.289ms | transaction=0.089s | total=0.114s
+CYCLE: total=28.567s
+
+[2026-09-14 23:51:36] SNAPSHOT SAVED: id=39 | pages=4 | raw=303 | unique=302 | duplicates=1 | saved=302
+PAGES: page_1=9.646s(100) | page_2=9.656s(100) | page_3=9.705s(100) | page_4=8.688s(3)
+COLLECTOR: fetch_total=37.695s | dedup=0.0001s | normalize=0.0010s | total=37.697s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.084s | avg_order_save=0.279ms | transaction=0.088s | total=0.113s
+CYCLE: total=37.810s
+
+[2026-09-14 23:54:28] SNAPSHOT SAVED: id=40 | pages=3 | raw=294 | unique=293 | duplicates=1 | saved=293
+PAGES: page_1=11.710s(100) | page_2=9.666s(100) | page_3=8.652s(94)
+COLLECTOR: fetch_total=30.028s | dedup=0.0001s | normalize=0.0008s | total=30.029s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.062s | avg_order_save=0.212ms | transaction=0.065s | total=0.093s
+CYCLE: total=30.122s
+
+[2026-09-14 23:57:27] SNAPSHOT SAVED: id=41 | pages=3 | raw=281 | unique=281 | duplicates=0 | saved=281
+PAGES: page_1=10.697s(100) | page_2=9.614s(100) | page_3=8.625s(81)
+COLLECTOR: fetch_total=28.936s | dedup=0.0001s | normalize=0.0008s | total=28.938s
+DATABASE: connect=0.031s | create_snapshot=0.0016s | save_orders=0.090s | avg_order_save=0.320ms | transaction=0.093s | total=0.124s
+CYCLE: total=29.063s
+
+[2026-09-15 00:00:29] SNAPSHOT SAVED: id=42 | pages=3 | raw=287 | unique=286 | duplicates=1 | saved=286
+PAGES: page_1=10.664s(100) | page_2=9.654s(100) | page_3=10.646s(87)
+COLLECTOR: fetch_total=30.964s | dedup=0.0001s | normalize=0.0009s | total=30.965s
+DATABASE: connect=0.029s | create_snapshot=0.0019s | save_orders=0.060s | avg_order_save=0.210ms | transaction=0.063s | total=0.092s
+CYCLE: total=31.058s
+
+[2026-09-15 00:03:29] SNAPSHOT SAVED: id=43 | pages=3 | raw=284 | unique=284 | duplicates=0 | saved=284
+PAGES: page_1=10.657s(100) | page_2=8.927s(100) | page_3=11.175s(84)
+COLLECTOR: fetch_total=30.759s | dedup=0.0001s | normalize=0.0008s | total=30.761s
+DATABASE: connect=0.027s | create_snapshot=0.0018s | save_orders=0.096s | avg_order_save=0.339ms | transaction=0.100s | total=0.127s
+CYCLE: total=30.889s
+
+[2026-09-15 00:06:26] SNAPSHOT SAVED: id=44 | pages=3 | raw=287 | unique=286 | duplicates=1 | saved=286
+PAGES: page_1=8.669s(100) | page_2=10.668s(100) | page_3=8.643s(87)
+COLLECTOR: fetch_total=27.980s | dedup=0.0001s | normalize=0.0009s | total=27.981s
+DATABASE: connect=0.033s | create_snapshot=0.0016s | save_orders=0.089s | avg_order_save=0.310ms | transaction=0.091s | total=0.124s
+CYCLE: total=28.106s
+
+[2026-09-15 00:09:26] SNAPSHOT SAVED: id=45 | pages=3 | raw=278 | unique=278 | duplicates=0 | saved=278
+PAGES: page_1=9.677s(100) | page_2=8.674s(100) | page_3=8.965s(78)
+COLLECTOR: fetch_total=27.316s | dedup=0.0001s | normalize=0.0008s | total=27.318s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.069s | avg_order_save=0.247ms | transaction=0.072s | total=0.100s
+CYCLE: total=27.418s
+
+[2026-09-15 00:12:27] SNAPSHOT SAVED: id=46 | pages=3 | raw=276 | unique=276 | duplicates=0 | saved=276
+PAGES: page_1=9.645s(100) | page_2=8.656s(100) | page_3=10.618s(76)
+COLLECTOR: fetch_total=28.919s | dedup=0.0001s | normalize=0.0008s | total=28.921s
+DATABASE: connect=0.133s | create_snapshot=0.0016s | save_orders=0.098s | avg_order_save=0.355ms | transaction=0.101s | total=0.235s
+CYCLE: total=29.156s
+
+[2026-09-15 00:15:28] SNAPSHOT SAVED: id=47 | pages=3 | raw=274 | unique=273 | duplicates=1 | saved=273
+PAGES: page_1=9.652s(100) | page_2=9.650s(100) | page_3=10.633s(74)
+COLLECTOR: fetch_total=29.935s | dedup=0.0001s | normalize=0.0008s | total=29.937s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.056s | avg_order_save=0.205ms | transaction=0.059s | total=0.087s
+CYCLE: total=30.025s
+
+[2026-09-15 00:18:27] SNAPSHOT SAVED: id=48 | pages=3 | raw=272 | unique=271 | duplicates=1 | saved=271
+PAGES: page_1=8.663s(100) | page_2=10.674s(100) | page_3=9.718s(72)
+COLLECTOR: fetch_total=29.055s | dedup=0.0001s | normalize=0.0008s | total=29.057s
+DATABASE: connect=0.136s | create_snapshot=0.0016s | save_orders=0.088s | avg_order_save=0.324ms | transaction=0.091s | total=0.227s
+CYCLE: total=29.285s
+
+[2026-09-15 00:21:28] SNAPSHOT SAVED: id=49 | pages=3 | raw=258 | unique=258 | duplicates=0 | saved=258
+PAGES: page_1=10.941s(100) | page_2=9.709s(100) | page_3=8.621s(58)
+COLLECTOR: fetch_total=29.271s | dedup=0.0001s | normalize=0.0008s | total=29.272s
+DATABASE: connect=0.032s | create_snapshot=0.0016s | save_orders=0.075s | avg_order_save=0.291ms | transaction=0.078s | total=0.110s
+CYCLE: total=29.383s
+
+[2026-09-15 00:24:28] SNAPSHOT SAVED: id=50 | pages=3 | raw=259 | unique=258 | duplicates=1 | saved=258
+PAGES: page_1=10.648s(100) | page_2=9.937s(100) | page_3=9.636s(59)
+COLLECTOR: fetch_total=30.221s | dedup=0.0001s | normalize=0.0008s | total=30.222s
+DATABASE: connect=0.026s | create_snapshot=0.0017s | save_orders=0.061s | avg_order_save=0.237ms | transaction=0.064s | total=0.090s
+CYCLE: total=30.313s
+
+[2026-09-15 00:27:26] SNAPSHOT SAVED: id=51 | pages=3 | raw=264 | unique=261 | duplicates=3 | saved=261
+PAGES: page_1=8.650s(100) | page_2=8.718s(100) | page_3=10.755s(64)
+COLLECTOR: fetch_total=28.124s | dedup=0.0001s | normalize=0.0007s | total=28.125s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.082s | avg_order_save=0.312ms | transaction=0.085s | total=0.113s
+CYCLE: total=28.239s
+
+[2026-09-15 00:30:28] SNAPSHOT SAVED: id=52 | pages=3 | raw=253 | unique=253 | duplicates=0 | saved=253
+PAGES: page_1=10.639s(100) | page_2=10.641s(100) | page_3=8.560s(53)
+COLLECTOR: fetch_total=29.840s | dedup=0.0001s | normalize=0.0011s | total=29.841s
+DATABASE: connect=0.027s | create_snapshot=0.0016s | save_orders=0.052s | avg_order_save=0.206ms | transaction=0.055s | total=0.082s
+CYCLE: total=29.924s
+
+[2026-09-15 00:33:31] SNAPSHOT SAVED: id=53 | pages=3 | raw=251 | unique=248 | duplicates=3 | saved=248
+PAGES: page_1=10.907s(100) | page_2=10.922s(100) | page_3=10.571s(51)
+COLLECTOR: fetch_total=32.400s | dedup=0.0001s | normalize=0.0013s | total=32.402s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.088s | avg_order_save=0.353ms | transaction=0.091s | total=0.116s
+CYCLE: total=32.518s
+
+[2026-09-15 00:36:28] SNAPSHOT SAVED: id=54 | pages=3 | raw=247 | unique=246 | duplicates=1 | saved=246
+PAGES: page_1=10.664s(100) | page_2=10.655s(100) | page_3=8.616s(47)
+COLLECTOR: fetch_total=29.935s | dedup=0.0001s | normalize=0.0011s | total=29.937s
+DATABASE: connect=0.033s | create_snapshot=0.0017s | save_orders=0.049s | avg_order_save=0.200ms | transaction=0.052s | total=0.085s
+CYCLE: total=30.023s
+
+[2026-09-15 00:39:26] SNAPSHOT SAVED: id=55 | pages=3 | raw=250 | unique=250 | duplicates=0 | saved=250
+PAGES: page_1=9.647s(100) | page_2=8.640s(100) | page_3=9.554s(50)
+COLLECTOR: fetch_total=27.841s | dedup=0.0001s | normalize=0.0011s | total=27.843s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.065s | avg_order_save=0.260ms | transaction=0.068s | total=0.093s
+CYCLE: total=27.937s
+
+[2026-09-15 00:42:25] SNAPSHOT SAVED: id=56 | pages=3 | raw=248 | unique=248 | duplicates=0 | saved=248
+PAGES: page_1=8.786s(100) | page_2=8.637s(100) | page_3=9.569s(48)
+COLLECTOR: fetch_total=26.993s | dedup=0.0001s | normalize=0.0011s | total=26.995s
+DATABASE: connect=0.029s | create_snapshot=0.0016s | save_orders=0.093s | avg_order_save=0.373ms | transaction=0.096s | total=0.125s
+CYCLE: total=27.120s
+
+[2026-09-15 00:45:26] SNAPSHOT SAVED: id=57 | pages=3 | raw=237 | unique=237 | duplicates=0 | saved=237
+PAGES: page_1=8.660s(100) | page_2=8.662s(100) | page_3=10.543s(37)
+COLLECTOR: fetch_total=27.865s | dedup=0.0001s | normalize=0.0011s | total=27.867s
+DATABASE: connect=0.135s | create_snapshot=0.0017s | save_orders=0.051s | avg_order_save=0.216ms | transaction=0.054s | total=0.189s
+CYCLE: total=28.057s
+
+[2026-09-15 00:48:30] SNAPSHOT SAVED: id=58 | pages=3 | raw=231 | unique=231 | duplicates=0 | saved=231
+PAGES: page_1=10.678s(100) | page_2=10.647s(100) | page_3=10.535s(31)
+COLLECTOR: fetch_total=31.860s | dedup=0.0001s | normalize=0.0008s | total=31.861s
+DATABASE: connect=0.033s | create_snapshot=0.0016s | save_orders=0.078s | avg_order_save=0.340ms | transaction=0.082s | total=0.116s
+CYCLE: total=31.977s
+
+[2026-09-15 00:51:25] SNAPSHOT SAVED: id=59 | pages=3 | raw=232 | unique=230 | duplicates=2 | saved=230
+PAGES: page_1=8.648s(100) | page_2=9.683s(100) | page_3=8.598s(32)
+COLLECTOR: fetch_total=26.929s | dedup=0.0001s | normalize=0.0008s | total=26.931s
+DATABASE: connect=0.037s | create_snapshot=0.0016s | save_orders=0.088s | avg_order_save=0.384ms | transaction=0.093s | total=0.129s
+CYCLE: total=27.061s
+
+[2026-09-15 00:54:28] SNAPSHOT SAVED: id=60 | pages=3 | raw=233 | unique=233 | duplicates=0 | saved=233
+PAGES: page_1=10.697s(100) | page_2=9.653s(100) | page_3=9.578s(33)
+COLLECTOR: fetch_total=29.928s | dedup=0.0001s | normalize=0.0008s | total=29.929s
+DATABASE: connect=0.027s | create_snapshot=0.0016s | save_orders=0.057s | avg_order_save=0.246ms | transaction=0.060s | total=0.087s
+CYCLE: total=30.017s
+
+[2026-09-15 00:57:26] SNAPSHOT SAVED: id=61 | pages=3 | raw=236 | unique=236 | duplicates=0 | saved=236
+PAGES: page_1=8.772s(100) | page_2=8.694s(100) | page_3=10.571s(36)
+COLLECTOR: fetch_total=28.037s | dedup=0.0001s | normalize=0.0012s | total=28.039s
+DATABASE: connect=0.036s | create_snapshot=0.0017s | save_orders=0.091s | avg_order_save=0.388ms | transaction=0.095s | total=0.131s
+CYCLE: total=28.171s
+
+[2026-09-15 01:00:26] SNAPSHOT SAVED: id=62 | pages=3 | raw=242 | unique=238 | duplicates=4 | saved=238
+PAGES: page_1=9.653s(100) | page_2=9.646s(100) | page_3=8.579s(42)
+COLLECTOR: fetch_total=27.878s | dedup=0.0001s | normalize=0.0011s | total=27.880s
+DATABASE: connect=0.028s | create_snapshot=0.0018s | save_orders=0.055s | avg_order_save=0.232ms | transaction=0.058s | total=0.086s
+CYCLE: total=27.967s
+
+[2026-09-15 01:03:26] SNAPSHOT SAVED: id=63 | pages=3 | raw=238 | unique=238 | duplicates=0 | saved=238
+PAGES: page_1=9.645s(100) | page_2=9.676s(100) | page_3=8.586s(38)
+COLLECTOR: fetch_total=27.907s | dedup=0.0001s | normalize=0.0011s | total=27.908s
+DATABASE: connect=0.029s | create_snapshot=0.0016s | save_orders=0.080s | avg_order_save=0.335ms | transaction=0.083s | total=0.112s
+CYCLE: total=28.021s
+
+[2026-09-15 01:06:26] SNAPSHOT SAVED: id=64 | pages=3 | raw=230 | unique=230 | duplicates=0 | saved=230
+PAGES: page_1=8.648s(100) | page_2=9.658s(100) | page_3=9.555s(30)
+COLLECTOR: fetch_total=27.860s | dedup=0.0001s | normalize=0.0008s | total=27.862s
+DATABASE: connect=0.031s | create_snapshot=0.0018s | save_orders=0.086s | avg_order_save=0.373ms | transaction=0.089s | total=0.120s
+CYCLE: total=27.982s
+
+[2026-09-15 01:09:24] SNAPSHOT SAVED: id=65 | pages=3 | raw=226 | unique=225 | duplicates=1 | saved=225
+PAGES: page_1=8.967s(100) | page_2=8.664s(100) | page_3=8.539s(26)
+COLLECTOR: fetch_total=26.170s | dedup=0.0001s | normalize=0.0008s | total=26.171s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.049s | avg_order_save=0.219ms | transaction=0.052s | total=0.080s
+CYCLE: total=26.251s
+
+[2026-09-15 01:12:27] SNAPSHOT SAVED: id=66 | pages=3 | raw=226 | unique=223 | duplicates=3 | saved=223
+PAGES: page_1=8.655s(100) | page_2=9.652s(100) | page_3=10.538s(26)
+COLLECTOR: fetch_total=28.845s | dedup=0.0001s | normalize=0.0008s | total=28.846s
+DATABASE: connect=0.028s | create_snapshot=0.0017s | save_orders=0.085s | avg_order_save=0.382ms | transaction=0.089s | total=0.116s
+CYCLE: total=28.963s
+
+[2026-09-15 01:15:27] SNAPSHOT SAVED: id=67 | pages=3 | raw=225 | unique=225 | duplicates=0 | saved=225
+PAGES: page_1=10.665s(100) | page_2=9.663s(100) | page_3=8.573s(25)
+COLLECTOR: fetch_total=28.900s | dedup=0.0001s | normalize=0.0008s | total=28.902s
+DATABASE: connect=0.033s | create_snapshot=0.0016s | save_orders=0.047s | avg_order_save=0.208ms | transaction=0.049s | total=0.082s
+CYCLE: total=28.985s
+
+[2026-09-15 01:18:25] SNAPSHOT SAVED: id=68 | pages=3 | raw=217 | unique=217 | duplicates=0 | saved=217
+PAGES: page_1=9.723s(100) | page_2=8.660s(100) | page_3=8.532s(17)
+COLLECTOR: fetch_total=26.915s | dedup=0.0001s | normalize=0.0008s | total=26.917s
+DATABASE: connect=0.128s | create_snapshot=0.0016s | save_orders=0.080s | avg_order_save=0.367ms | transaction=0.083s | total=0.211s
+CYCLE: total=27.129s
+
+[2026-09-15 01:21:27] SNAPSHOT SAVED: id=69 | pages=3 | raw=217 | unique=216 | duplicates=1 | saved=216
+PAGES: page_1=10.636s(100) | page_2=9.635s(100) | page_3=8.614s(17)
+COLLECTOR: fetch_total=28.885s | dedup=0.0001s | normalize=0.0007s | total=28.886s
+DATABASE: connect=0.128s | create_snapshot=0.0017s | save_orders=0.046s | avg_order_save=0.213ms | transaction=0.049s | total=0.177s
+CYCLE: total=29.064s
+
+[2026-09-15 01:24:28] SNAPSHOT SAVED: id=70 | pages=3 | raw=207 | unique=207 | duplicates=0 | saved=207
+PAGES: page_1=10.734s(100) | page_2=9.655s(100) | page_3=9.583s(7)
+COLLECTOR: fetch_total=29.972s | dedup=0.0000s | normalize=0.0007s | total=29.973s
+DATABASE: connect=0.128s | create_snapshot=0.0017s | save_orders=0.074s | avg_order_save=0.359ms | transaction=0.078s | total=0.206s
+CYCLE: total=30.180s
+
+[2026-09-15 01:27:25] SNAPSHOT SAVED: id=71 | pages=3 | raw=215 | unique=213 | duplicates=2 | saved=213
+PAGES: page_1=8.653s(100) | page_2=9.752s(100) | page_3=8.544s(15)
+COLLECTOR: fetch_total=26.949s | dedup=0.0001s | normalize=0.0007s | total=26.950s
+DATABASE: connect=0.028s | create_snapshot=0.0017s | save_orders=0.061s | avg_order_save=0.287ms | transaction=0.064s | total=0.092s
+CYCLE: total=27.043s
+
+[2026-09-15 01:30:27] SNAPSHOT SAVED: id=72 | pages=3 | raw=228 | unique=228 | duplicates=0 | saved=228
+PAGES: page_1=8.643s(100) | page_2=10.777s(100) | page_3=9.538s(28)
+COLLECTOR: fetch_total=28.958s | dedup=0.0001s | normalize=0.0008s | total=28.960s
+DATABASE: connect=0.027s | create_snapshot=0.0017s | save_orders=0.055s | avg_order_save=0.240ms | transaction=0.058s | total=0.085s
+CYCLE: total=29.046s
+
+[2026-09-15 01:33:25] SNAPSHOT SAVED: id=73 | pages=3 | raw=225 | unique=224 | duplicates=1 | saved=224
+PAGES: page_1=8.781s(100) | page_2=8.742s(100) | page_3=9.545s(25)
+COLLECTOR: fetch_total=27.068s | dedup=0.0001s | normalize=0.0007s | total=27.069s
+DATABASE: connect=0.026s | create_snapshot=0.0017s | save_orders=0.086s | avg_order_save=0.383ms | transaction=0.089s | total=0.115s
+CYCLE: total=27.185s
+
+[2026-09-15 01:36:28] SNAPSHOT SAVED: id=74 | pages=3 | raw=219 | unique=217 | duplicates=2 | saved=217
+PAGES: page_1=9.147s(100) | page_2=9.813s(100) | page_3=10.641s(19)
+COLLECTOR: fetch_total=29.601s | dedup=0.0001s | normalize=0.0007s | total=29.602s
+DATABASE: connect=0.033s | create_snapshot=0.0016s | save_orders=0.082s | avg_order_save=0.378ms | transaction=0.085s | total=0.119s
+CYCLE: total=29.722s
+
+[2026-09-15 01:39:26] SNAPSHOT SAVED: id=75 | pages=3 | raw=217 | unique=217 | duplicates=0 | saved=217
+PAGES: page_1=9.655s(100) | page_2=8.649s(100) | page_3=9.555s(17)
+COLLECTOR: fetch_total=27.859s | dedup=0.0001s | normalize=0.0007s | total=27.860s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.046s | avg_order_save=0.214ms | transaction=0.049s | total=0.077s
+CYCLE: total=27.938s
+
+[2026-09-15 01:42:25] SNAPSHOT SAVED: id=76 | pages=3 | raw=218 | unique=218 | duplicates=0 | saved=218
+PAGES: page_1=8.630s(100) | page_2=8.671s(100) | page_3=9.536s(18)
+COLLECTOR: fetch_total=26.837s | dedup=0.0001s | normalize=0.0007s | total=26.838s
+DATABASE: connect=0.034s | create_snapshot=0.0016s | save_orders=0.079s | avg_order_save=0.364ms | transaction=0.083s | total=0.117s
+CYCLE: total=26.956s
+
+[2026-09-15 01:45:26] SNAPSHOT SAVED: id=77 | pages=3 | raw=219 | unique=219 | duplicates=0 | saved=219
+PAGES: page_1=8.704s(100) | page_2=8.722s(100) | page_3=9.827s(19)
+COLLECTOR: fetch_total=27.253s | dedup=0.0001s | normalize=0.0008s | total=27.254s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.045s | avg_order_save=0.204ms | transaction=0.048s | total=0.075s
+CYCLE: total=27.330s
+
+[2026-09-15 01:48:27] SNAPSHOT SAVED: id=78 | pages=3 | raw=207 | unique=207 | duplicates=0 | saved=207
+PAGES: page_1=9.721s(100) | page_2=10.672s(100) | page_3=8.557s(7)
+COLLECTOR: fetch_total=28.950s | dedup=0.0001s | normalize=0.0007s | total=28.952s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.062s | avg_order_save=0.298ms | transaction=0.065s | total=0.093s
+CYCLE: total=29.045s
+
+[2026-09-15 01:51:26] SNAPSHOT SAVED: id=79 | pages=3 | raw=200 | unique=200 | duplicates=0 | saved=200
+PAGES: page_1=8.613s(100) | page_2=8.681s(100) | page_3=10.560s(0)
+COLLECTOR: fetch_total=27.855s | dedup=0.0000s | normalize=0.0007s | total=27.856s
+DATABASE: connect=0.130s | create_snapshot=0.0016s | save_orders=0.067s | avg_order_save=0.337ms | transaction=0.071s | total=0.200s
+CYCLE: total=28.057s
+
+[2026-09-15 01:54:27] SNAPSHOT SAVED: id=80 | pages=3 | raw=206 | unique=205 | duplicates=1 | saved=205
+PAGES: page_1=9.723s(100) | page_2=8.931s(100) | page_3=9.619s(6)
+COLLECTOR: fetch_total=28.272s | dedup=0.0000s | normalize=0.0007s | total=28.273s
+DATABASE: connect=0.027s | create_snapshot=0.0016s | save_orders=0.064s | avg_order_save=0.312ms | transaction=0.067s | total=0.094s
+CYCLE: total=28.368s
+
+[2026-09-15 01:57:26] SNAPSHOT SAVED: id=81 | pages=3 | raw=200 | unique=200 | duplicates=0 | saved=200
+PAGES: page_1=9.740s(100) | page_2=9.647s(100) | page_3=8.534s(0)
+COLLECTOR: fetch_total=27.920s | dedup=0.0001s | normalize=0.0007s | total=27.922s
+DATABASE: connect=0.141s | create_snapshot=0.0017s | save_orders=0.068s | avg_order_save=0.340ms | transaction=0.071s | total=0.212s
+CYCLE: total=28.134s
+
+[2026-09-15 02:00:18] SNAPSHOT SAVED: id=82 | pages=2 | raw=194 | unique=194 | duplicates=0 | saved=194
+PAGES: page_1=8.660s(100) | page_2=10.937s(94)
+COLLECTOR: fetch_total=19.597s | dedup=0.0001s | normalize=0.0007s | total=19.598s
+DATABASE: connect=0.027s | create_snapshot=0.0017s | save_orders=0.060s | avg_order_save=0.311ms | transaction=0.063s | total=0.090s
+CYCLE: total=19.689s
+
+[2026-09-15 02:03:18] SNAPSHOT SAVED: id=83 | pages=2 | raw=198 | unique=197 | duplicates=1 | saved=197
+PAGES: page_1=8.782s(100) | page_2=10.680s(98)
+COLLECTOR: fetch_total=19.463s | dedup=0.0001s | normalize=0.0007s | total=19.464s
+DATABASE: connect=0.027s | create_snapshot=0.0018s | save_orders=0.072s | avg_order_save=0.366ms | transaction=0.076s | total=0.103s
+CYCLE: total=19.567s
+
+[2026-09-15 02:06:19] SNAPSHOT SAVED: id=84 | pages=2 | raw=199 | unique=197 | duplicates=2 | saved=197
+PAGES: page_1=10.797s(100) | page_2=9.739s(99)
+COLLECTOR: fetch_total=20.535s | dedup=0.0001s | normalize=0.0006s | total=20.536s
+DATABASE: connect=0.035s | create_snapshot=0.0017s | save_orders=0.056s | avg_order_save=0.283ms | transaction=0.059s | total=0.094s
+CYCLE: total=20.631s
+
+[2026-09-15 02:09:25] SNAPSHOT SAVED: id=85 | pages=3 | raw=205 | unique=203 | duplicates=2 | saved=203
+PAGES: page_1=9.665s(100) | page_2=8.675s(100) | page_3=8.552s(5)
+COLLECTOR: fetch_total=26.892s | dedup=0.0001s | normalize=0.0007s | total=26.893s
+DATABASE: connect=0.125s | create_snapshot=0.0017s | save_orders=0.070s | avg_order_save=0.344ms | transaction=0.073s | total=0.198s
+CYCLE: total=27.092s
+
+[2026-09-15 02:12:17] SNAPSHOT SAVED: id=86 | pages=2 | raw=196 | unique=196 | duplicates=0 | saved=196
+PAGES: page_1=8.655s(100) | page_2=9.803s(96)
+COLLECTOR: fetch_total=18.458s | dedup=0.0002s | normalize=0.0015s | total=18.460s
+DATABASE: connect=0.027s | create_snapshot=0.0018s | save_orders=0.054s | avg_order_save=0.273ms | transaction=0.057s | total=0.084s
+CYCLE: total=18.546s
+
+[2026-09-15 02:15:26] SNAPSHOT SAVED: id=87 | pages=3 | raw=200 | unique=200 | duplicates=0 | saved=200
+PAGES: page_1=9.770s(100) | page_2=8.746s(100) | page_3=9.516s(0)
+COLLECTOR: fetch_total=28.032s | dedup=0.0000s | normalize=0.0007s | total=28.034s
+DATABASE: connect=0.027s | create_snapshot=0.0016s | save_orders=0.051s | avg_order_save=0.257ms | transaction=0.054s | total=0.081s
+CYCLE: total=28.116s
+
+[2026-09-15 02:18:27] SNAPSHOT SAVED: id=88 | pages=3 | raw=201 | unique=201 | duplicates=0 | saved=201
+PAGES: page_1=9.616s(100) | page_2=9.231s(100) | page_3=9.525s(1)
+COLLECTOR: fetch_total=28.373s | dedup=0.0000s | normalize=0.0007s | total=28.374s
+DATABASE: connect=0.131s | create_snapshot=0.0016s | save_orders=0.075s | avg_order_save=0.375ms | transaction=0.079s | total=0.209s
+CYCLE: total=28.584s
+
+[2026-09-15 02:21:27] SNAPSHOT SAVED: id=89 | pages=3 | raw=201 | unique=200 | duplicates=1 | saved=200
+PAGES: page_1=8.651s(100) | page_2=9.761s(100) | page_3=10.541s(1)
+COLLECTOR: fetch_total=28.952s | dedup=0.0001s | normalize=0.0007s | total=28.953s
+DATABASE: connect=0.133s | create_snapshot=0.0016s | save_orders=0.051s | avg_order_save=0.257ms | transaction=0.055s | total=0.187s
+CYCLE: total=29.142s
+
+[2026-09-15 02:24:29] SNAPSHOT SAVED: id=90 | pages=3 | raw=205 | unique=201 | duplicates=4 | saved=201
+PAGES: page_1=10.944s(100) | page_2=8.774s(100) | page_3=10.541s(5)
+COLLECTOR: fetch_total=30.259s | dedup=0.0001s | normalize=0.0007s | total=30.260s
+DATABASE: connect=0.028s | create_snapshot=0.0023s | save_orders=0.063s | avg_order_save=0.314ms | transaction=0.067s | total=0.095s
+CYCLE: total=30.356s
+
+[2026-09-15 02:27:17] SNAPSHOT SAVED: id=91 | pages=2 | raw=199 | unique=199 | duplicates=0 | saved=199
+PAGES: page_1=8.668s(100) | page_2=9.670s(99)
+COLLECTOR: fetch_total=18.338s | dedup=0.0001s | normalize=0.0007s | total=18.339s
+DATABASE: connect=0.031s | create_snapshot=0.0017s | save_orders=0.057s | avg_order_save=0.285ms | transaction=0.060s | total=0.091s
+CYCLE: total=18.431s
+
+[2026-09-15 02:30:24] SNAPSHOT SAVED: id=92 | pages=2 | raw=198 | unique=198 | duplicates=0 | saved=198
+PAGES: page_1=14.820s(100) | page_2=11.311s(98)
+COLLECTOR: fetch_total=26.131s | dedup=0.0001s | normalize=0.0007s | total=26.132s
+DATABASE: connect=0.024s | create_snapshot=0.0016s | save_orders=0.039s | avg_order_save=0.199ms | transaction=0.042s | total=0.067s
+CYCLE: total=26.199s
+
+[2026-09-15 02:33:20] SNAPSHOT SAVED: id=93 | pages=2 | raw=198 | unique=197 | duplicates=1 | saved=197
+PAGES: page_1=10.765s(100) | page_2=10.647s(98)
+COLLECTOR: fetch_total=21.412s | dedup=0.0001s | normalize=0.0007s | total=21.413s
+DATABASE: connect=0.028s | create_snapshot=0.0018s | save_orders=0.051s | avg_order_save=0.260ms | transaction=0.054s | total=0.082s
+CYCLE: total=21.496s
+
+[2026-09-15 02:36:29] SNAPSHOT SAVED: id=94 | pages=3 | raw=200 | unique=199 | duplicates=1 | saved=199
+PAGES: page_1=10.635s(100) | page_2=9.772s(100) | page_3=10.532s(0)
+COLLECTOR: fetch_total=30.938s | dedup=0.0001s | normalize=0.0007s | total=30.940s
+DATABASE: connect=0.030s | create_snapshot=0.0017s | save_orders=0.067s | avg_order_save=0.339ms | transaction=0.071s | total=0.101s
+CYCLE: total=31.041s
+
+[2026-09-15 02:39:17] SNAPSHOT SAVED: id=95 | pages=2 | raw=197 | unique=197 | duplicates=0 | saved=197
+PAGES: page_1=9.932s(100) | page_2=8.770s(97)
+COLLECTOR: fetch_total=18.701s | dedup=0.0000s | normalize=0.0007s | total=18.702s
+DATABASE: connect=0.027s | create_snapshot=0.0016s | save_orders=0.062s | avg_order_save=0.315ms | transaction=0.065s | total=0.092s
+CYCLE: total=18.795s
+
+[2026-09-15 02:42:25] SNAPSHOT SAVED: id=96 | pages=3 | raw=200 | unique=200 | duplicates=0 | saved=200
+PAGES: page_1=8.660s(100) | page_2=8.680s(100) | page_3=9.521s(0)
+COLLECTOR: fetch_total=26.861s | dedup=0.0001s | normalize=0.0007s | total=26.863s
+DATABASE: connect=0.024s | create_snapshot=0.0017s | save_orders=0.070s | avg_order_save=0.352ms | transaction=0.074s | total=0.098s
+CYCLE: total=26.962s
+
+[2026-09-15 02:45:19] SNAPSHOT SAVED: id=97 | pages=2 | raw=197 | unique=197 | duplicates=0 | saved=197
+PAGES: page_1=9.791s(100) | page_2=10.821s(97)
+COLLECTOR: fetch_total=20.612s | dedup=0.0001s | normalize=0.0006s | total=20.613s
+DATABASE: connect=0.138s | create_snapshot=0.0016s | save_orders=0.053s | avg_order_save=0.268ms | transaction=0.056s | total=0.194s
+CYCLE: total=20.807s
+
+[2026-09-15 02:48:17] SNAPSHOT SAVED: id=98 | pages=2 | raw=192 | unique=191 | duplicates=1 | saved=191
+PAGES: page_1=8.705s(100) | page_2=9.778s(92)
+COLLECTOR: fetch_total=18.483s | dedup=0.0001s | normalize=0.0006s | total=18.485s
+DATABASE: connect=0.140s | create_snapshot=0.0017s | save_orders=0.066s | avg_order_save=0.346ms | transaction=0.070s | total=0.211s
+CYCLE: total=18.696s
+
+[2026-09-15 02:51:17] SNAPSHOT SAVED: id=99 | pages=2 | raw=192 | unique=192 | duplicates=0 | saved=192
+PAGES: page_1=8.673s(100) | page_2=9.700s(92)
+COLLECTOR: fetch_total=18.373s | dedup=0.0001s | normalize=0.0007s | total=18.374s
+DATABASE: connect=0.034s | create_snapshot=0.0017s | save_orders=0.062s | avg_order_save=0.325ms | transaction=0.066s | total=0.100s
+CYCLE: total=18.474s
+
+[2026-09-15 02:54:18] SNAPSHOT SAVED: id=100 | pages=2 | raw=193 | unique=192 | duplicates=1 | saved=192
+PAGES: page_1=8.918s(100) | page_2=10.937s(93)
+COLLECTOR: fetch_total=19.855s | dedup=0.0001s | normalize=0.0006s | total=19.856s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.061s | avg_order_save=0.316ms | transaction=0.064s | total=0.089s
+CYCLE: total=19.945s
+
+[2026-09-15 02:57:18] SNAPSHOT SAVED: id=101 | pages=2 | raw=181 | unique=181 | duplicates=0 | saved=181
+PAGES: page_1=9.664s(100) | page_2=9.747s(81)
+COLLECTOR: fetch_total=19.411s | dedup=0.0000s | normalize=0.0008s | total=19.412s
+DATABASE: connect=0.137s | create_snapshot=0.0016s | save_orders=0.059s | avg_order_save=0.327ms | transaction=0.062s | total=0.199s
+CYCLE: total=19.612s
+
+[2026-09-15 03:00:16] SNAPSHOT SAVED: id=102 | pages=2 | raw=187 | unique=187 | duplicates=0 | saved=187
+PAGES: page_1=8.659s(100) | page_2=8.819s(87)
+COLLECTOR: fetch_total=17.479s | dedup=0.0001s | normalize=0.0007s | total=17.480s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.045s | avg_order_save=0.243ms | transaction=0.048s | total=0.076s
+CYCLE: total=17.557s
+
+[2026-09-15 03:03:19] SNAPSHOT SAVED: id=103 | pages=2 | raw=187 | unique=186 | duplicates=1 | saved=186
+PAGES: page_1=9.793s(100) | page_2=10.752s(87)
+COLLECTOR: fetch_total=20.545s | dedup=0.0001s | normalize=0.0006s | total=20.546s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.046s | avg_order_save=0.246ms | transaction=0.049s | total=0.077s
+CYCLE: total=20.624s
+
+[2026-09-15 03:06:18] SNAPSHOT SAVED: id=104 | pages=2 | raw=184 | unique=183 | duplicates=1 | saved=183
+PAGES: page_1=9.794s(100) | page_2=9.904s(84)
+COLLECTOR: fetch_total=19.698s | dedup=0.0001s | normalize=0.0014s | total=19.700s
+DATABASE: connect=0.030s | create_snapshot=0.0030s | save_orders=0.052s | avg_order_save=0.284ms | transaction=0.057s | total=0.087s
+CYCLE: total=19.788s
+
+[2026-09-15 03:09:18] SNAPSHOT SAVED: id=105 | pages=2 | raw=180 | unique=180 | duplicates=0 | saved=180
+PAGES: page_1=8.970s(100) | page_2=10.632s(80)
+COLLECTOR: fetch_total=19.602s | dedup=0.0001s | normalize=0.0006s | total=19.603s
+DATABASE: connect=0.027s | create_snapshot=0.0017s | save_orders=0.040s | avg_order_save=0.221ms | transaction=0.043s | total=0.070s
+CYCLE: total=19.673s
+
+[2026-09-15 03:12:20] SNAPSHOT SAVED: id=106 | pages=2 | raw=180 | unique=180 | duplicates=0 | saved=180
+PAGES: page_1=10.787s(100) | page_2=10.968s(80)
+COLLECTOR: fetch_total=21.755s | dedup=0.0001s | normalize=0.0006s | total=21.756s
+DATABASE: connect=0.026s | create_snapshot=0.0018s | save_orders=0.053s | avg_order_save=0.293ms | transaction=0.056s | total=0.082s
+CYCLE: total=21.838s
+
+[2026-09-15 03:15:18] SNAPSHOT SAVED: id=107 | pages=2 | raw=176 | unique=176 | duplicates=0 | saved=176
+PAGES: page_1=9.798s(100) | page_2=9.662s(76)
+COLLECTOR: fetch_total=19.460s | dedup=0.0001s | normalize=0.0011s | total=19.462s
+DATABASE: connect=0.030s | create_snapshot=0.0019s | save_orders=0.037s | avg_order_save=0.213ms | transaction=0.041s | total=0.070s
+CYCLE: total=19.533s
+
+[2026-09-15 03:18:17] SNAPSHOT SAVED: id=108 | pages=2 | raw=176 | unique=175 | duplicates=1 | saved=175
+PAGES: page_1=9.685s(100) | page_2=8.643s(76)
+COLLECTOR: fetch_total=18.328s | dedup=0.0001s | normalize=0.0006s | total=18.329s
+DATABASE: connect=0.026s | create_snapshot=0.0017s | save_orders=0.047s | avg_order_save=0.271ms | transaction=0.050s | total=0.077s
+CYCLE: total=18.406s
+
+[2026-09-15 03:21:20] SNAPSHOT SAVED: id=109 | pages=2 | raw=176 | unique=176 | duplicates=0 | saved=176
+PAGES: page_1=10.783s(100) | page_2=10.800s(76)
+COLLECTOR: fetch_total=21.582s | dedup=0.0000s | normalize=0.0006s | total=21.583s
+DATABASE: connect=0.033s | create_snapshot=0.0016s | save_orders=0.061s | avg_order_save=0.349ms | transaction=0.065s | total=0.097s
+CYCLE: total=21.681s
+
+[2026-09-15 03:24:18] SNAPSHOT SAVED: id=110 | pages=2 | raw=174 | unique=174 | duplicates=0 | saved=174
+PAGES: page_1=10.660s(100) | page_2=8.769s(74)
+COLLECTOR: fetch_total=19.430s | dedup=0.0000s | normalize=0.0006s | total=19.431s
+DATABASE: connect=0.130s | create_snapshot=0.0016s | save_orders=0.055s | avg_order_save=0.317ms | transaction=0.058s | total=0.188s
+CYCLE: total=19.619s
+
+[2026-09-15 03:27:18] SNAPSHOT SAVED: id=111 | pages=2 | raw=174 | unique=173 | duplicates=1 | saved=173
+PAGES: page_1=8.685s(100) | page_2=10.779s(74)
+COLLECTOR: fetch_total=19.464s | dedup=0.0001s | normalize=0.0006s | total=19.465s
+DATABASE: connect=0.030s | create_snapshot=0.0016s | save_orders=0.055s | avg_order_save=0.320ms | transaction=0.059s | total=0.088s
+CYCLE: total=19.554s
+
+[2026-09-15 03:30:20] SNAPSHOT SAVED: id=112 | pages=2 | raw=177 | unique=177 | duplicates=0 | saved=177
+PAGES: page_1=10.763s(100) | page_2=10.651s(77)
+COLLECTOR: fetch_total=21.414s | dedup=0.0001s | normalize=0.0006s | total=21.415s
+DATABASE: connect=0.029s | create_snapshot=0.0018s | save_orders=0.069s | avg_order_save=0.389ms | transaction=0.072s | total=0.101s
+CYCLE: total=21.517s
+
+[2026-09-15 03:33:18] SNAPSHOT SAVED: id=113 | pages=2 | raw=179 | unique=179 | duplicates=0 | saved=179
+PAGES: page_1=9.736s(100) | page_2=9.764s(79)
+COLLECTOR: fetch_total=19.500s | dedup=0.0000s | normalize=0.0006s | total=19.501s
+DATABASE: connect=0.026s | create_snapshot=0.0017s | save_orders=0.058s | avg_order_save=0.321ms | transaction=0.061s | total=0.087s
+CYCLE: total=19.588s
+
+[2026-09-15 03:36:18] SNAPSHOT SAVED: id=114 | pages=2 | raw=181 | unique=180 | duplicates=1 | saved=180
+PAGES: page_1=9.788s(100) | page_2=10.098s(81)
+COLLECTOR: fetch_total=19.886s | dedup=0.0001s | normalize=0.0007s | total=19.887s
+DATABASE: connect=0.033s | create_snapshot=0.0017s | save_orders=0.057s | avg_order_save=0.315ms | transaction=0.060s | total=0.093s
+CYCLE: total=19.981s
+
+[2026-09-15 03:39:20] SNAPSHOT SAVED: id=115 | pages=2 | raw=181 | unique=181 | duplicates=0 | saved=181
+PAGES: page_1=11.247s(100) | page_2=10.270s(81)
+COLLECTOR: fetch_total=21.517s | dedup=0.0001s | normalize=0.0007s | total=21.518s
+DATABASE: connect=0.025s | create_snapshot=0.0018s | save_orders=0.038s | avg_order_save=0.212ms | transaction=0.041s | total=0.066s
+CYCLE: total=21.584s
+
+[2026-09-15 03:42:17] SNAPSHOT SAVED: id=116 | pages=2 | raw=177 | unique=177 | duplicates=0 | saved=177
+PAGES: page_1=9.652s(100) | page_2=8.632s(77)
+COLLECTOR: fetch_total=18.284s | dedup=0.0002s | normalize=0.0015s | total=18.286s
+DATABASE: connect=0.032s | create_snapshot=0.0016s | save_orders=0.064s | avg_order_save=0.361ms | transaction=0.067s | total=0.099s
+CYCLE: total=18.387s
+
+[2026-09-15 03:45:19] SNAPSHOT SAVED: id=117 | pages=2 | raw=180 | unique=178 | duplicates=2 | saved=178
+PAGES: page_1=9.911s(100) | page_2=10.637s(80)
+COLLECTOR: fetch_total=20.548s | dedup=0.0001s | normalize=0.0006s | total=20.549s
+DATABASE: connect=0.031s | create_snapshot=0.0016s | save_orders=0.047s | avg_order_save=0.262ms | transaction=0.050s | total=0.081s
+CYCLE: total=20.630s
+
+[2026-09-15 03:48:18] SNAPSHOT SAVED: id=118 | pages=2 | raw=177 | unique=177 | duplicates=0 | saved=177
+PAGES: page_1=9.725s(100) | page_2=9.645s(77)
+COLLECTOR: fetch_total=19.370s | dedup=0.0000s | normalize=0.0006s | total=19.371s
+DATABASE: connect=0.127s | create_snapshot=0.0016s | save_orders=0.063s | avg_order_save=0.354ms | transaction=0.066s | total=0.193s
+CYCLE: total=19.564s
+
+[2026-09-15 03:51:17] SNAPSHOT SAVED: id=119 | pages=2 | raw=176 | unique=175 | duplicates=1 | saved=175
+PAGES: page_1=9.649s(100) | page_2=8.634s(76)
+COLLECTOR: fetch_total=18.283s | dedup=0.0001s | normalize=0.0006s | total=18.284s
+DATABASE: connect=0.034s | create_snapshot=0.0016s | save_orders=0.049s | avg_order_save=0.282ms | transaction=0.053s | total=0.086s
+CYCLE: total=18.371s
+
+[2026-09-15 03:54:19] SNAPSHOT SAVED: id=120 | pages=2 | raw=174 | unique=174 | duplicates=0 | saved=174
+PAGES: page_1=9.788s(100) | page_2=10.596s(74)
+COLLECTOR: fetch_total=20.384s | dedup=0.0000s | normalize=0.0006s | total=20.385s
+DATABASE: connect=0.131s | create_snapshot=0.0018s | save_orders=0.060s | avg_order_save=0.342ms | transaction=0.063s | total=0.194s
+CYCLE: total=20.579s
+
+[2026-09-15 03:57:18] SNAPSHOT SAVED: id=121 | pages=2 | raw=172 | unique=171 | duplicates=1 | saved=171
+PAGES: page_1=8.769s(100) | page_2=10.660s(72)
+COLLECTOR: fetch_total=19.429s | dedup=0.0001s | normalize=0.0006s | total=19.430s
+DATABASE: connect=0.033s | create_snapshot=0.0016s | save_orders=0.060s | avg_order_save=0.352ms | transaction=0.063s | total=0.096s
+CYCLE: total=19.527s
+
+[2026-09-15 04:00:17] SNAPSHOT SAVED: id=122 | pages=2 | raw=170 | unique=170 | duplicates=0 | saved=170
+PAGES: page_1=8.899s(100) | page_2=9.611s(70)
+COLLECTOR: fetch_total=18.510s | dedup=0.0000s | normalize=0.0006s | total=18.511s
+DATABASE: connect=0.027s | create_snapshot=0.0016s | save_orders=0.044s | avg_order_save=0.261ms | transaction=0.047s | total=0.074s
+CYCLE: total=18.586s
+
+[2026-09-15 04:03:18] SNAPSHOT SAVED: id=123 | pages=2 | raw=170 | unique=169 | duplicates=1 | saved=169
+PAGES: page_1=10.657s(100) | page_2=8.809s(70)
+COLLECTOR: fetch_total=19.465s | dedup=0.0001s | normalize=0.0006s | total=19.466s
+DATABASE: connect=0.031s | create_snapshot=0.0016s | save_orders=0.054s | avg_order_save=0.321ms | transaction=0.057s | total=0.088s
+CYCLE: total=19.555s
+
+[2026-09-15 04:06:21] SNAPSHOT SAVED: id=124 | pages=2 | raw=175 | unique=174 | duplicates=1 | saved=174
+PAGES: page_1=10.765s(100) | page_2=11.748s(75)
+COLLECTOR: fetch_total=22.513s | dedup=0.0001s | normalize=0.0006s | total=22.514s
+DATABASE: connect=0.035s | create_snapshot=0.0029s | save_orders=0.057s | avg_order_save=0.330ms | transaction=0.062s | total=0.097s
+CYCLE: total=22.612s
+
+[2026-09-15 04:09:16] SNAPSHOT SAVED: id=125 | pages=2 | raw=176 | unique=176 | duplicates=0 | saved=176
+PAGES: page_1=8.720s(100) | page_2=8.662s(76)
+COLLECTOR: fetch_total=17.383s | dedup=0.0001s | normalize=0.0006s | total=17.384s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.055s | avg_order_save=0.314ms | transaction=0.058s | total=0.086s
+CYCLE: total=17.470s
+
+[2026-09-15 04:12:19] SNAPSHOT SAVED: id=126 | pages=2 | raw=175 | unique=175 | duplicates=0 | saved=175
+PAGES: page_1=9.751s(100) | page_2=10.605s(75)
+COLLECTOR: fetch_total=20.355s | dedup=0.0000s | normalize=0.0006s | total=20.356s
+DATABASE: connect=0.137s | create_snapshot=0.0016s | save_orders=0.056s | avg_order_save=0.323ms | transaction=0.060s | total=0.197s
+CYCLE: total=20.554s
+
+[2026-09-15 04:15:19] SNAPSHOT SAVED: id=127 | pages=2 | raw=174 | unique=174 | duplicates=0 | saved=174
+PAGES: page_1=10.632s(100) | page_2=9.637s(74)
+COLLECTOR: fetch_total=20.269s | dedup=0.0000s | normalize=0.0007s | total=20.270s
+DATABASE: connect=0.033s | create_snapshot=0.0016s | save_orders=0.048s | avg_order_save=0.277ms | transaction=0.051s | total=0.084s
+CYCLE: total=20.354s
+
+[2026-09-15 04:18:18] SNAPSHOT SAVED: id=128 | pages=2 | raw=169 | unique=169 | duplicates=0 | saved=169
+PAGES: page_1=10.803s(100) | page_2=8.631s(69)
+COLLECTOR: fetch_total=19.434s | dedup=0.0000s | normalize=0.0006s | total=19.435s
+DATABASE: connect=0.143s | create_snapshot=0.0016s | save_orders=0.067s | avg_order_save=0.395ms | transaction=0.070s | total=0.212s
+CYCLE: total=19.648s
+
+[2026-09-15 04:21:17] SNAPSHOT SAVED: id=129 | pages=2 | raw=169 | unique=169 | duplicates=0 | saved=169
+PAGES: page_1=8.646s(100) | page_2=9.655s(69)
+COLLECTOR: fetch_total=18.301s | dedup=0.0000s | normalize=0.0006s | total=18.302s
+DATABASE: connect=0.033s | create_snapshot=0.0017s | save_orders=0.046s | avg_order_save=0.273ms | transaction=0.049s | total=0.082s
+CYCLE: total=18.385s
+
+[2026-09-15 04:24:19] SNAPSHOT SAVED: id=130 | pages=2 | raw=169 | unique=168 | duplicates=1 | saved=168
+PAGES: page_1=10.788s(100) | page_2=9.654s(69)
+COLLECTOR: fetch_total=20.442s | dedup=0.0001s | normalize=0.0011s | total=20.443s
+DATABASE: connect=0.040s | create_snapshot=0.0030s | save_orders=0.053s | avg_order_save=0.314ms | transaction=0.057s | total=0.097s
+CYCLE: total=20.541s
+
+[2026-09-15 04:27:19] SNAPSHOT SAVED: id=131 | pages=2 | raw=163 | unique=163 | duplicates=0 | saved=163
+PAGES: page_1=10.730s(100) | page_2=9.603s(63)
+COLLECTOR: fetch_total=20.333s | dedup=0.0000s | normalize=0.0006s | total=20.334s
+DATABASE: connect=0.131s | create_snapshot=0.0016s | save_orders=0.056s | avg_order_save=0.342ms | transaction=0.059s | total=0.190s
+CYCLE: total=20.524s
+
+[2026-09-15 04:30:17] SNAPSHOT SAVED: id=132 | pages=2 | raw=169 | unique=169 | duplicates=0 | saved=169
+PAGES: page_1=9.687s(100) | page_2=9.062s(69)
+COLLECTOR: fetch_total=18.749s | dedup=0.0000s | normalize=0.0006s | total=18.750s
+DATABASE: connect=0.134s | create_snapshot=0.0016s | save_orders=0.051s | avg_order_save=0.301ms | transaction=0.054s | total=0.188s
+CYCLE: total=18.938s
+
+[2026-09-15 04:33:17] SNAPSHOT SAVED: id=133 | pages=2 | raw=171 | unique=168 | duplicates=3 | saved=168
+PAGES: page_1=8.815s(100) | page_2=9.607s(71)
+COLLECTOR: fetch_total=18.422s | dedup=0.0001s | normalize=0.0006s | total=18.423s
+DATABASE: connect=0.135s | create_snapshot=0.0016s | save_orders=0.051s | avg_order_save=0.306ms | transaction=0.054s | total=0.190s
+CYCLE: total=18.613s
+
+[2026-09-15 04:36:18] SNAPSHOT SAVED: id=134 | pages=2 | raw=168 | unique=168 | duplicates=0 | saved=168
+PAGES: page_1=9.644s(100) | page_2=9.625s(68)
+COLLECTOR: fetch_total=19.268s | dedup=0.0000s | normalize=0.0006s | total=19.269s
+DATABASE: connect=0.028s | create_snapshot=0.0019s | save_orders=0.041s | avg_order_save=0.244ms | transaction=0.044s | total=0.072s
+CYCLE: total=19.342s
+
+[2026-09-15 04:39:18] SNAPSHOT SAVED: id=135 | pages=2 | raw=165 | unique=165 | duplicates=0 | saved=165
+PAGES: page_1=10.647s(100) | page_2=8.637s(65)
+COLLECTOR: fetch_total=19.284s | dedup=0.0000s | normalize=0.0006s | total=19.285s
+DATABASE: connect=0.029s | create_snapshot=0.0018s | save_orders=0.059s | avg_order_save=0.358ms | transaction=0.062s | total=0.091s
+CYCLE: total=19.377s
+
+[2026-09-15 04:42:18] SNAPSHOT SAVED: id=136 | pages=2 | raw=168 | unique=168 | duplicates=0 | saved=168
+PAGES: page_1=9.631s(100) | page_2=9.627s(68)
+COLLECTOR: fetch_total=19.257s | dedup=0.0000s | normalize=0.0006s | total=19.258s
+DATABASE: connect=0.024s | create_snapshot=0.0018s | save_orders=0.047s | avg_order_save=0.283ms | transaction=0.051s | total=0.075s
+CYCLE: total=19.334s
+
+[2026-09-15 04:45:19] SNAPSHOT SAVED: id=137 | pages=2 | raw=166 | unique=166 | duplicates=0 | saved=166
+PAGES: page_1=11.070s(100) | page_2=9.640s(66)
+COLLECTOR: fetch_total=20.710s | dedup=0.0000s | normalize=0.0006s | total=20.711s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.041s | avg_order_save=0.244ms | transaction=0.043s | total=0.068s
+CYCLE: total=20.780s
+
+[2026-09-15 04:48:19] SNAPSHOT SAVED: id=138 | pages=2 | raw=167 | unique=167 | duplicates=0 | saved=167
+PAGES: page_1=10.660s(100) | page_2=10.034s(67)
+COLLECTOR: fetch_total=20.695s | dedup=0.0000s | normalize=0.0006s | total=20.696s
+DATABASE: connect=0.140s | create_snapshot=0.0017s | save_orders=0.043s | avg_order_save=0.260ms | transaction=0.047s | total=0.186s
+CYCLE: total=20.882s
+
+[2026-09-15 04:51:20] SNAPSHOT SAVED: id=139 | pages=2 | raw=167 | unique=167 | duplicates=0 | saved=167
+PAGES: page_1=10.825s(100) | page_2=10.645s(67)
+COLLECTOR: fetch_total=21.470s | dedup=0.0000s | normalize=0.0006s | total=21.471s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.045s | avg_order_save=0.270ms | transaction=0.048s | total=0.073s
+CYCLE: total=21.545s
+
+[2026-09-15 04:54:18] SNAPSHOT SAVED: id=140 | pages=2 | raw=166 | unique=165 | duplicates=1 | saved=165
+PAGES: page_1=8.815s(100) | page_2=10.606s(66)
+COLLECTOR: fetch_total=19.421s | dedup=0.0001s | normalize=0.0007s | total=19.422s
+DATABASE: connect=0.027s | create_snapshot=0.0017s | save_orders=0.042s | avg_order_save=0.256ms | transaction=0.045s | total=0.073s
+CYCLE: total=19.496s
+
+[2026-09-15 04:57:18] SNAPSHOT SAVED: id=141 | pages=2 | raw=164 | unique=163 | duplicates=1 | saved=163
+PAGES: page_1=10.651s(100) | page_2=8.618s(64)
+COLLECTOR: fetch_total=19.270s | dedup=0.0001s | normalize=0.0006s | total=19.271s
+DATABASE: connect=0.032s | create_snapshot=0.0016s | save_orders=0.051s | avg_order_save=0.310ms | transaction=0.054s | total=0.086s
+CYCLE: total=19.357s
+
+[2026-09-15 05:00:19] SNAPSHOT SAVED: id=142 | pages=2 | raw=166 | unique=166 | duplicates=0 | saved=166
+PAGES: page_1=9.780s(100) | page_2=10.658s(66)
+COLLECTOR: fetch_total=20.438s | dedup=0.0000s | normalize=0.0006s | total=20.439s
+DATABASE: connect=0.028s | create_snapshot=0.0017s | save_orders=0.054s | avg_order_save=0.323ms | transaction=0.057s | total=0.084s
+CYCLE: total=20.524s
+
+[2026-09-15 05:03:17] SNAPSHOT SAVED: id=143 | pages=2 | raw=165 | unique=165 | duplicates=0 | saved=165
+PAGES: page_1=9.768s(100) | page_2=8.724s(65)
+COLLECTOR: fetch_total=18.492s | dedup=0.0000s | normalize=0.0006s | total=18.493s
+DATABASE: connect=0.024s | create_snapshot=0.0016s | save_orders=0.064s | avg_order_save=0.389ms | transaction=0.068s | total=0.093s
+CYCLE: total=18.586s
+
+[2026-09-15 05:06:18] SNAPSHOT SAVED: id=144 | pages=2 | raw=155 | unique=155 | duplicates=0 | saved=155
+PAGES: page_1=8.822s(100) | page_2=10.756s(55)
+COLLECTOR: fetch_total=19.578s | dedup=0.0001s | normalize=0.0006s | total=19.579s
+DATABASE: connect=0.025s | create_snapshot=0.0018s | save_orders=0.062s | avg_order_save=0.402ms | transaction=0.066s | total=0.091s
+CYCLE: total=19.670s
+
+[2026-09-15 05:09:20] SNAPSHOT SAVED: id=145 | pages=2 | raw=157 | unique=157 | duplicates=0 | saved=157
+PAGES: page_1=10.764s(100) | page_2=10.666s(57)
+COLLECTOR: fetch_total=21.430s | dedup=0.0000s | normalize=0.0005s | total=21.431s
+DATABASE: connect=0.028s | create_snapshot=0.0018s | save_orders=0.041s | avg_order_save=0.259ms | transaction=0.043s | total=0.071s
+CYCLE: total=21.503s
+
+[2026-09-15 05:12:18] SNAPSHOT SAVED: id=146 | pages=2 | raw=163 | unique=163 | duplicates=0 | saved=163
+PAGES: page_1=9.612s(100) | page_2=9.645s(63)
+COLLECTOR: fetch_total=19.257s | dedup=0.0001s | normalize=0.0006s | total=19.258s
+DATABASE: connect=0.029s | create_snapshot=0.0018s | save_orders=0.068s | avg_order_save=0.419ms | transaction=0.072s | total=0.101s
+CYCLE: total=19.359s
+
+[2026-09-15 05:15:20] SNAPSHOT SAVED: id=147 | pages=2 | raw=162 | unique=161 | duplicates=1 | saved=161
+PAGES: page_1=10.802s(100) | page_2=10.707s(62)
+COLLECTOR: fetch_total=21.509s | dedup=0.0000s | normalize=0.0006s | total=21.510s
+DATABASE: connect=0.032s | create_snapshot=0.0016s | save_orders=0.036s | avg_order_save=0.226ms | transaction=0.039s | total=0.071s
+CYCLE: total=21.581s
+
+[2026-09-15 05:18:22] SNAPSHOT SAVED: id=148 | pages=2 | raw=165 | unique=165 | duplicates=0 | saved=165
+PAGES: page_1=11.028s(100) | page_2=12.791s(65)
+COLLECTOR: fetch_total=23.819s | dedup=0.0000s | normalize=0.0006s | total=23.820s
+DATABASE: connect=0.031s | create_snapshot=0.0017s | save_orders=0.064s | avg_order_save=0.385ms | transaction=0.068s | total=0.099s
+CYCLE: total=23.919s
+
+[2026-09-15 05:21:19] SNAPSHOT SAVED: id=149 | pages=2 | raw=165 | unique=165 | duplicates=0 | saved=165
+PAGES: page_1=10.724s(100) | page_2=9.667s(65)
+COLLECTOR: fetch_total=20.391s | dedup=0.0000s | normalize=0.0006s | total=20.392s
+DATABASE: connect=0.127s | create_snapshot=0.0016s | save_orders=0.051s | avg_order_save=0.309ms | transaction=0.054s | total=0.181s
+CYCLE: total=20.574s
+
+[2026-09-15 05:24:19] SNAPSHOT SAVED: id=150 | pages=2 | raw=162 | unique=162 | duplicates=0 | saved=162
+PAGES: page_1=10.777s(100) | page_2=9.622s(62)
+COLLECTOR: fetch_total=20.398s | dedup=0.0000s | normalize=0.0006s | total=20.399s
+DATABASE: connect=0.033s | create_snapshot=0.0018s | save_orders=0.051s | avg_order_save=0.317ms | transaction=0.054s | total=0.087s
+CYCLE: total=20.487s
+
+[2026-09-15 05:27:17] SNAPSHOT SAVED: id=151 | pages=2 | raw=163 | unique=163 | duplicates=0 | saved=163
+PAGES: page_1=8.833s(100) | page_2=9.606s(63)
+COLLECTOR: fetch_total=18.438s | dedup=0.0000s | normalize=0.0006s | total=18.439s
+DATABASE: connect=0.126s | create_snapshot=0.0017s | save_orders=0.064s | avg_order_save=0.390ms | transaction=0.067s | total=0.193s
+CYCLE: total=18.633s
+
+[2026-09-15 05:30:19] SNAPSHOT SAVED: id=152 | pages=2 | raw=161 | unique=161 | duplicates=0 | saved=161
+PAGES: page_1=9.793s(100) | page_2=10.610s(61)
+COLLECTOR: fetch_total=20.403s | dedup=0.0000s | normalize=0.0006s | total=20.404s
+DATABASE: connect=0.025s | create_snapshot=0.0016s | save_orders=0.048s | avg_order_save=0.295ms | transaction=0.050s | total=0.075s
+CYCLE: total=20.479s
+
+[2026-09-15 05:33:19] SNAPSHOT SAVED: id=153 | pages=2 | raw=161 | unique=161 | duplicates=0 | saved=161
+PAGES: page_1=9.713s(100) | page_2=10.616s(61)
+COLLECTOR: fetch_total=20.328s | dedup=0.0000s | normalize=0.0006s | total=20.329s
+DATABASE: connect=0.123s | create_snapshot=0.0016s | save_orders=0.062s | avg_order_save=0.387ms | transaction=0.066s | total=0.188s
+CYCLE: total=20.518s
+
+[2026-09-15 05:36:18] SNAPSHOT SAVED: id=154 | pages=2 | raw=164 | unique=164 | duplicates=0 | saved=164
+PAGES: page_1=8.654s(100) | page_2=10.647s(64)
+COLLECTOR: fetch_total=19.301s | dedup=0.0000s | normalize=0.0006s | total=19.302s
+DATABASE: connect=0.060s | create_snapshot=0.0016s | save_orders=0.060s | avg_order_save=0.368ms | transaction=0.064s | total=0.124s
+CYCLE: total=19.427s
+
+[2026-09-15 05:39:17] SNAPSHOT SAVED: id=155 | pages=2 | raw=164 | unique=164 | duplicates=0 | saved=164
+PAGES: page_1=8.648s(100) | page_2=9.644s(64)
+COLLECTOR: fetch_total=18.292s | dedup=0.0000s | normalize=0.0006s | total=18.293s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.053s | avg_order_save=0.321ms | transaction=0.056s | total=0.083s
+CYCLE: total=18.376s
+
+[2026-09-15 05:42:20] SNAPSHOT SAVED: id=156 | pages=2 | raw=164 | unique=164 | duplicates=0 | saved=164
+PAGES: page_1=10.650s(100) | page_2=10.733s(64)
+COLLECTOR: fetch_total=21.383s | dedup=0.0000s | normalize=0.0006s | total=21.384s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.044s | avg_order_save=0.271ms | transaction=0.047s | total=0.073s
+CYCLE: total=21.457s
+
+[2026-09-15 05:45:16] SNAPSHOT SAVED: id=157 | pages=2 | raw=162 | unique=162 | duplicates=0 | saved=162
+PAGES: page_1=8.659s(100) | page_2=8.647s(62)
+COLLECTOR: fetch_total=17.305s | dedup=0.0000s | normalize=0.0006s | total=17.306s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.052s | avg_order_save=0.323ms | transaction=0.055s | total=0.083s
+CYCLE: total=17.390s
+
+[2026-09-15 05:48:22] SNAPSHOT SAVED: id=158 | pages=2 | raw=152 | unique=152 | duplicates=0 | saved=152
+PAGES: page_1=12.812s(100) | page_2=10.571s(52)
+COLLECTOR: fetch_total=23.383s | dedup=0.0001s | normalize=0.0005s | total=23.384s
+DATABASE: connect=0.029s | create_snapshot=0.0017s | save_orders=0.050s | avg_order_save=0.328ms | transaction=0.053s | total=0.082s
+CYCLE: total=23.467s
+
+[2026-09-15 05:51:18] SNAPSHOT SAVED: id=159 | pages=2 | raw=150 | unique=149 | duplicates=1 | saved=149
+PAGES: page_1=8.639s(100) | page_2=10.600s(50)
+COLLECTOR: fetch_total=19.239s | dedup=0.0000s | normalize=0.0005s | total=19.240s
+DATABASE: connect=0.140s | create_snapshot=0.0016s | save_orders=0.058s | avg_order_save=0.392ms | transaction=0.061s | total=0.201s
+CYCLE: total=19.442s
+
+[2026-09-15 05:54:16] SNAPSHOT SAVED: id=160 | pages=2 | raw=149 | unique=147 | duplicates=2 | saved=147
+PAGES: page_1=8.645s(100) | page_2=8.603s(49)
+COLLECTOR: fetch_total=17.248s | dedup=0.0001s | normalize=0.0005s | total=17.249s
+DATABASE: connect=0.031s | create_snapshot=0.0018s | save_orders=0.048s | avg_order_save=0.327ms | transaction=0.051s | total=0.082s
+CYCLE: total=17.332s
+
+[2026-09-15 05:57:17] SNAPSHOT SAVED: id=161 | pages=2 | raw=149 | unique=149 | duplicates=0 | saved=149
+PAGES: page_1=9.779s(100) | page_2=8.681s(49)
+COLLECTOR: fetch_total=18.460s | dedup=0.0000s | normalize=0.0006s | total=18.461s
+DATABASE: connect=0.031s | create_snapshot=0.0016s | save_orders=0.059s | avg_order_save=0.396ms | transaction=0.062s | total=0.093s
+CYCLE: total=18.555s
+
+[2026-09-15 06:00:17] SNAPSHOT SAVED: id=162 | pages=2 | raw=151 | unique=150 | duplicates=1 | saved=150
+PAGES: page_1=8.646s(100) | page_2=9.740s(51)
+COLLECTOR: fetch_total=18.385s | dedup=0.0000s | normalize=0.0005s | total=18.386s
+DATABASE: connect=0.030s | create_snapshot=0.0017s | save_orders=0.049s | avg_order_save=0.329ms | transaction=0.052s | total=0.083s
+CYCLE: total=18.469s
+
+[2026-09-15 06:03:18] SNAPSHOT SAVED: id=163 | pages=2 | raw=144 | unique=144 | duplicates=0 | saved=144
+PAGES: page_1=9.674s(100) | page_2=9.569s(44)
+COLLECTOR: fetch_total=19.243s | dedup=0.0000s | normalize=0.0005s | total=19.244s
+DATABASE: connect=0.031s | create_snapshot=0.0017s | save_orders=0.050s | avg_order_save=0.348ms | transaction=0.053s | total=0.084s
+CYCLE: total=19.329s
+
+[2026-09-15 06:06:17] SNAPSHOT SAVED: id=164 | pages=2 | raw=146 | unique=146 | duplicates=0 | saved=146
+PAGES: page_1=9.716s(100) | page_2=8.579s(46)
+COLLECTOR: fetch_total=18.295s | dedup=0.0001s | normalize=0.0005s | total=18.296s
+DATABASE: connect=0.131s | create_snapshot=0.0016s | save_orders=0.052s | avg_order_save=0.359ms | transaction=0.055s | total=0.186s
+CYCLE: total=18.483s
+
+[2026-09-15 06:09:20] SNAPSHOT SAVED: id=165 | pages=2 | raw=146 | unique=144 | duplicates=2 | saved=144
+PAGES: page_1=10.832s(100) | page_2=10.572s(46)
+COLLECTOR: fetch_total=21.405s | dedup=0.0000s | normalize=0.0005s | total=21.406s
+DATABASE: connect=0.133s | create_snapshot=0.0019s | save_orders=0.051s | avg_order_save=0.354ms | transaction=0.054s | total=0.187s
+CYCLE: total=21.593s
+
+[2026-09-15 06:12:18] SNAPSHOT SAVED: id=166 | pages=2 | raw=153 | unique=153 | duplicates=0 | saved=153
+PAGES: page_1=10.172s(100) | page_2=9.588s(53)
+COLLECTOR: fetch_total=19.761s | dedup=0.0000s | normalize=0.0005s | total=19.761s
+DATABASE: connect=0.123s | create_snapshot=0.0016s | save_orders=0.062s | avg_order_save=0.404ms | transaction=0.065s | total=0.188s
+CYCLE: total=19.950s
+
+[2026-09-15 06:15:18] SNAPSHOT SAVED: id=167 | pages=2 | raw=146 | unique=146 | duplicates=0 | saved=146
+PAGES: page_1=9.643s(100) | page_2=9.576s(46)
+COLLECTOR: fetch_total=19.219s | dedup=0.0000s | normalize=0.0005s | total=19.220s
+DATABASE: connect=0.031s | create_snapshot=0.0016s | save_orders=0.035s | avg_order_save=0.237ms | transaction=0.037s | total=0.068s
+CYCLE: total=19.289s
+
+[2026-09-15 06:18:18] SNAPSHOT SAVED: id=168 | pages=2 | raw=151 | unique=151 | duplicates=0 | saved=151
+PAGES: page_1=10.634s(100) | page_2=8.595s(51)
+COLLECTOR: fetch_total=19.229s | dedup=0.0000s | normalize=0.0006s | total=19.230s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.057s | avg_order_save=0.376ms | transaction=0.060s | total=0.084s
+CYCLE: total=19.315s
+
+[2026-09-15 06:21:17] SNAPSHOT SAVED: id=169 | pages=2 | raw=155 | unique=154 | duplicates=1 | saved=154
+PAGES: page_1=8.761s(100) | page_2=9.560s(55)
+COLLECTOR: fetch_total=18.320s | dedup=0.0001s | normalize=0.0005s | total=18.321s
+DATABASE: connect=0.028s | create_snapshot=0.0017s | save_orders=0.060s | avg_order_save=0.388ms | transaction=0.063s | total=0.091s
+CYCLE: total=18.413s
+
+[2026-09-15 06:24:17] SNAPSHOT SAVED: id=170 | pages=2 | raw=150 | unique=150 | duplicates=0 | saved=150
+PAGES: page_1=9.726s(100) | page_2=8.562s(50)
+COLLECTOR: fetch_total=18.288s | dedup=0.0000s | normalize=0.0006s | total=18.289s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.040s | avg_order_save=0.264ms | transaction=0.042s | total=0.068s
+CYCLE: total=18.357s
+
+[2026-09-15 06:27:20] SNAPSHOT SAVED: id=171 | pages=2 | raw=147 | unique=146 | duplicates=1 | saved=146
+PAGES: page_1=10.682s(100) | page_2=10.579s(47)
+COLLECTOR: fetch_total=21.260s | dedup=0.0000s | normalize=0.0005s | total=21.261s
+DATABASE: connect=0.024s | create_snapshot=0.0019s | save_orders=0.042s | avg_order_save=0.285ms | transaction=0.045s | total=0.069s
+CYCLE: total=21.331s
+
+[2026-09-15 06:30:18] SNAPSHOT SAVED: id=172 | pages=2 | raw=144 | unique=144 | duplicates=0 | saved=144
+PAGES: page_1=8.648s(100) | page_2=10.760s(44)
+COLLECTOR: fetch_total=19.408s | dedup=0.0000s | normalize=0.0005s | total=19.409s
+DATABASE: connect=0.032s | create_snapshot=0.0016s | save_orders=0.038s | avg_order_save=0.265ms | transaction=0.041s | total=0.073s
+CYCLE: total=19.482s
+
+[2026-09-15 06:33:18] SNAPSHOT SAVED: id=173 | pages=2 | raw=149 | unique=148 | duplicates=1 | saved=148
+PAGES: page_1=9.175s(100) | page_2=10.726s(49)
+COLLECTOR: fetch_total=19.901s | dedup=0.0001s | normalize=0.0005s | total=19.902s
+DATABASE: connect=0.026s | create_snapshot=0.0019s | save_orders=0.046s | avg_order_save=0.313ms | transaction=0.050s | total=0.076s
+CYCLE: total=19.978s
+
+[2026-09-15 06:36:19] SNAPSHOT SAVED: id=174 | pages=2 | raw=151 | unique=151 | duplicates=0 | saved=151
+PAGES: page_1=9.812s(100) | page_2=10.602s(51)
+COLLECTOR: fetch_total=20.414s | dedup=0.0000s | normalize=0.0014s | total=20.416s
+DATABASE: connect=0.025s | create_snapshot=0.0016s | save_orders=0.042s | avg_order_save=0.281ms | transaction=0.046s | total=0.071s
+CYCLE: total=20.487s
+
+[2026-09-15 06:39:17] SNAPSHOT SAVED: id=175 | pages=2 | raw=155 | unique=154 | duplicates=1 | saved=154
+PAGES: page_1=8.839s(100) | page_2=9.560s(55)
+COLLECTOR: fetch_total=18.399s | dedup=0.0001s | normalize=0.0006s | total=18.400s
+DATABASE: connect=0.024s | create_snapshot=0.0017s | save_orders=0.039s | avg_order_save=0.256ms | transaction=0.042s | total=0.066s
+CYCLE: total=18.467s
+
+[2026-09-15 06:42:19] SNAPSHOT SAVED: id=176 | pages=2 | raw=158 | unique=158 | duplicates=0 | saved=158
+PAGES: page_1=9.798s(100) | page_2=10.713s(58)
+COLLECTOR: fetch_total=20.511s | dedup=0.0000s | normalize=0.0005s | total=20.512s
+DATABASE: connect=0.026s | create_snapshot=0.0017s | save_orders=0.049s | avg_order_save=0.308ms | transaction=0.052s | total=0.079s
+CYCLE: total=20.591s
+
+[2026-09-15 06:45:17] SNAPSHOT SAVED: id=177 | pages=2 | raw=161 | unique=161 | duplicates=0 | saved=161
+PAGES: page_1=9.678s(100) | page_2=8.670s(61)
+COLLECTOR: fetch_total=18.347s | dedup=0.0000s | normalize=0.0006s | total=18.348s
+DATABASE: connect=0.032s | create_snapshot=0.0016s | save_orders=0.047s | avg_order_save=0.292ms | transaction=0.050s | total=0.082s
+CYCLE: total=18.431s
+
+[2026-09-15 06:48:16] SNAPSHOT SAVED: id=178 | pages=2 | raw=161 | unique=160 | duplicates=1 | saved=160
+PAGES: page_1=8.625s(100) | page_2=8.835s(61)
+COLLECTOR: fetch_total=17.460s | dedup=0.0001s | normalize=0.0006s | total=17.461s
+DATABASE: connect=0.024s | create_snapshot=0.0020s | save_orders=0.040s | avg_order_save=0.252ms | transaction=0.044s | total=0.068s
+CYCLE: total=17.530s
+
+[2026-09-15 06:51:20] SNAPSHOT SAVED: id=179 | pages=2 | raw=161 | unique=161 | duplicates=0 | saved=161
+PAGES: page_1=10.743s(100) | page_2=10.593s(61)
+COLLECTOR: fetch_total=21.336s | dedup=0.0001s | normalize=0.0006s | total=21.337s
+DATABASE: connect=0.059s | create_snapshot=0.0064s | save_orders=0.059s | avg_order_save=0.364ms | transaction=0.067s | total=0.125s
+CYCLE: total=21.463s
+
+[2026-09-15 06:54:19] SNAPSHOT SAVED: id=180 | pages=2 | raw=160 | unique=159 | duplicates=1 | saved=159
+PAGES: page_1=10.690s(100) | page_2=9.623s(60)
+COLLECTOR: fetch_total=20.313s | dedup=0.0000s | normalize=0.0006s | total=20.314s
+DATABASE: connect=0.031s | create_snapshot=0.0016s | save_orders=0.043s | avg_order_save=0.270ms | transaction=0.046s | total=0.077s
+CYCLE: total=20.392s
+
+[2026-09-15 06:57:18] SNAPSHOT SAVED: id=181 | pages=2 | raw=159 | unique=157 | duplicates=2 | saved=157
+PAGES: page_1=9.641s(100) | page_2=9.556s(59)
+COLLECTOR: fetch_total=19.197s | dedup=0.0001s | normalize=0.0005s | total=19.198s
+DATABASE: connect=0.033s | create_snapshot=0.0017s | save_orders=0.047s | avg_order_save=0.297ms | transaction=0.050s | total=0.083s
+CYCLE: total=19.282s
+
+[2026-09-15 07:00:19] SNAPSHOT SAVED: id=182 | pages=2 | raw=161 | unique=160 | duplicates=1 | saved=160
+PAGES: page_1=10.718s(100) | page_2=9.612s(61)
+COLLECTOR: fetch_total=20.330s | dedup=0.0001s | normalize=0.0006s | total=20.331s
+DATABASE: connect=0.130s | create_snapshot=0.0016s | save_orders=0.050s | avg_order_save=0.310ms | transaction=0.052s | total=0.183s
+CYCLE: total=20.515s
+
+[2026-09-15 07:03:18] SNAPSHOT SAVED: id=183 | pages=2 | raw=163 | unique=163 | duplicates=0 | saved=163
+PAGES: page_1=10.768s(100) | page_2=8.630s(63)
+COLLECTOR: fetch_total=19.398s | dedup=0.0000s | normalize=0.0006s | total=19.399s
+DATABASE: connect=0.139s | create_snapshot=0.0016s | save_orders=0.055s | avg_order_save=0.336ms | transaction=0.058s | total=0.197s
+CYCLE: total=19.596s
+
+[2026-09-15 07:06:17] SNAPSHOT SAVED: id=184 | pages=2 | raw=158 | unique=158 | duplicates=0 | saved=158
+PAGES: page_1=8.629s(100) | page_2=9.738s(58)
+COLLECTOR: fetch_total=18.366s | dedup=0.0000s | normalize=0.0005s | total=18.367s
+DATABASE: connect=0.141s | create_snapshot=0.0016s | save_orders=0.047s | avg_order_save=0.299ms | transaction=0.051s | total=0.192s
+CYCLE: total=18.560s
+
+[2026-09-15 07:09:19] SNAPSHOT SAVED: id=185 | pages=2 | raw=165 | unique=163 | duplicates=2 | saved=163
+PAGES: page_1=10.649s(100) | page_2=9.617s(65)
+COLLECTOR: fetch_total=20.266s | dedup=0.0000s | normalize=0.0006s | total=20.267s
+DATABASE: connect=0.028s | create_snapshot=0.0017s | save_orders=0.054s | avg_order_save=0.332ms | transaction=0.057s | total=0.085s
+CYCLE: total=20.353s
+
+[2026-09-15 07:12:20] SNAPSHOT SAVED: id=186 | pages=2 | raw=163 | unique=163 | duplicates=0 | saved=163
+PAGES: page_1=10.685s(100) | page_2=10.609s(63)
+COLLECTOR: fetch_total=21.294s | dedup=0.0000s | normalize=0.0006s | total=21.295s
+DATABASE: connect=0.026s | create_snapshot=0.0017s | save_orders=0.060s | avg_order_save=0.367ms | transaction=0.063s | total=0.090s
+CYCLE: total=21.385s
+
+[2026-09-15 07:15:17] SNAPSHOT SAVED: id=187 | pages=2 | raw=166 | unique=163 | duplicates=3 | saved=163
+PAGES: page_1=9.692s(100) | page_2=8.742s(66)
+COLLECTOR: fetch_total=18.434s | dedup=0.0000s | normalize=0.0006s | total=18.435s
+DATABASE: connect=0.026s | create_snapshot=0.0016s | save_orders=0.037s | avg_order_save=0.226ms | transaction=0.040s | total=0.066s
+CYCLE: total=18.501s
+
+[2026-09-15 07:18:18] SNAPSHOT SAVED: id=188 | pages=2 | raw=176 | unique=175 | duplicates=1 | saved=175
+PAGES: page_1=8.649s(100) | page_2=10.660s(76)
+COLLECTOR: fetch_total=19.309s | dedup=0.0001s | normalize=0.0006s | total=19.310s
+DATABASE: connect=0.128s | create_snapshot=0.0017s | save_orders=0.067s | avg_order_save=0.382ms | transaction=0.070s | total=0.199s
+CYCLE: total=19.510s
+
+[2026-09-15 07:21:18] SNAPSHOT SAVED: id=189 | pages=2 | raw=167 | unique=167 | duplicates=0 | saved=167
+PAGES: page_1=9.818s(100) | page_2=9.627s(67)
+COLLECTOR: fetch_total=19.446s | dedup=0.0001s | normalize=0.0005s | total=19.447s
+DATABASE: connect=0.027s | create_snapshot=0.0017s | save_orders=0.055s | avg_order_save=0.330ms | transaction=0.059s | total=0.086s
+CYCLE: total=19.533s
+
+[2026-09-15 07:24:18] SNAPSHOT SAVED: id=190 | pages=2 | raw=177 | unique=175 | duplicates=2 | saved=175
+PAGES: page_1=10.766s(100) | page_2=8.608s(77)
+COLLECTOR: fetch_total=19.375s | dedup=0.0001s | normalize=0.0006s | total=19.376s
+DATABASE: connect=0.029s | create_snapshot=0.0016s | save_orders=0.040s | avg_order_save=0.231ms | transaction=0.044s | total=0.072s
+CYCLE: total=19.449s
+
+[2026-09-15 07:27:16] SNAPSHOT SAVED: id=191 | pages=2 | raw=178 | unique=178 | duplicates=0 | saved=178
+PAGES: page_1=8.720s(100) | page_2=8.693s(78)
+COLLECTOR: fetch_total=17.413s | dedup=0.0001s | normalize=0.0006s | total=17.414s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.064s | avg_order_save=0.357ms | transaction=0.067s | total=0.095s
+CYCLE: total=17.510s
+
+[2026-09-15 07:30:19] SNAPSHOT SAVED: id=192 | pages=2 | raw=179 | unique=177 | duplicates=2 | saved=177
+PAGES: page_1=9.820s(100) | page_2=10.627s(79)
+COLLECTOR: fetch_total=20.448s | dedup=0.0001s | normalize=0.0006s | total=20.449s
+DATABASE: connect=0.024s | create_snapshot=0.0017s | save_orders=0.046s | avg_order_save=0.259ms | transaction=0.049s | total=0.073s
+CYCLE: total=20.523s
+
+[2026-09-15 07:33:18] SNAPSHOT SAVED: id=193 | pages=2 | raw=180 | unique=180 | duplicates=0 | saved=180
+PAGES: page_1=9.665s(100) | page_2=9.645s(80)
+COLLECTOR: fetch_total=19.310s | dedup=0.0001s | normalize=0.0006s | total=19.311s
+DATABASE: connect=0.024s | create_snapshot=0.0016s | save_orders=0.054s | avg_order_save=0.298ms | transaction=0.058s | total=0.082s
+CYCLE: total=19.394s
+
+[2026-09-15 07:36:17] SNAPSHOT SAVED: id=194 | pages=2 | raw=177 | unique=177 | duplicates=0 | saved=177
+PAGES: page_1=8.779s(100) | page_2=9.634s(77)
+COLLECTOR: fetch_total=18.413s | dedup=0.0000s | normalize=0.0006s | total=18.414s
+DATABASE: connect=0.027s | create_snapshot=0.0016s | save_orders=0.050s | avg_order_save=0.284ms | transaction=0.054s | total=0.080s
+CYCLE: total=18.495s
+
+[2026-09-15 07:39:18] SNAPSHOT SAVED: id=195 | pages=2 | raw=179 | unique=179 | duplicates=0 | saved=179
+PAGES: page_1=8.951s(100) | page_2=10.607s(79)
+COLLECTOR: fetch_total=19.558s | dedup=0.0002s | normalize=0.0012s | total=19.560s
+DATABASE: connect=0.135s | create_snapshot=0.0017s | save_orders=0.058s | avg_order_save=0.326ms | transaction=0.061s | total=0.196s
+CYCLE: total=19.756s
+
+[2026-09-15 07:42:19] SNAPSHOT SAVED: id=196 | pages=2 | raw=186 | unique=185 | duplicates=1 | saved=185
+PAGES: page_1=9.789s(100) | page_2=10.654s(86)
+COLLECTOR: fetch_total=20.443s | dedup=0.0002s | normalize=0.0014s | total=20.445s
+DATABASE: connect=0.034s | create_snapshot=0.0016s | save_orders=0.069s | avg_order_save=0.374ms | transaction=0.072s | total=0.106s
+CYCLE: total=20.551s
+
+[2026-09-15 07:45:19] SNAPSHOT SAVED: id=197 | pages=2 | raw=189 | unique=189 | duplicates=0 | saved=189
+PAGES: page_1=9.668s(100) | page_2=10.645s(89)
+COLLECTOR: fetch_total=20.312s | dedup=0.0001s | normalize=0.0007s | total=20.313s
+DATABASE: connect=0.031s | create_snapshot=0.0016s | save_orders=0.047s | avg_order_save=0.246ms | transaction=0.049s | total=0.080s
+CYCLE: total=20.395s
+
+[2026-09-15 07:48:19] SNAPSHOT SAVED: id=198 | pages=2 | raw=184 | unique=182 | duplicates=2 | saved=182
+PAGES: page_1=10.712s(100) | page_2=9.616s(84)
+COLLECTOR: fetch_total=20.328s | dedup=0.0001s | normalize=0.0006s | total=20.329s
+DATABASE: connect=0.130s | create_snapshot=0.0017s | save_orders=0.061s | avg_order_save=0.333ms | transaction=0.065s | total=0.195s
+CYCLE: total=20.524s
+
+[2026-09-15 07:51:18] SNAPSHOT SAVED: id=199 | pages=2 | raw=185 | unique=185 | duplicates=0 | saved=185
+PAGES: page_1=10.667s(100) | page_2=9.118s(85)
+COLLECTOR: fetch_total=19.785s | dedup=0.0000s | normalize=0.0006s | total=19.786s
+DATABASE: connect=0.024s | create_snapshot=0.0017s | save_orders=0.070s | avg_order_save=0.379ms | transaction=0.073s | total=0.098s
+CYCLE: total=19.884s
+
+[2026-09-15 07:54:20] SNAPSHOT SAVED: id=200 | pages=2 | raw=188 | unique=187 | duplicates=1 | saved=187
+PAGES: page_1=10.811s(100) | page_2=10.706s(88)
+COLLECTOR: fetch_total=21.516s | dedup=0.0001s | normalize=0.0006s | total=21.517s
+DATABASE: connect=0.029s | create_snapshot=0.0019s | save_orders=0.068s | avg_order_save=0.365ms | transaction=0.072s | total=0.101s
+CYCLE: total=21.619s
+
+[2026-09-15 07:57:18] SNAPSHOT SAVED: id=201 | pages=2 | raw=185 | unique=185 | duplicates=0 | saved=185
+PAGES: page_1=10.849s(100) | page_2=8.617s(85)
+COLLECTOR: fetch_total=19.466s | dedup=0.0001s | normalize=0.0009s | total=19.467s
+DATABASE: connect=0.131s | create_snapshot=0.0017s | save_orders=0.071s | avg_order_save=0.382ms | transaction=0.075s | total=0.206s
+CYCLE: total=19.674s
+
+[2026-09-15 08:00:18] SNAPSHOT SAVED: id=202 | pages=2 | raw=185 | unique=185 | duplicates=0 | saved=185
+PAGES: page_1=10.766s(100) | page_2=8.781s(85)
+COLLECTOR: fetch_total=19.547s | dedup=0.0001s | normalize=0.0006s | total=19.548s
+DATABASE: connect=0.137s | create_snapshot=0.0016s | save_orders=0.049s | avg_order_save=0.265ms | transaction=0.052s | total=0.189s
+CYCLE: total=19.738s
+
+[2026-09-15 08:03:19] SNAPSHOT SAVED: id=203 | pages=2 | raw=183 | unique=181 | duplicates=2 | saved=181
+PAGES: page_1=9.690s(100) | page_2=10.882s(83)
+COLLECTOR: fetch_total=20.572s | dedup=0.0000s | normalize=0.0006s | total=20.573s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.069s | avg_order_save=0.384ms | transaction=0.073s | total=0.101s
+CYCLE: total=20.674s
+
+[2026-09-15 08:06:21] SNAPSHOT SAVED: id=204 | pages=2 | raw=192 | unique=191 | duplicates=1 | saved=191
+PAGES: page_1=12.678s(100) | page_2=9.921s(92)
+COLLECTOR: fetch_total=22.599s | dedup=0.0001s | normalize=0.0007s | total=22.600s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.077s | avg_order_save=0.405ms | transaction=0.081s | total=0.106s
+CYCLE: total=22.707s
+
+[2026-09-15 08:09:19] SNAPSHOT SAVED: id=205 | pages=2 | raw=189 | unique=189 | duplicates=0 | saved=189
+PAGES: page_1=9.234s(100) | page_2=11.162s(89)
+COLLECTOR: fetch_total=20.396s | dedup=0.0000s | normalize=0.0007s | total=20.397s
+DATABASE: connect=0.024s | create_snapshot=0.0016s | save_orders=0.053s | avg_order_save=0.283ms | transaction=0.056s | total=0.080s
+CYCLE: total=20.478s
+
+[2026-09-15 08:12:20] SNAPSHOT SAVED: id=206 | pages=2 | raw=189 | unique=189 | duplicates=0 | saved=189
+PAGES: page_1=11.687s(100) | page_2=9.611s(89)
+COLLECTOR: fetch_total=21.298s | dedup=0.0001s | normalize=0.0007s | total=21.299s
+DATABASE: connect=0.130s | create_snapshot=0.0017s | save_orders=0.058s | avg_order_save=0.307ms | transaction=0.062s | total=0.192s
+CYCLE: total=21.492s
+
+[2026-09-15 08:15:17] SNAPSHOT SAVED: id=207 | pages=2 | raw=193 | unique=191 | duplicates=2 | saved=191
+PAGES: page_1=9.928s(100) | page_2=8.646s(93)
+COLLECTOR: fetch_total=18.574s | dedup=0.0001s | normalize=0.0007s | total=18.575s
+DATABASE: connect=0.032s | create_snapshot=0.0016s | save_orders=0.050s | avg_order_save=0.262ms | transaction=0.053s | total=0.085s
+CYCLE: total=18.661s
+
+[2026-09-15 08:18:16] SNAPSHOT SAVED: id=208 | pages=2 | raw=188 | unique=188 | duplicates=0 | saved=188
+PAGES: page_1=8.945s(100) | page_2=8.645s(88)
+COLLECTOR: fetch_total=17.591s | dedup=0.0001s | normalize=0.0007s | total=17.592s
+DATABASE: connect=0.141s | create_snapshot=0.0017s | save_orders=0.067s | avg_order_save=0.356ms | transaction=0.070s | total=0.211s
+CYCLE: total=17.803s
+
+[2026-09-15 08:21:17] SNAPSHOT SAVED: id=209 | pages=2 | raw=188 | unique=187 | duplicates=1 | saved=187
+PAGES: page_1=8.790s(100) | page_2=9.648s(88)
+COLLECTOR: fetch_total=18.437s | dedup=0.0001s | normalize=0.0006s | total=18.438s
+DATABASE: connect=0.139s | create_snapshot=0.0017s | save_orders=0.057s | avg_order_save=0.304ms | transaction=0.060s | total=0.199s
+CYCLE: total=18.638s
+
+[2026-09-15 08:24:18] SNAPSHOT SAVED: id=210 | pages=2 | raw=195 | unique=195 | duplicates=0 | saved=195
+PAGES: page_1=8.726s(100) | page_2=10.691s(95)
+COLLECTOR: fetch_total=19.417s | dedup=0.0001s | normalize=0.0007s | total=19.418s
+DATABASE: connect=0.123s | create_snapshot=0.0016s | save_orders=0.061s | avg_order_save=0.315ms | transaction=0.064s | total=0.188s
+CYCLE: total=19.606s
+
+[2026-09-15 08:27:19] SNAPSHOT SAVED: id=211 | pages=2 | raw=197 | unique=196 | duplicates=1 | saved=196
+PAGES: page_1=10.691s(100) | page_2=9.704s(97)
+COLLECTOR: fetch_total=20.395s | dedup=0.0000s | normalize=0.0007s | total=20.396s
+DATABASE: connect=0.030s | create_snapshot=0.0017s | save_orders=0.069s | avg_order_save=0.350ms | transaction=0.072s | total=0.102s
+CYCLE: total=20.499s
+
+[2026-09-15 08:30:18] SNAPSHOT SAVED: id=212 | pages=2 | raw=198 | unique=198 | duplicates=0 | saved=198
+PAGES: page_1=10.963s(100) | page_2=9.059s(98)
+COLLECTOR: fetch_total=20.022s | dedup=0.0000s | normalize=0.0007s | total=20.023s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.055s | avg_order_save=0.277ms | transaction=0.058s | total=0.083s
+CYCLE: total=20.106s
+
+[2026-09-15 08:33:29] SNAPSHOT SAVED: id=213 | pages=3 | raw=204 | unique=203 | duplicates=1 | saved=203
+PAGES: page_1=10.649s(100) | page_2=10.675s(100) | page_3=9.540s(4)
+COLLECTOR: fetch_total=30.864s | dedup=0.0001s | normalize=0.0007s | total=30.866s
+DATABASE: connect=0.128s | create_snapshot=0.0016s | save_orders=0.075s | avg_order_save=0.369ms | transaction=0.079s | total=0.206s
+CYCLE: total=31.073s
+
+[2026-09-15 08:36:17] SNAPSHOT SAVED: id=214 | pages=2 | raw=194 | unique=194 | duplicates=0 | saved=194
+PAGES: page_1=9.665s(100) | page_2=8.646s(94)
+COLLECTOR: fetch_total=18.311s | dedup=0.0000s | normalize=0.0007s | total=18.312s
+DATABASE: connect=0.031s | create_snapshot=0.0045s | save_orders=0.069s | avg_order_save=0.358ms | transaction=0.076s | total=0.107s
+CYCLE: total=18.420s
+
+[2026-09-15 08:39:17] SNAPSHOT SAVED: id=215 | pages=2 | raw=199 | unique=198 | duplicates=1 | saved=198
+PAGES: page_1=8.657s(100) | page_2=10.203s(99)
+COLLECTOR: fetch_total=18.860s | dedup=0.0000s | normalize=0.0007s | total=18.862s
+DATABASE: connect=0.025s | create_snapshot=0.0017s | save_orders=0.048s | avg_order_save=0.244ms | transaction=0.051s | total=0.076s
+CYCLE: total=18.938s
+
+[2026-09-15 08:42:27] SNAPSHOT SAVED: id=216 | pages=3 | raw=203 | unique=203 | duplicates=0 | saved=203
+PAGES: page_1=8.932s(100) | page_2=9.635s(100) | page_3=9.538s(3)
+COLLECTOR: fetch_total=28.105s | dedup=0.0000s | normalize=0.0007s | total=28.106s
+DATABASE: connect=0.140s | create_snapshot=0.0016s | save_orders=0.072s | avg_order_save=0.352ms | transaction=0.075s | total=0.215s
+CYCLE: total=28.322s
+
+[2026-09-15 08:45:25] SNAPSHOT SAVED: id=217 | pages=3 | raw=206 | unique=204 | duplicates=2 | saved=204
+PAGES: page_1=8.651s(100) | page_2=9.816s(100) | page_3=8.536s(6)
+COLLECTOR: fetch_total=27.003s | dedup=0.0001s | normalize=0.0007s | total=27.005s
+DATABASE: connect=0.031s | create_snapshot=0.0016s | save_orders=0.071s | avg_order_save=0.348ms | transaction=0.074s | total=0.105s
+CYCLE: total=27.110s
+
+[2026-09-15 08:48:29] SNAPSHOT SAVED: id=218 | pages=3 | raw=207 | unique=207 | duplicates=0 | saved=207
+PAGES: page_1=10.719s(100) | page_2=10.767s(100) | page_3=9.525s(7)
+COLLECTOR: fetch_total=31.012s | dedup=0.0000s | normalize=0.0007s | total=31.013s
+DATABASE: connect=0.034s | create_snapshot=0.0016s | save_orders=0.055s | avg_order_save=0.265ms | transaction=0.059s | total=0.093s
+CYCLE: total=31.107s
+
+[2026-09-15 08:51:26] SNAPSHOT SAVED: id=219 | pages=3 | raw=207 | unique=206 | duplicates=1 | saved=206
+PAGES: page_1=9.662s(100) | page_2=9.648s(100) | page_3=8.550s(7)
+COLLECTOR: fetch_total=27.860s | dedup=0.0001s | normalize=0.0007s | total=27.861s
+DATABASE: connect=0.033s | create_snapshot=0.0016s | save_orders=0.072s | avg_order_save=0.349ms | transaction=0.075s | total=0.108s
+CYCLE: total=27.970s
+
+[2026-09-15 08:54:26] SNAPSHOT SAVED: id=220 | pages=3 | raw=207 | unique=207 | duplicates=0 | saved=207
+PAGES: page_1=9.630s(100) | page_2=8.661s(100) | page_3=8.929s(7)
+COLLECTOR: fetch_total=27.220s | dedup=0.0001s | normalize=0.0007s | total=27.221s
+DATABASE: connect=0.027s | create_snapshot=0.0017s | save_orders=0.055s | avg_order_save=0.264ms | transaction=0.057s | total=0.084s
+CYCLE: total=27.306s
+
+[2026-09-15 08:57:29] SNAPSHOT SAVED: id=221 | pages=3 | raw=216 | unique=215 | duplicates=1 | saved=215
+PAGES: page_1=10.727s(100) | page_2=10.632s(100) | page_3=9.537s(16)
+COLLECTOR: fetch_total=30.896s | dedup=0.0001s | normalize=0.0010s | total=30.897s
+DATABASE: connect=0.025s | create_snapshot=0.0016s | save_orders=0.080s | avg_order_save=0.371ms | transaction=0.084s | total=0.109s
+CYCLE: total=31.006s
+
+[2026-09-15 09:00:29] SNAPSHOT SAVED: id=222 | pages=3 | raw=218 | unique=218 | duplicates=0 | saved=218
+PAGES: page_1=10.795s(100) | page_2=10.659s(100) | page_3=8.569s(18)
+COLLECTOR: fetch_total=30.023s | dedup=0.0001s | normalize=0.0007s | total=30.025s
+DATABASE: connect=0.137s | create_snapshot=0.0017s | save_orders=0.069s | avg_order_save=0.316ms | transaction=0.072s | total=0.209s
+CYCLE: total=30.234s
+
+[2026-09-15 09:03:26] SNAPSHOT SAVED: id=223 | pages=3 | raw=212 | unique=212 | duplicates=0 | saved=212
+PAGES: page_1=9.687s(100) | page_2=9.663s(100) | page_3=8.596s(12)
+COLLECTOR: fetch_total=27.946s | dedup=0.0000s | normalize=0.0007s | total=27.947s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.074s | avg_order_save=0.351ms | transaction=0.078s | total=0.106s
+CYCLE: total=28.054s
+
+[2026-09-15 09:06:27] SNAPSHOT SAVED: id=224 | pages=3 | raw=210 | unique=210 | duplicates=0 | saved=210
+PAGES: page_1=8.746s(100) | page_2=10.963s(100) | page_3=8.574s(10)
+COLLECTOR: fetch_total=28.283s | dedup=0.0001s | normalize=0.0007s | total=28.284s
+DATABASE: connect=0.027s | create_snapshot=0.0017s | save_orders=0.067s | avg_order_save=0.318ms | transaction=0.070s | total=0.098s
+CYCLE: total=28.383s
+
+[2026-09-15 09:09:29] SNAPSHOT SAVED: id=225 | pages=3 | raw=214 | unique=211 | duplicates=3 | saved=211
+PAGES: page_1=10.638s(100) | page_2=9.655s(100) | page_3=10.564s(14)
+COLLECTOR: fetch_total=30.858s | dedup=0.0001s | normalize=0.0007s | total=30.859s
+DATABASE: connect=0.138s | create_snapshot=0.0016s | save_orders=0.072s | avg_order_save=0.343ms | transaction=0.075s | total=0.213s
+CYCLE: total=31.073s
+
+[2026-09-15 09:12:27] SNAPSHOT SAVED: id=226 | pages=3 | raw=217 | unique=217 | duplicates=0 | saved=217
+PAGES: page_1=8.969s(100) | page_2=8.683s(100) | page_3=10.523s(17)
+COLLECTOR: fetch_total=28.175s | dedup=0.0001s | normalize=0.0007s | total=28.177s
+DATABASE: connect=0.027s | create_snapshot=0.0018s | save_orders=0.073s | avg_order_save=0.338ms | transaction=0.077s | total=0.105s
+CYCLE: total=28.282s
+
+[2026-09-15 09:15:27] SNAPSHOT SAVED: id=227 | pages=3 | raw=219 | unique=219 | duplicates=0 | saved=219
+PAGES: page_1=8.783s(100) | page_2=8.900s(100) | page_3=10.541s(19)
+COLLECTOR: fetch_total=28.225s | dedup=0.0001s | normalize=0.0007s | total=28.226s
+DATABASE: connect=0.141s | create_snapshot=0.0016s | save_orders=0.070s | avg_order_save=0.318ms | transaction=0.073s | total=0.214s
+CYCLE: total=28.440s
+
+[2026-09-15 09:18:30] SNAPSHOT SAVED: id=228 | pages=3 | raw=219 | unique=217 | duplicates=2 | saved=217
+PAGES: page_1=10.644s(100) | page_2=10.643s(100) | page_3=10.550s(19)
+COLLECTOR: fetch_total=31.837s | dedup=0.0001s | normalize=0.0007s | total=31.838s
+DATABASE: connect=0.028s | create_snapshot=0.0019s | save_orders=0.080s | avg_order_save=0.369ms | transaction=0.085s | total=0.113s
+CYCLE: total=31.952s
+
+[2026-09-15 09:21:28] SNAPSHOT SAVED: id=229 | pages=3 | raw=229 | unique=228 | duplicates=1 | saved=228
+PAGES: page_1=10.673s(100) | page_2=10.682s(100) | page_3=8.567s(29)
+COLLECTOR: fetch_total=29.922s | dedup=0.0001s | normalize=0.0007s | total=29.923s
+DATABASE: connect=0.033s | create_snapshot=0.0016s | save_orders=0.069s | avg_order_save=0.304ms | transaction=0.073s | total=0.106s
+CYCLE: total=30.030s
+
+[2026-09-15 09:24:27] SNAPSHOT SAVED: id=230 | pages=3 | raw=221 | unique=221 | duplicates=0 | saved=221
+PAGES: page_1=9.663s(100) | page_2=8.771s(100) | page_3=10.545s(21)
+COLLECTOR: fetch_total=28.979s | dedup=0.0001s | normalize=0.0007s | total=28.980s
+DATABASE: connect=0.030s | create_snapshot=0.0016s | save_orders=0.050s | avg_order_save=0.228ms | transaction=0.053s | total=0.083s
+CYCLE: total=29.064s
+
+[2026-09-15 09:27:28] SNAPSHOT SAVED: id=231 | pages=3 | raw=229 | unique=227 | duplicates=2 | saved=227
+PAGES: page_1=8.685s(100) | page_2=10.729s(100) | page_3=10.602s(29)
+COLLECTOR: fetch_total=30.016s | dedup=0.0001s | normalize=0.0008s | total=30.018s
+DATABASE: connect=0.032s | create_snapshot=0.0016s | save_orders=0.079s | avg_order_save=0.349ms | transaction=0.083s | total=0.115s
+CYCLE: total=30.134s
+
+[2026-09-15 09:30:28] SNAPSHOT SAVED: id=232 | pages=3 | raw=223 | unique=221 | duplicates=2 | saved=221
+PAGES: page_1=10.734s(100) | page_2=8.652s(100) | page_3=10.550s(23)
+COLLECTOR: fetch_total=29.936s | dedup=0.0001s | normalize=0.0008s | total=29.938s
+DATABASE: connect=0.128s | create_snapshot=0.0016s | save_orders=0.070s | avg_order_save=0.317ms | transaction=0.073s | total=0.202s
+CYCLE: total=30.140s
+
+[2026-09-15 09:33:29] SNAPSHOT SAVED: id=233 | pages=3 | raw=234 | unique=228 | duplicates=6 | saved=228
+PAGES: page_1=8.650s(100) | page_2=10.676s(100) | page_3=11.033s(34)
+COLLECTOR: fetch_total=30.358s | dedup=0.0001s | normalize=0.0008s | total=30.360s
+DATABASE: connect=0.133s | create_snapshot=0.0016s | save_orders=0.079s | avg_order_save=0.345ms | transaction=0.082s | total=0.215s
+CYCLE: total=30.576s
+
+[2026-09-15 09:36:28] SNAPSHOT SAVED: id=234 | pages=3 | raw=234 | unique=234 | duplicates=0 | saved=234
+PAGES: page_1=8.669s(100) | page_2=10.676s(100) | page_3=9.984s(34)
+COLLECTOR: fetch_total=29.329s | dedup=0.0001s | normalize=0.0011s | total=29.330s
+DATABASE: connect=0.027s | create_snapshot=0.0016s | save_orders=0.060s | avg_order_save=0.257ms | transaction=0.063s | total=0.090s
+CYCLE: total=29.421s
+
+[2026-09-15 09:39:27] SNAPSHOT SAVED: id=235 | pages=3 | raw=242 | unique=237 | duplicates=5 | saved=237
+PAGES: page_1=10.296s(100) | page_2=8.960s(100) | page_3=9.648s(42)
+COLLECTOR: fetch_total=28.904s | dedup=0.0001s | normalize=0.0011s | total=28.905s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.081s | avg_order_save=0.343ms | transaction=0.084s | total=0.113s
+CYCLE: total=29.019s
+
+[2026-09-15 09:42:29] SNAPSHOT SAVED: id=236 | pages=3 | raw=242 | unique=242 | duplicates=0 | saved=242
+PAGES: page_1=9.815s(100) | page_2=9.752s(100) | page_3=10.586s(42)
+COLLECTOR: fetch_total=30.153s | dedup=0.0001s | normalize=0.0011s | total=30.155s
+DATABASE: connect=0.033s | create_snapshot=0.0016s | save_orders=0.077s | avg_order_save=0.319ms | transaction=0.081s | total=0.114s
+CYCLE: total=30.269s
+
+[2026-09-15 09:45:28] SNAPSHOT SAVED: id=237 | pages=3 | raw=255 | unique=255 | duplicates=0 | saved=255
+PAGES: page_1=9.658s(100) | page_2=9.658s(100) | page_3=10.547s(55)
+COLLECTOR: fetch_total=29.863s | dedup=0.0001s | normalize=0.0011s | total=29.865s
+DATABASE: connect=0.024s | create_snapshot=0.0018s | save_orders=0.063s | avg_order_save=0.247ms | transaction=0.066s | total=0.090s
+CYCLE: total=29.956s
+
+[2026-09-15 09:48:27] SNAPSHOT SAVED: id=238 | pages=3 | raw=255 | unique=254 | duplicates=1 | saved=254
+PAGES: page_1=10.665s(100) | page_2=9.648s(100) | page_3=8.567s(55)
+COLLECTOR: fetch_total=28.880s | dedup=0.0001s | normalize=0.0012s | total=28.881s
+DATABASE: connect=0.075s | create_snapshot=0.0059s | save_orders=0.091s | avg_order_save=0.359ms | transaction=0.099s | total=0.174s
+CYCLE: total=29.056s
+
+[2026-09-15 09:51:29] SNAPSHOT SAVED: id=239 | pages=3 | raw=254 | unique=254 | duplicates=0 | saved=254
+PAGES: page_1=9.746s(100) | page_2=9.759s(100) | page_3=10.596s(54)
+COLLECTOR: fetch_total=30.100s | dedup=0.0001s | normalize=0.0012s | total=30.102s
+DATABASE: connect=0.027s | create_snapshot=0.0016s | save_orders=0.090s | avg_order_save=0.353ms | transaction=0.092s | total=0.120s
+CYCLE: total=30.222s
+
+[2026-09-15 09:54:27] SNAPSHOT SAVED: id=240 | pages=3 | raw=263 | unique=263 | duplicates=0 | saved=263
+PAGES: page_1=8.650s(100) | page_2=10.142s(100) | page_3=9.698s(63)
+COLLECTOR: fetch_total=28.490s | dedup=0.0001s | normalize=0.0008s | total=28.492s
+DATABASE: connect=0.028s | create_snapshot=0.0016s | save_orders=0.071s | avg_order_save=0.270ms | transaction=0.074s | total=0.102s
+CYCLE: total=28.594s
+
+[2026-09-15 09:57:28] SNAPSHOT SAVED: id=241 | pages=3 | raw=261 | unique=260 | duplicates=1 | saved=260
+PAGES: page_1=9.789s(100) | page_2=9.613s(100) | page_3=9.689s(61)
+COLLECTOR: fetch_total=29.090s | dedup=0.0001s | normalize=0.0008s | total=29.092s
+DATABASE: connect=0.027s | create_snapshot=0.0017s | save_orders=0.067s | avg_order_save=0.259ms | transaction=0.071s | total=0.098s
+CYCLE: total=29.190s
+
+[2026-09-15 10:00:28] SNAPSHOT SAVED: id=242 | pages=3 | raw=269 | unique=268 | duplicates=1 | saved=268
+PAGES: page_1=9.834s(100) | page_2=9.667s(100) | page_3=9.761s(69)
+COLLECTOR: fetch_total=29.262s | dedup=0.0001s | normalize=0.0008s | total=29.263s
+DATABASE: connect=0.140s | create_snapshot=0.0016s | save_orders=0.090s | avg_order_save=0.337ms | transaction=0.093s | total=0.233s
+CYCLE: total=29.497s
+
+[2026-09-15 10:03:28] SNAPSHOT SAVED: id=243 | pages=3 | raw=274 | unique=271 | duplicates=3 | saved=271
+PAGES: page_1=9.939s(100) | page_2=10.631s(100) | page_3=8.761s(74)
+COLLECTOR: fetch_total=29.330s | dedup=0.0001s | normalize=0.0008s | total=29.331s
+DATABASE: connect=0.027s | create_snapshot=0.0017s | save_orders=0.072s | avg_order_save=0.266ms | transaction=0.076s | total=0.103s
+CYCLE: total=29.436s
+
+[2026-09-15 10:06:28] SNAPSHOT SAVED: id=244 | pages=3 | raw=272 | unique=272 | duplicates=0 | saved=272
+PAGES: page_1=8.955s(100) | page_2=10.660s(100) | page_3=9.760s(72)
+COLLECTOR: fetch_total=29.375s | dedup=0.0001s | normalize=0.0008s | total=29.376s
+DATABASE: connect=0.030s | create_snapshot=0.0017s | save_orders=0.097s | avg_order_save=0.356ms | transaction=0.101s | total=0.131s
+CYCLE: total=29.507s
+
+[2026-09-15 10:09:26] SNAPSHOT SAVED: id=245 | pages=3 | raw=281 | unique=278 | duplicates=3 | saved=278
+PAGES: page_1=8.867s(100) | page_2=9.666s(100) | page_3=8.653s(81)
+COLLECTOR: fetch_total=27.186s | dedup=0.0001s | normalize=0.0008s | total=27.188s
+DATABASE: connect=0.031s | create_snapshot=0.0016s | save_orders=0.088s | avg_order_save=0.315ms | transaction=0.091s | total=0.122s
+CYCLE: total=27.310s
+
+[2026-09-15 11:42:19] SNAPSHOT SAVED: id=246 | pages=4 | raw=326 | unique=324 | duplicates=2 | saved=324
+REFERENCE: USD/RUB=84.49560 | quote_time=2026-09-15T07:40:00+00:00 | quote_age_at_fetch=100s | source=REFRESHED | time=0.420s
+PAGES: page_1=8.705s(100) | page_2=10.679s(100) | page_3=9.762s(100) | page_4=9.548s(26)
+COLLECTOR: fetch_total=38.694s | dedup=0.0001s | normalize=0.0012s | total=38.696s
+DATABASE: connect=0.080s | create_snapshot=0.0160s | save_orders=0.121s | avg_order_save=0.374ms | transaction=0.141s | total=0.220s
+CYCLE: total=39.338s
+

@@ -1,0 +1,20 @@
+[2026-09-15 15:11:01] MATCH: VaSa | P2P=85.00 | USD/RUB=84.60239 | edge=-0.470% | target=-2.000%
+order_id=2088963220797009920 | limits=1000-90000 | orders=444 | rate=100.0% | raw=100 | qualified_400_99=54 | quote_age=121s | reference=REFRESHED
+GATE TEST: 400/99=VaSa 85.00 | 500/98=PUDGE 86.30 | qualified_500_98=54 | advantage=+1.506% | same_order=NO
+PERF: reference_total=0.620s | reference_key_read=0.0050s | reference_http=0.613s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.670s | bybit_fetch=9.669s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.292s
+
+[2026-09-15 15:12:00] MATCH: VaSa | P2P=85.00 | USD/RUB=84.60239 | edge=-0.470% | target=-2.000%
+order_id=2088963220797009920 | limits=1000-90000 | orders=444 | rate=100.0% | raw=100 | qualified_400_99=54 | quote_age=181s | reference=CACHED
+GATE TEST: 400/99=VaSa 85.00 | 500/98=Vavegate 86.59 | qualified_500_98=54 | advantage=+1.836% | same_order=NO
+PERF: reference_total=0.000s | reference_key_read=0.0000s | reference_http=0.000s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.774s | bybit_fetch=9.773s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=9.774s
+
+[2026-09-15 15:13:01] MATCH: VaSa | P2P=85.00 | USD/RUB=84.60239 | edge=-0.470% | target=-2.000%
+order_id=2088963220797009920 | limits=1000-90000 | orders=444 | rate=100.0% | raw=100 | qualified_400_99=54 | quote_age=242s | reference=CACHED
+GATE TEST: 400/99=VaSa 85.00 | 500/98=Vavegate 86.59 | qualified_500_98=54 | advantage=+1.836% | same_order=NO
+PERF: reference_total=0.000s | reference_key_read=0.0000s | reference_http=0.000s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=10.718s | bybit_fetch=10.717s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.718s
+
+[2026-09-15 15:14:01] MATCH: VaSa | P2P=85.00 | USD/RUB=84.60154 | edge=-0.471% | target=-2.000%
+order_id=2088963220797009920 | limits=1000-90000 | orders=444 | rate=100.0% | raw=100 | qualified_400_99=55 | quote_age=121s | reference=REFRESHED
+GATE TEST: 400/99=VaSa 85.00 | 500/98=Zanetti500 86.78 | qualified_500_98=54 | advantage=+2.051% | same_order=NO
+PERF: reference_total=0.524s | reference_key_read=0.0001s | reference_http=0.522s | reference_json=0.0000s | reference_parse=0.0000s | bybit_total=9.739s | bybit_fetch=9.739s | normalize=0.0003s | filter=0.0000s | sort=0.0000s | cycle=10.265s
+

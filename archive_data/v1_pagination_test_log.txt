@@ -1,0 +1,416 @@
+[2026-09-15 12:35:38]
+PAGE 1: raw=100 | request=10.764s
+PAGE 1 BEST: GlobalChange1 | 86.90 RUB | order_id=2088205438218428416 | orders=1849 | rate=100.0% | limits=10000-100000
+PAGE 2: raw=87 | request=8.961s
+PAGE 1+2 BEST: GlobalChange1 | 86.90 RUB | order_id=2088205438218428416 | orders=1849 | rate=100.0% | limits=10000-100000
+RESULT: SAME BEST
+CYCLE: 19.732s
+
+[2026-09-15 12:38:58]
+PAGE 1: raw=100 | request=10.757s
+PAGE 1 BEST: Malboro_Gold | 86.10 RUB | order_id=1943704767093440512 | orders=674 | rate=100.0% | limits=10000-15830
+PAGE 2: raw=89 | request=9.759s
+PAGE 1+2 BEST: Malboro_Gold | 86.10 RUB | order_id=1943704767093440512 | orders=674 | rate=100.0% | limits=10000-15830
+RESULT: SAME BEST
+CYCLE: 20.524s
+
+[2026-09-15 12:42:18]
+PAGE 1: raw=100 | request=8.778s
+PAGE 1 BEST: Malboro_Gold | 86.10 RUB | order_id=1943704767093440512 | orders=674 | rate=100.0% | limits=10000-15830
+PAGE 2: raw=89 | request=10.632s
+PAGE 1+2 BEST: Malboro_Gold | 86.10 RUB | order_id=1943704767093440512 | orders=674 | rate=100.0% | limits=10000-15830
+RESULT: SAME BEST
+CYCLE: 19.417s
+
+[2026-09-15 12:45:38]
+PAGE 1: raw=100 | request=11.025s
+PAGE 1 BEST: MakeItQuick | 86.49 RUB | order_id=2099762641854128128 | orders=836 | rate=100.0% | limits=5000-37519
+PAGE 2: raw=89 | request=8.672s
+PAGE 1+2 BEST: MakeItQuick | 86.49 RUB | order_id=2099762641854128128 | orders=836 | rate=100.0% | limits=5000-37519
+RESULT: SAME BEST
+CYCLE: 19.705s
+
+[2026-09-15 12:48:57]
+PAGE 1: raw=100 | request=9.771s
+PAGE 1 BEST: __Atlantis__ | 86.80 RUB | order_id=2099779971074088960 | orders=1555 | rate=100.0% | limits=500-139180
+PAGE 2: raw=89 | request=8.801s
+PAGE 1+2 BEST: __Atlantis__ | 86.80 RUB | order_id=2099779971074088960 | orders=1555 | rate=100.0% | limits=500-139180
+RESULT: SAME BEST
+CYCLE: 18.579s
+
+[2026-09-15 12:52:16]
+PAGE 1: raw=100 | request=9.736s
+PAGE 1 BEST: Rayan_FX | 86.73 RUB | order_id=2067631638274297856 | orders=11433 | rate=99.0% | limits=4000-35000
+PAGE 2: raw=89 | request=8.734s
+PAGE 1+2 BEST: Rayan_FX | 86.73 RUB | order_id=2067631638274297856 | orders=11433 | rate=99.0% | limits=4000-35000
+RESULT: SAME BEST
+CYCLE: 18.477s
+
+[2026-09-15 12:55:34]
+PAGE 1: raw=100 | request=8.779s
+PAGE 1 BEST: TACOS | 86.72 RUB | order_id=2095534080146399232 | orders=1120 | rate=98.0% | limits=10000-76076
+PAGE 2: raw=83 | request=9.634s
+PAGE 1+2 BEST: TACOS | 86.72 RUB | order_id=2095534080146399232 | orders=1120 | rate=98.0% | limits=10000-76076
+RESULT: SAME BEST
+CYCLE: 18.420s
+
+[2026-09-15 12:58:53]
+PAGE 1: raw=100 | request=9.831s
+PAGE 1 BEST: AlexoCrypt | 86.45 RUB | order_id=2086895678564343808 | orders=1656 | rate=100.0% | limits=5000-10000
+PAGE 2: raw=86 | request=9.724s
+PAGE 1+2 BEST: AlexoCrypt | 86.45 RUB | order_id=2086895678564343808 | orders=1656 | rate=100.0% | limits=5000-10000
+RESULT: SAME BEST
+CYCLE: 19.563s
+
+[2026-09-15 13:02:12]
+PAGE 1: raw=100 | request=8.729s
+PAGE 1 BEST: МенялОо | 86.40 RUB | order_id=2094539147167330304 | orders=772 | rate=100.0% | limits=6000-110000
+PAGE 2: raw=95 | request=9.697s
+PAGE 1+2 BEST: МенялОо | 86.40 RUB | order_id=2094539147167330304 | orders=772 | rate=100.0% | limits=6000-110000
+RESULT: SAME BEST
+CYCLE: 18.434s
+
+[2026-09-15 13:05:31]
+PAGE 1: raw=100 | request=9.233s
+PAGE 1 BEST: B_T_C-Change | 85.90 RUB | order_id=1780903194012585984 | orders=1095 | rate=100.0% | limits=10000-42000
+PAGE 2: raw=100 | request=9.729s
+PAGE 1+2 BEST: B_T_C-Change | 85.90 RUB | order_id=1780903194012585984 | orders=1095 | rate=100.0% | limits=10000-42000
+RESULT: SAME BEST
+CYCLE: 18.969s
+
+[2026-09-15 13:08:50]
+PAGE 1: raw=100 | request=9.797s
+PAGE 1 BEST: Khuja_Crypto | 86.10 RUB | order_id=2049167596900446208 | orders=1441 | rate=100.0% | limits=10000-15800
+PAGE 2: raw=100 | request=8.711s
+PAGE 1+2 BEST: Khuja_Crypto | 86.10 RUB | order_id=2049167596900446208 | orders=1441 | rate=100.0% | limits=10000-15800
+RESULT: SAME BEST
+CYCLE: 18.517s
+
+[2026-09-15 13:12:08]
+PAGE 1: raw=100 | request=9.687s
+PAGE 1 BEST: AlexoCrypt | 86.54 RUB | order_id=2086895678564343808 | orders=1656 | rate=100.0% | limits=5000-10000
+PAGE 2: raw=94 | request=9.655s
+PAGE 1+2 BEST: AlexoCrypt | 86.54 RUB | order_id=2086895678564343808 | orders=1656 | rate=100.0% | limits=5000-10000
+RESULT: SAME BEST
+CYCLE: 19.352s
+
+[2026-09-15 13:15:28]
+PAGE 1: raw=100 | request=9.775s
+PAGE 1 BEST: 𖣔E𝔁𝓡𝓤𝓑❷❹𖣔 | 84.50 RUB | order_id=2067224918745432064 | orders=2608 | rate=100.0% | limits=5000-637844
+PAGE 2: raw=93 | request=10.640s
+PAGE 1+2 BEST: 𖣔E𝔁𝓡𝓤𝓑❷❹𖣔 | 84.50 RUB | order_id=2067224918745432064 | orders=2608 | rate=100.0% | limits=5000-637844
+RESULT: SAME BEST
+CYCLE: 20.423s
+
+[2026-09-15 13:18:48]
+PAGE 1: raw=100 | request=9.079s
+PAGE 1 BEST: Rayan_FX | 86.73 RUB | order_id=2067631638274297856 | orders=11439 | rate=99.0% | limits=4000-30000
+PAGE 2: raw=91 | request=10.718s
+PAGE 1+2 BEST: Rayan_FX | 86.73 RUB | order_id=2067631638274297856 | orders=11439 | rate=99.0% | limits=4000-30000
+RESULT: SAME BEST
+CYCLE: 19.804s
+
+[2026-09-15 13:22:08]
+PAGE 1: raw=100 | request=8.772s
+PAGE 1 BEST: Nikita5555 | 86.28 RUB | order_id=2098336096794607616 | orders=512 | rate=100.0% | limits=5000-95000
+PAGE 2: raw=87 | request=8.830s
+PAGE 1+2 BEST: Nikita5555 | 86.28 RUB | order_id=2098336096794607616 | orders=512 | rate=100.0% | limits=5000-95000
+RESULT: SAME BEST
+CYCLE: 17.609s
+
+[2026-09-15 13:25:25]
+PAGE 1: raw=100 | request=8.835s
+PAGE 1 BEST: МаниГерл | 86.50 RUB | order_id=2099757510273695744 | orders=934 | rate=100.0% | limits=500-31364
+PAGE 2: raw=88 | request=9.791s
+PAGE 1+2 BEST: МаниГерл | 86.50 RUB | order_id=2099757510273695744 | orders=934 | rate=100.0% | limits=500-31364
+RESULT: SAME BEST
+CYCLE: 18.636s
+
+[2026-09-15 13:28:44]
+PAGE 1: raw=100 | request=10.803s
+PAGE 1 BEST: Rayan_FX | 86.73 RUB | order_id=2067631638274297856 | orders=11443 | rate=99.0% | limits=4000-26320
+PAGE 2: raw=90 | request=9.673s
+PAGE 1+2 BEST: Rayan_FX | 86.73 RUB | order_id=2067631638274297856 | orders=11443 | rate=99.0% | limits=4000-26320
+RESULT: SAME BEST
+CYCLE: 20.484s
+
+[2026-09-15 13:32:05]
+PAGE 1: raw=100 | request=8.948s
+PAGE 1 BEST: МенялОо | 86.90 RUB | order_id=2094539147167330304 | orders=779 | rate=100.0% | limits=8000-35000
+PAGE 2: raw=88 | request=8.758s
+PAGE 1+2 BEST: МенялОо | 86.90 RUB | order_id=2094539147167330304 | orders=779 | rate=100.0% | limits=8000-35000
+RESULT: SAME BEST
+CYCLE: 17.713s
+
+[2026-09-15 13:35:22]
+PAGE 1: raw=100 | request=8.668s
+PAGE 1 BEST: Nikita5555 | 86.28 RUB | order_id=2098336096794607616 | orders=515 | rate=100.0% | limits=5000-95000
+PAGE 2: raw=81 | request=10.803s
+PAGE 1+2 BEST: Nikita5555 | 86.28 RUB | order_id=2098336096794607616 | orders=515 | rate=100.0% | limits=5000-95000
+RESULT: SAME BEST
+CYCLE: 19.479s
+
+[2026-09-15 13:38:42]
+PAGE 1: raw=100 | request=9.807s
+PAGE 1 BEST: Nikita5555 | 86.28 RUB | order_id=2098336096794607616 | orders=516 | rate=100.0% | limits=5000-95000
+PAGE 2: raw=77 | request=9.695s
+PAGE 1+2 BEST: Nikita5555 | 86.28 RUB | order_id=2098336096794607616 | orders=516 | rate=100.0% | limits=5000-95000
+RESULT: SAME BEST
+CYCLE: 19.510s
+
+[2026-09-15 13:42:01]
+PAGE 1: raw=100 | request=8.738s
+PAGE 1 BEST: Nikita5555 | 86.28 RUB | order_id=2098336096794607616 | orders=516 | rate=100.0% | limits=5000-76571
+PAGE 2: raw=78 | request=9.656s
+PAGE 1+2 BEST: Nikita5555 | 86.28 RUB | order_id=2098336096794607616 | orders=516 | rate=100.0% | limits=5000-76571
+RESULT: SAME BEST
+CYCLE: 18.401s
+
+[2026-09-15 13:45:20]
+PAGE 1: raw=100 | request=10.660s
+PAGE 1 BEST: MakeItQuick | 86.49 RUB | order_id=2099762641854128128 | orders=839 | rate=100.0% | limits=1000-15000
+PAGE 2: raw=77 | request=8.729s
+PAGE 1+2 BEST: MakeItQuick | 86.49 RUB | order_id=2099762641854128128 | orders=839 | rate=100.0% | limits=1000-15000
+RESULT: SAME BEST
+CYCLE: 19.397s
+
+[2026-09-15 13:48:39]
+PAGE 1: raw=100 | request=10.802s
+PAGE 1 BEST: FAST_OBMEN777 | 86.40 RUB | order_id=2099766874242408448 | orders=1217 | rate=99.0% | limits=10000-60000
+PAGE 2: raw=80 | request=10.955s
+PAGE 1+2 BEST: FAST_OBMEN777 | 86.40 RUB | order_id=2099766874242408448 | orders=1217 | rate=99.0% | limits=10000-60000
+RESULT: SAME BEST
+CYCLE: 21.764s
+
+[2026-09-15 13:52:01]
+PAGE 1: raw=100 | request=8.763s
+PAGE 1 BEST: GaZZZ | 86.48 RUB | order_id=2030937823414775808 | orders=649 | rate=100.0% | limits=1000-21620
+PAGE 2: raw=83 | request=9.989s
+PAGE 1+2 BEST: GaZZZ | 86.48 RUB | order_id=2030937823414775808 | orders=649 | rate=100.0% | limits=1000-21620
+RESULT: SAME BEST
+CYCLE: 18.760s
+
+[2026-09-15 13:55:20]
+PAGE 1: raw=100 | request=10.640s
+PAGE 1 BEST: Ra331 | 86.45 RUB | order_id=2096589592182554624 | orders=818 | rate=100.0% | limits=10000-20000
+PAGE 2: raw=87 | request=10.654s
+PAGE 1+2 BEST: Ra331 | 86.45 RUB | order_id=2096589592182554624 | orders=818 | rate=100.0% | limits=10000-20000
+RESULT: SAME BEST
+CYCLE: 21.301s
+
+[2026-09-15 13:58:41]
+PAGE 1: raw=100 | request=8.645s
+PAGE 1 BEST: Ra331 | 86.45 RUB | order_id=2096589592182554624 | orders=818 | rate=100.0% | limits=10000-13280
+PAGE 2: raw=84 | request=9.660s
+PAGE 1+2 BEST: Ra331 | 86.45 RUB | order_id=2096589592182554624 | orders=818 | rate=100.0% | limits=10000-13280
+RESULT: SAME BEST
+CYCLE: 18.312s
+
+[2026-09-15 14:01:59]
+PAGE 1: raw=100 | request=9.828s
+PAGE 1 BEST: Easy-money | 86.80 RUB | order_id=2099361910925557760 | orders=592 | rate=100.0% | limits=10000-12350
+PAGE 2: raw=83 | request=9.959s
+PAGE 1+2 BEST: Easy-money | 86.80 RUB | order_id=2099361910925557760 | orders=592 | rate=100.0% | limits=10000-12350
+RESULT: SAME BEST
+CYCLE: 19.794s
+
+[2026-09-15 14:05:19]
+PAGE 1: raw=100 | request=9.816s
+PAGE 1 BEST: FAST_OBMEN777 | 86.60 RUB | order_id=2099766874242408448 | orders=1219 | rate=99.0% | limits=10000-70000
+PAGE 2: raw=89 | request=8.723s
+PAGE 1+2 BEST: FAST_OBMEN777 | 86.60 RUB | order_id=2099766874242408448 | orders=1219 | rate=99.0% | limits=10000-70000
+RESULT: SAME BEST
+CYCLE: 18.546s
+
+[2026-09-15 14:08:37]
+PAGE 1: raw=100 | request=8.932s
+PAGE 1 BEST: NexTag_Obmen | 86.75 RUB | order_id=2087431576994795520 | orders=657 | rate=98.0% | limits=10000-11712
+PAGE 2: raw=93 | request=11.196s
+PAGE 1+2 BEST: NexTag_Obmen | 86.75 RUB | order_id=2087431576994795520 | orders=657 | rate=98.0% | limits=10000-11712
+RESULT: SAME BEST
+CYCLE: 20.136s
+
+[2026-09-15 14:11:58]
+PAGE 1: raw=100 | request=8.687s
+PAGE 1 BEST: МенялОо | 86.40 RUB | order_id=2094539147167330304 | orders=784 | rate=100.0% | limits=8000-20000
+PAGE 2: raw=97 | request=10.926s
+PAGE 1+2 BEST: МенялОо | 86.40 RUB | order_id=2094539147167330304 | orders=784 | rate=100.0% | limits=8000-20000
+RESULT: SAME BEST
+CYCLE: 19.621s
+
+[2026-09-15 14:15:17]
+PAGE 1: raw=100 | request=9.720s
+PAGE 1 BEST: Ra331 | 86.45 RUB | order_id=2096589592182554624 | orders=819 | rate=100.0% | limits=10000-17290
+PAGE 2: raw=97 | request=10.798s
+PAGE 1+2 BEST: Ra331 | 86.45 RUB | order_id=2096589592182554624 | orders=819 | rate=100.0% | limits=10000-17290
+RESULT: SAME BEST
+CYCLE: 20.525s
+
+[2026-09-15 14:18:38]
+PAGE 1: raw=100 | request=10.686s
+PAGE 1 BEST: GaZZZ | 86.39 RUB | order_id=2030937823414775808 | orders=652 | rate=100.0% | limits=1000-17278
+PAGE 2: raw=100 | request=8.644s
+PAGE 1+2 BEST: GaZZZ | 86.39 RUB | order_id=2030937823414775808 | orders=652 | rate=100.0% | limits=1000-17278
+RESULT: SAME BEST
+CYCLE: 19.338s
+
+[2026-09-15 14:21:57]
+PAGE 1: raw=100 | request=8.815s
+PAGE 1 BEST: MakeItQuick | 86.65 RUB | order_id=2099762641854128128 | orders=839 | rate=100.0% | limits=5000-72042
+PAGE 2: raw=96 | request=8.641s
+PAGE 1+2 BEST: MakeItQuick | 86.65 RUB | order_id=2099762641854128128 | orders=839 | rate=100.0% | limits=5000-72042
+RESULT: SAME BEST
+CYCLE: 17.464s
+
+[2026-09-15 14:25:15]
+PAGE 1: raw=100 | request=8.944s
+PAGE 1 BEST: MakeItQuick | 86.65 RUB | order_id=2099762641854128128 | orders=840 | rate=100.0% | limits=5000-42992
+PAGE 2: raw=94 | request=10.907s
+PAGE 1+2 BEST: MakeItQuick | 86.65 RUB | order_id=2099762641854128128 | orders=840 | rate=100.0% | limits=5000-42992
+RESULT: SAME BEST
+CYCLE: 19.858s
+
+[2026-09-15 14:28:34]
+PAGE 1: raw=100 | request=10.729s
+PAGE 1 BEST: alteNchick:) | 86.70 RUB | order_id=2099076488160870400 | orders=833 | rate=99.0% | limits=1700-47090
+PAGE 2: raw=94 | request=8.634s
+PAGE 1+2 BEST: alteNchick:) | 86.70 RUB | order_id=2099076488160870400 | orders=833 | rate=99.0% | limits=1700-47090
+RESULT: SAME BEST
+CYCLE: 19.370s
+
+[2026-09-15 14:31:54]
+PAGE 1: raw=100 | request=10.940s
+PAGE 1 BEST: B_T_C-Change | 85.99 RUB | order_id=1780903194012585984 | orders=1097 | rate=100.0% | limits=10000-40000
+PAGE 2: raw=96 | request=8.638s
+PAGE 1+2 BEST: B_T_C-Change | 85.99 RUB | order_id=1780903194012585984 | orders=1097 | rate=100.0% | limits=10000-40000
+RESULT: SAME BEST
+CYCLE: 19.585s
+
+[2026-09-15 14:35:13]
+PAGE 1: raw=100 | request=9.763s
+PAGE 1 BEST: AlexoCrypt | 86.60 RUB | order_id=2086895678564343808 | orders=1658 | rate=100.0% | limits=5000-20000
+PAGE 2: raw=96 | request=8.752s
+PAGE 1+2 BEST: AlexoCrypt | 86.60 RUB | order_id=2086895678564343808 | orders=1658 | rate=100.0% | limits=5000-20000
+RESULT: SAME BEST
+CYCLE: 18.522s
+
+[2026-09-15 14:38:32]
+PAGE 1: raw=100 | request=8.784s
+PAGE 1 BEST: alteNchick:) | 86.70 RUB | order_id=2099076488160870400 | orders=834 | rate=99.0% | limits=1700-32400
+PAGE 2: raw=85 | request=10.786s
+PAGE 1+2 BEST: alteNchick:) | 86.70 RUB | order_id=2099076488160870400 | orders=834 | rate=99.0% | limits=1700-32400
+RESULT: SAME BEST
+CYCLE: 19.577s
+
+[2026-09-15 14:41:52]
+PAGE 1: raw=100 | request=10.625s
+PAGE 1 BEST: МенялОо | 86.60 RUB | order_id=2094539147167330304 | orders=787 | rate=100.0% | limits=8000-50000
+PAGE 2: raw=85 | request=8.668s
+PAGE 1+2 BEST: МенялОо | 86.60 RUB | order_id=2094539147167330304 | orders=787 | rate=100.0% | limits=8000-50000
+RESULT: SAME BEST
+CYCLE: 19.300s
+
+[2026-09-15 14:45:11]
+PAGE 1: raw=100 | request=9.920s
+PAGE 1 BEST: GaZZZ | 86.55 RUB | order_id=2030937823414775808 | orders=653 | rate=100.0% | limits=1000-25965
+PAGE 2: raw=92 | request=9.769s
+PAGE 1+2 BEST: GaZZZ | 86.55 RUB | order_id=2030937823414775808 | orders=653 | rate=100.0% | limits=1000-25965
+RESULT: SAME BEST
+CYCLE: 19.697s
+
+[2026-09-15 14:48:31]
+PAGE 1: raw=100 | request=10.769s
+PAGE 1 BEST: GaZZZ | 86.49 RUB | order_id=2030937823414775808 | orders=653 | rate=100.0% | limits=1000-25947
+PAGE 2: raw=94 | request=10.646s
+PAGE 1+2 BEST: GaZZZ | 86.49 RUB | order_id=2030937823414775808 | orders=653 | rate=100.0% | limits=1000-25947
+RESULT: SAME BEST
+CYCLE: 21.422s
+
+[2026-09-15 14:51:52]
+PAGE 1: raw=100 | request=10.716s
+PAGE 1 BEST: GaZZZ | 86.49 RUB | order_id=2030937823414775808 | orders=653 | rate=100.0% | limits=1000-15568
+PAGE 2: raw=100 | request=10.662s
+PAGE 1+2 BEST: GaZZZ | 86.49 RUB | order_id=2030937823414775808 | orders=653 | rate=100.0% | limits=1000-15568
+RESULT: SAME BEST
+CYCLE: 21.386s
+
+[2026-09-15 14:55:13]
+PAGE 1: raw=100 | request=9.726s
+PAGE 1 BEST: МенялОо | 86.50 RUB | order_id=2094539147167330304 | orders=789 | rate=100.0% | limits=10000-50000
+PAGE 2: raw=94 | request=10.763s
+PAGE 1+2 BEST: МенялОо | 86.50 RUB | order_id=2094539147167330304 | orders=789 | rate=100.0% | limits=10000-50000
+RESULT: SAME BEST
+CYCLE: 20.497s
+
+[2026-09-15 14:58:34]
+PAGE 1: raw=100 | request=9.746s
+PAGE 1 BEST: Федос | 87.00 RUB | order_id=2078022792829407232 | orders=2239 | rate=99.0% | limits=5000-20000
+PAGE 2: raw=87 | request=8.645s
+PAGE 1+2 BEST: Федос | 87.00 RUB | order_id=2078022792829407232 | orders=2239 | rate=99.0% | limits=5000-20000
+RESULT: SAME BEST
+CYCLE: 18.398s
+
+[2026-09-15 15:01:52]
+PAGE 1: raw=100 | request=10.646s
+PAGE 1 BEST: Ra331 | 86.60 RUB | order_id=2096589592182554624 | orders=823 | rate=100.0% | limits=1000-10000
+PAGE 2: raw=92 | request=9.626s
+PAGE 1+2 BEST: Ra331 | 86.60 RUB | order_id=2096589592182554624 | orders=823 | rate=100.0% | limits=1000-10000
+RESULT: SAME BEST
+CYCLE: 20.280s
+
+[2026-09-15 15:05:12]
+PAGE 1: raw=100 | request=9.778s
+PAGE 1 BEST: Ra331 | 86.60 RUB | order_id=2096589592182554624 | orders=823 | rate=100.0% | limits=1000-10573
+PAGE 2: raw=100 | request=9.675s
+PAGE 1+2 BEST: Ra331 | 86.60 RUB | order_id=2096589592182554624 | orders=823 | rate=100.0% | limits=1000-10573
+RESULT: SAME BEST
+CYCLE: 19.461s
+
+[2026-09-15 15:08:32]
+PAGE 1: raw=100 | request=10.198s
+PAGE 1 BEST: PUDGE | 86.30 RUB | order_id=2061132739220205568 | orders=700 | rate=100.0% | limits=10000-10000
+PAGE 2: raw=100 | request=9.641s
+PAGE 1+2 BEST: PUDGE | 86.30 RUB | order_id=2061132739220205568 | orders=700 | rate=100.0% | limits=10000-10000
+RESULT: SAME BEST
+CYCLE: 19.849s
+
+[2026-09-15 15:11:52]
+PAGE 1: raw=100 | request=8.734s
+PAGE 1 BEST: Vavegate | 86.59 RUB | order_id=2099784225092923392 | orders=981 | rate=99.0% | limits=10000-10000
+PAGE 2: raw=100 | request=10.659s
+PAGE 1+2 BEST: Vavegate | 86.59 RUB | order_id=2099784225092923392 | orders=981 | rate=99.0% | limits=10000-10000
+RESULT: SAME BEST
+CYCLE: 19.402s
+
+[2026-09-15 15:15:11]
+PAGE 1: raw=100 | request=10.726s
+PAGE 1 BEST: kryptoNal | 86.80 RUB | order_id=2088688874301616128 | orders=1219 | rate=99.0% | limits=10000-37000
+PAGE 2: raw=97 | request=10.924s
+PAGE 1+2 BEST: kryptoNal | 86.80 RUB | order_id=2088688874301616128 | orders=1219 | rate=99.0% | limits=10000-37000
+RESULT: SAME BEST
+CYCLE: 21.657s
+
+[2026-09-15 15:18:33]
+PAGE 1: raw=100 | request=8.627s
+PAGE 1 BEST: TULSA62 | 86.80 RUB | order_id=2077773280409145344 | orders=681 | rate=100.0% | limits=500-30000
+PAGE 2: raw=92 | request=8.711s
+PAGE 1+2 BEST: TULSA62 | 86.80 RUB | order_id=2077773280409145344 | orders=681 | rate=100.0% | limits=500-30000
+RESULT: SAME BEST
+CYCLE: 17.346s
+
+[2026-09-15 15:21:50]
+PAGE 1: raw=100 | request=9.968s
+PAGE 1 BEST: PesBarboskin | 86.26 RUB | order_id=2090803041034285056 | orders=869 | rate=100.0% | limits=10000-11480
+PAGE 2: raw=97 | request=9.972s
+PAGE 1+2 BEST: PesBarboskin | 86.26 RUB | order_id=2090803041034285056 | orders=869 | rate=100.0% | limits=10000-11480
+RESULT: SAME BEST
+CYCLE: 19.947s
+
+[2026-09-15 15:25:10]
+PAGE 1: raw=100 | request=9.659s
+PAGE 1 BEST: Frundel | 86.77 RUB | order_id=2099645950582751232 | orders=625 | rate=99.0% | limits=10000-12200
+PAGE 2: raw=99 | request=9.716s
+PAGE 1+2 BEST: Frundel | 86.77 RUB | order_id=2099645950582751232 | orders=625 | rate=99.0% | limits=10000-12200
+RESULT: SAME BEST
+CYCLE: 19.383s
+

@@ -8,8 +8,12 @@ CREATE TABLE IF NOT EXISTS market_snapshots (
     currency_id TEXT NOT NULL,
     side TEXT NOT NULL,
 
-    order_count INTEGER,
-    collection_duration_seconds NUMERIC(10, 3)
+    order_count INTEGER NOT NULL,
+    collection_duration_seconds NUMERIC(10, 3) NOT NULL,
+
+    reference_rate NUMERIC(18, 8),
+    reference_quote_timestamp TIMESTAMPTZ,
+    reference_fetched_at TIMESTAMPTZ
 );
 
 
@@ -32,6 +36,7 @@ CREATE TABLE IF NOT EXISTS market_orders (
 
     last_quantity NUMERIC(18, 4),
     quantity NUMERIC(18, 4),
+    frozen_quantity NUMERIC(18, 4),
     executed_quantity NUMERIC(18, 4),
 
     latest_release_time BIGINT,
